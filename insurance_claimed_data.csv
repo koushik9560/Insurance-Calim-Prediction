@@ -1,0 +1,3001 @@
+Age,Agency_Code,Type,Commision,Channel,Duration,Sales,Destination,Claimed,Product_Name,Claimed_Amount
+48,C2B,Airlines,0.7,Online,7,2.51,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,34,20,ASIA,No,Customised Plan,0
+39,CWT,Travel Agency,5.94,Online,3,9.9,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,4,26,ASIA,No,Cancellation Plan,0
+33,JZI,Airlines,6.3,Online,53,18,ASIA,No,Bronze Plan,0
+45,JZI,Airlines,15.75,Online,8,45,ASIA,Yes,Bronze Plan,4812
+61,CWT,Travel Agency,35.64,Online,30,59.4,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,16,80,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,19,14,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,42,43,ASIA,No,Cancellation Plan,0
+37,C2B,Airlines,46.96,Online,368,187.85,ASIA,Yes,Silver Plan,5272
+43,C2B,Airlines,15.88,Online,77,63.5,ASIA,Yes,Silver Plan,5055
+36,EPX,Travel Agency,0,Online,23,110,EUROPE,No,Customised Plan,0
+52,C2B,Airlines,5.88,Online,7,23.5,ASIA,Yes,Bronze Plan,4876
+31,CWT,Travel Agency,23.76,Online,21,39.6,ASIA,No,Customised Plan,0
+39,C2B,Airlines,54,Online,366,216,ASIA,Yes,Silver Plan,5324
+36,EPX,Travel Agency,0,Online,2,42,ASIA,No,Customised Plan,0
+45,CWT,Travel Agency,59.4,Online,40,99,Americas,No,Customised Plan,0
+23,JZI,Airlines,18.2,Online,33,52,ASIA,No,Bronze Plan,0
+29,EPX,Travel Agency,0,Online,66,32,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,71,62,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,17.25,Online,8,69,ASIA,No,Gold Plan,0
+27,C2B,Airlines,6.25,Online,8,25,ASIA,Yes,Silver Plan,5498
+36,EPX,Travel Agency,0,Online,25,51,ASIA,No,Cancellation Plan,0
+44,JZI,Airlines,14,Online,21,40,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,29,30,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,42,27,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,31,20,ASIA,No,Customised Plan,0
+46,JZI,Airlines,6.3,Online,36,18,ASIA,No,Bronze Plan,0
+25,JZI,Airlines,25.55,Online,70,50,Americas,No,Bronze Plan,0
+60,JZI,Airlines,7.7,Online,11,22,ASIA,No,Bronze Plan,0
+30,C2B,Airlines,15,Online,27,60,ASIA,Yes,Bronze Plan,4661
+36,EPX,Travel Agency,0,Online,16,42,ASIA,Yes,Customised Plan,4069
+40,C2B,Airlines,20.38,Online,32,81.5,ASIA,Yes,Silver Plan,5013
+25,EPX,Travel Agency,0,Offline,20,37,Americas,Yes,Customised Plan,4494
+27,C2B,Airlines,9.75,Online,90,39,ASIA,Yes,Silver Plan,5076
+40,EPX,Travel Agency,0,Online,17,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,77,56,EUROPE,No,Cancellation Plan,0
+29,JZI,Airlines,6.3,Online,4,18,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,14,28,ASIA,No,Customised Plan,0
+30,CWT,Travel Agency,16.25,Online,5,25,ASIA,Yes,Gold Plan,5974
+33,C2B,Airlines,7.38,Online,11,29.5,ASIA,Yes,Bronze Plan,4828
+48,C2B,Airlines,3.15,Online,75,11.24,ASIA,No,Customised Plan,0
+39,EPX,Travel Agency,0,Online,3,20,ASIA,Yes,Customised Plan,4213
+36,EPX,Travel Agency,0,Online,3,24,ASIA,No,Cancellation Plan,0
+32,C2B,Airlines,54,Online,366,216,ASIA,Yes,Silver Plan,5484
+26,C2B,Airlines,40.25,Online,366,161,ASIA,Yes,Silver Plan,5031
+36,EPX,Travel Agency,0,Online,35,43,ASIA,No,Customised Plan,0
+52,JZI,Airlines,11.55,Online,90,33,ASIA,No,Bronze Plan,0
+36,JZI,Airlines,7.7,Online,24,22,ASIA,No,Bronze Plan,0
+32,EPX,Travel Agency,0,Online,22,17,ASIA,Yes,Cancellation Plan,3775
+28,C2B,Airlines,8.38,Online,71,33.5,ASIA,Yes,Bronze Plan,4731
+40,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5297
+36,EPX,Travel Agency,0,Online,13,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,20,23,ASIA,No,Cancellation Plan,0
+25,C2B,Airlines,7.38,Online,20,29.5,ASIA,No,Bronze Plan,0
+33,CWT,Travel Agency,41.58,Online,31,69.3,ASIA,Yes,Customised Plan,4272
+36,EPX,Travel Agency,0,Online,17,60,ASIA,Yes,Cancellation Plan,3554
+36,EPX,Travel Agency,0,Online,15,28,ASIA,No,Customised Plan,0
+26,C2B,Airlines,7.64,Online,23,30.55,ASIA,No,Bronze Plan,0
+26,C2B,Airlines,10.5,Online,15,42,ASIA,Yes,Silver Plan,5163
+36,EPX,Travel Agency,0,Online,36,19,ASIA,No,Cancellation Plan,0
+38,JZI,Airlines,6.3,Online,6,18,ASIA,No,Bronze Plan,0
+30,C2B,Airlines,15,Online,27,60,ASIA,Yes,Bronze Plan,4804
+42,EPX,Travel Agency,0,Online,22,112,Americas,Yes,Customised Plan,4393
+30,EPX,Travel Agency,0,Online,35,95,Americas,Yes,Customised Plan,4097
+28,C2B,Airlines,23.5,Online,42,94,ASIA,Yes,Bronze Plan,4874
+25,EPX,Travel Agency,0,Online,37,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,7,30,ASIA,No,Customised Plan,0
+51,C2B,Airlines,48.3,Online,365,193.2,ASIA,Yes,Silver Plan,5266
+36,EPX,Travel Agency,0,Online,38,20,ASIA,No,Customised Plan,0
+24,C2B,Airlines,22.13,Online,32,88.5,ASIA,Yes,Silver Plan,5380
+24,C2B,Airlines,4.8,Online,3,19.2,ASIA,Yes,Bronze Plan,4613
+36,EPX,Travel Agency,0,Online,81,10,ASIA,No,Cancellation Plan,0
+24,EPX,Travel Agency,0,Online,96,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,28,25,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,44,11,ASIA,No,Cancellation Plan,0
+59,C2B,Airlines,9.75,Online,28,39,ASIA,Yes,Silver Plan,5150
+28,C2B,Airlines,6.75,Online,6,27,ASIA,No,Silver Plan,0
+40,EPX,Travel Agency,0,Online,57,27,ASIA,No,Cancellation Plan,0
+51,EPX,Travel Agency,0,Online,51,23,ASIA,No,Cancellation Plan,0
+31,EPX,Travel Agency,0,Online,40,75,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,26,40,ASIA,Yes,Customised Plan,4104
+41,C2B,Airlines,11.75,Online,21,47,ASIA,Yes,Bronze Plan,4970
+56,C2B,Airlines,52.33,Online,367,209.3,ASIA,No,Silver Plan,0
+28,C2B,Airlines,5.25,Online,12,21,ASIA,Yes,Bronze Plan,4919
+25,EPX,Travel Agency,0,Online,4,20,ASIA,No,Customised Plan,0
+59,JZI,Airlines,9.1,Online,12,150,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,2,26,EUROPE,No,Cancellation Plan,0
+35,EPX,Travel Agency,0,Online,8,10,ASIA,No,Cancellation Plan,0
+58,EPX,Travel Agency,0,Online,36,20,ASIA,Yes,Customised Plan,4048
+73,C2B,Airlines,8.88,Online,53,35.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,9,10,ASIA,No,Cancellation Plan,0
+40,C2B,Airlines,83.25,Online,365,333,ASIA,Yes,Gold Plan,5827
+36,EPX,Travel Agency,0,Online,12,37,ASIA,No,Cancellation Plan,0
+38,JZI,Airlines,6.3,Online,8,18,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,6,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,110,69,EUROPE,No,Customised Plan,0
+47,EPX,Travel Agency,0,Online,58,28,ASIA,No,Customised Plan,0
+35,EPX,Travel Agency,0,Online,65,43,ASIA,No,Customised Plan,0
+48,C2B,Airlines,0.38,Online,100,1.35,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,186,23,ASIA,No,Customised Plan,0
+52,C2B,Airlines,26.63,Online,39,106.5,ASIA,Yes,Silver Plan,5401
+32,C2B,Airlines,63.21,Online,367,252.85,ASIA,Yes,Silver Plan,5393
+48,C2B,Airlines,0.77,Online,48,2.76,ASIA,No,Customised Plan,0
+38,CWT,Travel Agency,23.76,Online,46,39.6,EUROPE,Yes,Customised Plan,4078
+36,EPX,Travel Agency,0,Online,7,112,EUROPE,No,Customised Plan,0
+25,EPX,Travel Agency,0,Online,15,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,9,29,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,266,10,ASIA,Yes,Cancellation Plan,3587
+37,C2B,Airlines,6,Online,4,15,ASIA,No,Bronze Plan,0
+35,EPX,Travel Agency,0,Online,72,25,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,61,80,EUROPE,No,Customised Plan,0
+39,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5386
+36,EPX,Travel Agency,0,Online,43,20,ASIA,Yes,Customised Plan,4401
+50,CWT,Travel Agency,23.76,Online,19,39.6,ASIA,Yes,Customised Plan,4460
+36,EPX,Travel Agency,0,Online,17,11,ASIA,No,Cancellation Plan,0
+38,C2B,Airlines,5.25,Online,18,21,ASIA,Yes,Bronze Plan,4614
+22,CWT,Travel Agency,53.46,Online,29,89.1,Americas,No,Customised Plan,0
+42,JZI,Airlines,12.25,Online,146,35,Americas,No,Bronze Plan,0
+32,CWT,Travel Agency,17.55,Online,3,27,ASIA,Yes,Gold Plan,5924
+25,C2B,Airlines,20,Online,10,50,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,59,38,ASIA,No,Cancellation Plan,0
+20,EPX,Travel Agency,0,Online,9,10,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,17.82,Online,33,29.7,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,3,12,ASIA,No,Cancellation Plan,0
+29,CWT,Travel Agency,77.22,Online,46,128.7,Americas,No,Customised Plan,0
+37,CWT,Travel Agency,11.88,Online,19,19.8,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,6,32,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,11.88,Online,2,19.8,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,5,20,ASIA,No,Customised Plan,0
+53,JZI,Airlines,12.95,Online,93,0,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,35,80,ASIA,No,Cancellation Plan,0
+44,CWT,Travel Agency,149.37,Online,366,229.8,Americas,Yes,Silver Plan,5358
+29,JZI,Airlines,12.25,Online,14,35,ASIA,No,Bronze Plan,0
+38,EPX,Travel Agency,0,Online,56,20,ASIA,Yes,Customised Plan,4179
+31,CWT,Travel Agency,23.76,Online,24,39.6,ASIA,Yes,Customised Plan,4244
+28,EPX,Travel Agency,0,Online,46,82,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,16,10,ASIA,No,Cancellation Plan,0
+28,CWT,Travel Agency,41.58,Online,36,191,EUROPE,Yes,Customised Plan,4076
+36,EPX,Travel Agency,0,Online,6,17,ASIA,Yes,Cancellation Plan,3877
+68,EPX,Travel Agency,0,Online,50,87,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,2,38,ASIA,No,Cancellation Plan,0
+30,CWT,Travel Agency,29.7,Online,56,49.5,EUROPE,No,Customised Plan,0
+68,CWT,Travel Agency,27.3,Online,5,42,ASIA,No,Gold Plan,0
+36,EPX,Travel Agency,0,Online,5,15,ASIA,No,Cancellation Plan,0
+53,CWT,Travel Agency,17.82,Online,35,29.7,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,43,49,ASIA,No,Customised Plan,0
+22,CWT,Travel Agency,28.5,Online,34,75,EUROPE,No,Bronze Plan,0
+25,C2B,Airlines,4.5,Online,5,18,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,2,82,ASIA,No,Customised Plan,0
+36,C2B,Airlines,5.85,Online,11,23.4,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,3,24,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,8,60,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,99,80,EUROPE,No,Cancellation Plan,0
+34,EPX,Travel Agency,0,Online,19,19,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,11.88,Online,13,19.8,Americas,No,Customised Plan,0
+48,CWT,Travel Agency,41.42,Online,33,109,EUROPE,No,Bronze Plan,0
+79,CWT,Travel Agency,10.5,Offline,22,30,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,3,24,ASIA,No,Customised Plan,0
+53,CWT,Travel Agency,17.82,Online,4,29.7,EUROPE,No,Customised Plan,0
+47,CWT,Travel Agency,41.58,Online,23,69.3,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,2,0,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,135,15,ASIA,No,Cancellation Plan,0
+40,C2B,Airlines,20.13,Online,382,80.5,ASIA,Yes,Bronze Plan,4659
+44,CWT,Travel Agency,49.73,Online,31,167,EUROPE,Yes,Gold Plan,5913
+36,EPX,Travel Agency,0,Online,47,20,ASIA,No,Customised Plan,0
+19,CWT,Travel Agency,10.5,Offline,22,30,ASIA,No,Customised Plan,0
+40,C2B,Airlines,54,Online,364,216,ASIA,Yes,Silver Plan,5070
+36,EPX,Travel Agency,0,Online,40,31,ASIA,No,Customised Plan,0
+40,C2B,Airlines,4.25,Online,16,17,ASIA,No,Bronze Plan,0
+21,EPX,Travel Agency,0,Online,23,29,Americas,No,Cancellation Plan,0
+25,C2B,Airlines,48.42,Online,74,193.7,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,27,33,ASIA,Yes,Customised Plan,4067
+36,EPX,Travel Agency,0,Online,34,61,ASIA,No,Customised Plan,0
+50,C2B,Airlines,5.38,Online,3,21.5,ASIA,No,Gold Plan,0
+25,C2B,Airlines,13.63,Online,13,54.5,ASIA,Yes,Silver Plan,5385
+36,EPX,Travel Agency,0,Online,81,20,ASIA,No,Customised Plan,0
+66,CWT,Travel Agency,10.5,Offline,47,30,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,14,20,ASIA,No,Customised Plan,0
+24,C2B,Airlines,9.75,Online,11,39,ASIA,Yes,Silver Plan,5245
+36,EPX,Travel Agency,0,Online,11,35,ASIA,No,Customised Plan,0
+25,CWT,Travel Agency,53.46,Online,43,89.1,EUROPE,No,Customised Plan,0
+32,C2B,Airlines,13.63,Online,13,54.5,ASIA,Yes,Silver Plan,5077
+36,EPX,Travel Agency,0,Online,7,112,ASIA,No,Customised Plan,0
+39,C2B,Airlines,22,Online,16,88,ASIA,Yes,Gold Plan,5603
+53,CWT,Travel Agency,106.92,Online,64,178.2,Americas,Yes,Customised Plan,4457
+36,EPX,Travel Agency,0,Online,59,28,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,83.16,Online,21,138.6,EUROPE,Yes,Customised Plan,4305
+60,JZI,Airlines,6.3,Online,18,18,ASIA,No,Bronze Plan,0
+40,CWT,Travel Agency,47.52,Online,53,79.2,Americas,No,Customised Plan,0
+40,CWT,Travel Agency,23.76,Online,10,39.6,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,56,24,ASIA,Yes,Customised Plan,4350
+28,C2B,Airlines,54,Online,365,26,ASIA,No,Silver Plan,0
+23,C2B,Airlines,69.71,Online,379,278.85,ASIA,Yes,Gold Plan,5582
+23,EPX,Travel Agency,0,Online,22,11,ASIA,No,Cancellation Plan,0
+41,C2B,Airlines,64.8,Online,365,259.2,ASIA,Yes,Silver Plan,5095
+69,CWT,Travel Agency,41.58,Online,26,69.3,Americas,No,Customised Plan,0
+37,EPX,Travel Agency,0,Online,3,20,ASIA,No,Customised Plan,0
+24,CWT,Travel Agency,36.4,Online,22,56,Americas,No,Gold Plan,0
+28,EPX,Travel Agency,0,Online,5,74,Americas,No,Customised Plan,0
+28,CWT,Travel Agency,0,Offline,367,97,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,9,48,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,9,43,ASIA,No,Cancellation Plan,0
+31,C2B,Airlines,5,Online,13,20,ASIA,No,Bronze Plan,0
+20,JZI,Airlines,12.25,Online,26,35,ASIA,No,Bronze Plan,0
+31,CWT,Travel Agency,17.82,Online,27,29.7,Americas,No,Customised Plan,0
+36,C2B,Airlines,9.75,Online,70,39,ASIA,Yes,Silver Plan,5091
+37,JZI,Airlines,9.1,Online,56,26,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,152,50,EUROPE,No,Cancellation Plan,0
+35,JZI,Airlines,15.4,Online,61,44,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,112,60,EUROPE,No,Cancellation Plan,0
+27,C2B,Airlines,40.25,Online,380,161,ASIA,Yes,Silver Plan,5388
+36,EPX,Travel Agency,0,Online,42,26,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,42,58,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,189,78,EUROPE,No,Cancellation Plan,0
+47,CWT,Travel Agency,23.76,Online,35,39.6,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,77,41,ASIA,No,Customised Plan,0
+51,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5024
+68,EPX,Travel Agency,0,Online,60,29,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,30,21,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,15,20,ASIA,No,Customised Plan,0
+48,C2B,Airlines,3.8,Online,14,13.57,ASIA,No,Customised Plan,0
+46,CWT,Travel Agency,17.82,Online,29,29.7,EUROPE,No,Customised Plan,0
+42,C2B,Airlines,54,Online,364,216,ASIA,Yes,Silver Plan,5269
+47,EPX,Travel Agency,0,Online,18,20,ASIA,No,Customised Plan,0
+28,EPX,Travel Agency,0,Online,41,20,ASIA,No,Customised Plan,0
+25,C2B,Airlines,6.75,Online,11,27,ASIA,Yes,Bronze Plan,4604
+44,C2B,Airlines,4.25,Online,7,17,ASIA,Yes,Bronze Plan,4638
+31,C2B,Airlines,12.13,Online,12,48.5,ASIA,Yes,Silver Plan,5058
+21,C2B,Airlines,7.38,Online,23,29.5,ASIA,No,Silver Plan,0
+27,CWT,Travel Agency,17.82,Online,16,29.7,Americas,No,Customised Plan,0
+52,JZI,Airlines,10.5,Online,18,30,ASIA,No,Bronze Plan,0
+40,CWT,Travel Agency,23.76,Online,32,39.6,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,13,30,EUROPE,No,Customised Plan,0
+44,JZI,Airlines,6.3,Online,6,18,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,9,112,ASIA,No,Customised Plan,0
+43,EPX,Travel Agency,0,Online,11,20,ASIA,No,Customised Plan,0
+45,C2B,Airlines,63.21,Online,379,252.85,ASIA,Yes,Silver Plan,5225
+32,C2B,Airlines,126.75,Online,90,507,ASIA,Yes,Silver Plan,5110
+38,EPX,Travel Agency,0,Online,40,58,Americas,Yes,Cancellation Plan,3822
+36,EPX,Travel Agency,0,Online,39,156,ASIA,No,Customised Plan,0
+68,CWT,Travel Agency,9.57,Offline,89,29,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,3,10,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,41.58,Online,96,69.3,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,75,63,ASIA,Yes,Customised Plan,4430
+39,CWT,Travel Agency,210.21,Online,368,323.4,Americas,Yes,Gold Plan,5862
+34,C2B,Airlines,8.88,Online,26,35.5,ASIA,Yes,Silver Plan,5218
+45,JZI,Airlines,9.1,Online,11,26,ASIA,No,Bronze Plan,0
+50,EPX,Travel Agency,0,Online,16,80,Americas,No,Cancellation Plan,0
+30,JZI,Airlines,6.3,Online,13,18,ASIA,No,Bronze Plan,0
+29,CWT,Travel Agency,23.76,Online,18,39.6,Americas,No,Customised Plan,0
+45,JZI,Airlines,9.1,Online,7,26,ASIA,No,Bronze Plan,0
+32,C2B,Airlines,63.21,Online,368,252.85,ASIA,No,Silver Plan,0
+41,EPX,Travel Agency,0,Online,8,30,ASIA,Yes,Customised Plan,4276
+33,C2B,Airlines,5,Online,6,20,ASIA,No,Bronze Plan,0
+34,C2B,Airlines,54,Online,365,216,ASIA,No,Silver Plan,0
+57,JZI,Airlines,9.1,Online,9,26,ASIA,Yes,Bronze Plan,4965
+35,C2B,Airlines,63.21,Online,368,252.85,ASIA,Yes,Silver Plan,5029
+36,EPX,Travel Agency,0,Online,9,37,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,95,20,ASIA,Yes,Customised Plan,4010
+25,C2B,Airlines,31.2,Online,25,78,ASIA,Yes,Bronze Plan,4870
+48,C2B,Airlines,2.66,Online,2,7.6,ASIA,No,Customised Plan,0
+33,C2B,Airlines,4,Online,3,48,ASIA,No,Bronze Plan,0
+29,EPX,Travel Agency,0,Online,17,35,ASIA,No,Customised Plan,0
+45,C2B,Airlines,10.38,Online,383,41.5,ASIA,No,Silver Plan,0
+36,C2B,Airlines,18,Online,62,72,ASIA,No,Silver Plan,0
+53,C2B,Airlines,72.94,Online,374,291.75,ASIA,Yes,Silver Plan,5484
+48,C2B,Airlines,54,Online,367,216,ASIA,Yes,Silver Plan,5036
+48,C2B,Airlines,0.29,Online,367,1.03,ASIA,No,Customised Plan,0
+35,EPX,Travel Agency,0,Online,2,20,ASIA,No,Customised Plan,0
+32,C2B,Airlines,4,Online,4,16,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,42,22,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,24,25,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,10,34,ASIA,No,Customised Plan,0
+59,EPX,Travel Agency,0,Online,46,17,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,60,206,EUROPE,No,Cancellation Plan,0
+41,JZI,Airlines,24.15,Online,34,69,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,4,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,8,10,ASIA,No,Cancellation Plan,0
+27,EPX,Travel Agency,0,Online,55,166,Americas,Yes,Cancellation Plan,3715
+50,C2B,Airlines,63.21,Online,374,252.85,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,18,27,ASIA,No,Cancellation Plan,0
+27,C2B,Airlines,54,Online,401,216,ASIA,Yes,Silver Plan,5362
+33,C2B,Airlines,54,Online,365,216,ASIA,Yes,Silver Plan,5448
+63,JZI,Airlines,7.7,Online,6,22,ASIA,No,Bronze Plan,0
+30,EPX,Travel Agency,0,Online,32,32,ASIA,No,Customised Plan,0
+32,C2B,Airlines,46.96,Online,365,187.85,ASIA,Yes,Silver Plan,5324
+36,EPX,Travel Agency,0,Online,27,28,ASIA,No,Cancellation Plan,0
+57,C2B,Airlines,5,Online,11,20,ASIA,No,Bronze Plan,0
+53,C2B,Airlines,5.63,Online,6,22.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,90,46,ASIA,Yes,Customised Plan,4311
+36,EPX,Travel Agency,0,Online,17,43,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,5.94,Online,6,9.9,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,13,203,ASIA,No,Cancellation Plan,0
+44,JZI,Airlines,15.4,Online,25,44,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,145,35,ASIA,No,Cancellation Plan,0
+39,C2B,Airlines,40.25,Online,366,161,ASIA,No,Silver Plan,0
+23,C2B,Airlines,20,Online,9,50,ASIA,No,Bronze Plan,0
+25,EPX,Travel Agency,0,Online,21,10,ASIA,No,Cancellation Plan,0
+37,JZI,Airlines,10.5,Online,62,30,ASIA,No,Bronze Plan,0
+56,CWT,Travel Agency,59.4,Online,13,99,EUROPE,Yes,Customised Plan,4239
+36,EPX,Travel Agency,0,Online,4,33,ASIA,No,Cancellation Plan,0
+39,C2B,Airlines,5.88,Online,6,23.5,ASIA,Yes,Bronze Plan,4735
+47,C2B,Airlines,22.13,Online,38,88.5,ASIA,No,Silver Plan,0
+47,EPX,Travel Agency,0,Online,3,35,ASIA,No,Customised Plan,0
+33,C2B,Airlines,18,Online,50,72,ASIA,Yes,Bronze Plan,4959
+36,EPX,Travel Agency,0,Online,35,11,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,24,21,ASIA,Yes,Customised Plan,4493
+53,C2B,Airlines,13.63,Online,30,54.5,ASIA,Yes,Silver Plan,5482
+42,C2B,Airlines,12.13,Online,13,48.5,ASIA,Yes,Silver Plan,5050
+36,EPX,Travel Agency,0,Online,39,26,ASIA,No,Cancellation Plan,0
+57,C2B,Airlines,83.25,Online,366,333,ASIA,No,Gold Plan,0
+35,EPX,Travel Agency,0,Online,3,20,ASIA,No,Customised Plan,0
+30,EPX,Travel Agency,0,Online,50,112,Americas,Yes,Customised Plan,4373
+36,EPX,Travel Agency,0,Online,60,34,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,5,20,ASIA,No,Cancellation Plan,0
+44,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5115
+36,EPX,Travel Agency,0,Online,35,10,ASIA,No,Cancellation Plan,0
+25,C2B,Airlines,12.4,Online,5,31,ASIA,No,Bronze Plan,0
+43,JZI,Airlines,24.15,Online,33,69,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,13,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,80,32,ASIA,Yes,Customised Plan,4345
+54,CWT,Travel Agency,100.98,Online,18,0,Americas,No,Customised Plan,0
+22,C2B,Airlines,3.38,Online,16,13.5,ASIA,Yes,Bronze Plan,4852
+32,C2B,Airlines,10.5,Online,83,42,ASIA,No,Silver Plan,0
+39,JZI,Airlines,7.7,Online,27,22,ASIA,Yes,Bronze Plan,4939
+30,EPX,Travel Agency,0,Online,28,185,Americas,No,Cancellation Plan,0
+46,JZI,Airlines,48.3,Online,25,138,Americas,Yes,Bronze Plan,4543
+36,EPX,Travel Agency,0,Online,5,20,ASIA,No,Customised Plan,0
+39,CWT,Travel Agency,59.4,Online,11,99,Americas,No,Customised Plan,0
+33,C2B,Airlines,6.13,Online,4,24.5,ASIA,No,Silver Plan,0
+24,EPX,Travel Agency,0,Online,42,24,ASIA,No,Cancellation Plan,0
+37,CWT,Travel Agency,17.82,Online,18,29.7,ASIA,No,Customised Plan,0
+26,EPX,Travel Agency,0,Online,32,21,ASIA,No,Customised Plan,0
+64,CWT,Travel Agency,23.76,Online,22,39.6,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,40,74,Americas,No,Customised Plan,0
+42,C2B,Airlines,5,Online,9,20,ASIA,Yes,Bronze Plan,4700
+71,C2B,Airlines,12.75,Online,7,51,ASIA,No,Gold Plan,0
+46,JZI,Airlines,15.75,Online,9,45,ASIA,No,Bronze Plan,0
+22,C2B,Airlines,11.88,Online,14,190,ASIA,Yes,Silver Plan,5052
+36,EPX,Travel Agency,0,Online,2,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,15,23,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,1,47,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,52,11,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,114,31,ASIA,No,Cancellation Plan,0
+30,C2B,Airlines,6,Online,4,15,ASIA,No,Bronze Plan,0
+24,CWT,Travel Agency,23.76,Online,63,39.6,Americas,No,Customised Plan,0
+20,EPX,Travel Agency,0,Online,8,23,ASIA,Yes,Customised Plan,4303
+35,CWT,Travel Agency,11.88,Online,6,19.8,ASIA,No,Customised Plan,0
+44,JZI,Airlines,6.3,Online,39,205,ASIA,Yes,Bronze Plan,4794
+41,CWT,Travel Agency,47.52,Online,31,79.2,Americas,No,Customised Plan,0
+35,EPX,Travel Agency,0,Online,49,12,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,20,67,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,10,28,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,14,10,EUROPE,No,Cancellation Plan,0
+38,CWT,Travel Agency,23.76,Online,5,39.6,ASIA,No,Customised Plan,0
+51,JZI,Airlines,7.7,Online,21,41,ASIA,No,Bronze Plan,0
+46,C2B,Airlines,18,Online,16,72,ASIA,Yes,Silver Plan,5175
+36,EPX,Travel Agency,0,Online,26,24,ASIA,No,Customised Plan,0
+48,C2B,Airlines,5.98,Online,32,21.35,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,50,20,ASIA,No,Customised Plan,0
+37,CWT,Travel Agency,65.34,Online,69,108.9,Americas,No,Customised Plan,0
+44,CWT,Travel Agency,47.52,Online,67,49,Americas,No,Customised Plan,0
+23,CWT,Travel Agency,24.38,Online,17,37.5,ASIA,Yes,Gold Plan,5936
+35,JZI,Airlines,10.5,Online,32,30,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,42,44,ASIA,Yes,Customised Plan,4107
+71,C2B,Airlines,12.63,Online,37,50.5,ASIA,Yes,Bronze Plan,4983
+49,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,3,34,ASIA,No,Cancellation Plan,0
+37,EPX,Travel Agency,0,Online,47,16,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,33,21,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,109,35,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,15,21,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,3,20,ASIA,No,Customised Plan,0
+31,C2B,Airlines,9.75,Online,43,39,ASIA,Yes,Bronze Plan,4795
+36,EPX,Travel Agency,0,Online,53,24,ASIA,Yes,Customised Plan,4376
+31,CWT,Travel Agency,23.76,Online,6,39.6,ASIA,Yes,Customised Plan,4053
+36,EPX,Travel Agency,0,Online,11,19,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,31,21,ASIA,No,Cancellation Plan,0
+48,CWT,Travel Agency,22.04,Online,33,58,EUROPE,No,Bronze Plan,0
+24,C2B,Airlines,74.26,Online,105,297.05,ASIA,Yes,Silver Plan,5293
+26,C2B,Airlines,8.38,Online,54,33.5,ASIA,Yes,Bronze Plan,4548
+36,EPX,Travel Agency,0,Online,20,24.87,ASIA,No,Customised Plan,0
+52,CWT,Travel Agency,95.04,Online,35,158.4,Americas,Yes,Customised Plan,4403
+27,C2B,Airlines,6.25,Online,7,25,ASIA,Yes,Silver Plan,5049
+51,CWT,Travel Agency,11.88,Online,10,19.8,ASIA,No,Customised Plan,0
+39,JZI,Airlines,10.5,Online,24,30,ASIA,No,Bronze Plan,0
+31,C2B,Airlines,54,Online,366,216,ASIA,No,Silver Plan,0
+45,C2B,Airlines,54,Online,365,216,ASIA,Yes,Silver Plan,5101
+21,CWT,Travel Agency,23.76,Online,10,39.6,ASIA,Yes,Customised Plan,4330
+62,CWT,Travel Agency,29.7,Online,20,49.5,EUROPE,No,Customised Plan,0
+48,JZI,Airlines,9.1,Online,12,26,ASIA,No,Bronze Plan,0
+46,CWT,Travel Agency,23.76,Online,98,39.6,ASIA,No,Customised Plan,0
+45,C2B,Airlines,6.63,Online,29,26.5,ASIA,Yes,Bronze Plan,4598
+22,JZI,Airlines,7.7,Online,10,22,ASIA,No,Bronze Plan,0
+30,C2B,Airlines,6.13,Online,18,24.5,ASIA,Yes,Silver Plan,5491
+36,EPX,Travel Agency,0,Online,259,80,EUROPE,No,Cancellation Plan,0
+33,C2B,Airlines,64.8,Online,365,259.2,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,239,27,ASIA,No,Cancellation Plan,0
+40,CWT,Travel Agency,17.82,Online,18,29.7,Americas,No,Customised Plan,0
+28,EPX,Travel Agency,0,Online,77,30,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,59,27,ASIA,No,Customised Plan,0
+25,EPX,Travel Agency,0,Online,70,10,ASIA,No,Cancellation Plan,0
+30,CWT,Travel Agency,47.52,Online,36,79.2,EUROPE,No,Customised Plan,0
+26,CWT,Travel Agency,41.58,Online,35,69.3,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,7,11,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,11,19,ASIA,No,Cancellation Plan,0
+31,C2B,Airlines,48.3,Online,374,162,ASIA,Yes,Silver Plan,5399
+45,JZI,Airlines,29.05,Online,102,83,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,2,20,ASIA,No,Cancellation Plan,0
+35,EPX,Travel Agency,0,Online,2,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,19,20,ASIA,No,Customised Plan,0
+44,C2B,Airlines,46.96,Online,366,187.85,ASIA,No,Silver Plan,0
+25,C2B,Airlines,31.2,Online,51,78,ASIA,Yes,Bronze Plan,4928
+50,EPX,Travel Agency,0,Online,8,34,ASIA,No,Customised Plan,0
+34,JZI,Airlines,7.7,Online,25,22,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,14,30,ASIA,Yes,Customised Plan,4043
+36,EPX,Travel Agency,0,Online,40,16,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,47,68,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,2,19,ASIA,No,Cancellation Plan,0
+24,EPX,Travel Agency,0,Online,39,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,5,20,ASIA,No,Customised Plan,0
+33,JZI,Airlines,6.3,Online,2,18,ASIA,No,Bronze Plan,0
+48,C2B,Airlines,5.98,Online,1,21.35,ASIA,Yes,Customised Plan,4082
+31,EPX,Travel Agency,0,Online,16,26,ASIA,No,Cancellation Plan,0
+63,CWT,Travel Agency,47.52,Online,21,79.2,Americas,No,Customised Plan,0
+44,EPX,Travel Agency,0,Online,35,24,Americas,No,Cancellation Plan,0
+31,CWT,Travel Agency,59.4,Online,13,99,Americas,Yes,Customised Plan,4323
+21,C2B,Airlines,15.6,Online,62,62.4,ASIA,Yes,Silver Plan,5290
+36,EPX,Travel Agency,0,Online,21,38,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,55,28,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,24,15,ASIA,No,Cancellation Plan,0
+38,EPX,Travel Agency,26,Online,10,148,ASIA,No,Cancellation Plan,0
+58,C2B,Airlines,6.75,Online,26,27,ASIA,Yes,Bronze Plan,4746
+35,C2B,Airlines,18,Online,16,72,ASIA,No,Silver Plan,0
+36,C2B,Airlines,15,Online,18,60,ASIA,Yes,Bronze Plan,4929
+36,EPX,Travel Agency,0,Online,1,24,ASIA,No,Customised Plan,0
+25,C2B,Airlines,8.38,Online,11,33.5,ASIA,Yes,Bronze Plan,4904
+30,C2B,Airlines,3.38,Online,23,13.5,ASIA,No,Bronze Plan,0
+62,C2B,Airlines,54,Online,365,216,ASIA,No,Silver Plan,0
+35,EPX,Travel Agency,0,Online,4,175,ASIA,Yes,Customised Plan,4081
+59,JZI,Airlines,7.7,Online,3,22,ASIA,Yes,Bronze Plan,4504
+48,CWT,Travel Agency,17.82,Online,9,29.7,ASIA,No,Customised Plan,0
+33,EPX,Travel Agency,0,Online,13,157,ASIA,No,Customised Plan,0
+51,C2B,Airlines,4,Online,5,16,ASIA,No,Bronze Plan,0
+38,EPX,Travel Agency,0,Online,59,10,Americas,No,Cancellation Plan,0
+23,C2B,Airlines,0.49,Online,2,51,ASIA,No,Customised Plan,0
+24,C2B,Airlines,103,Online,166,412,ASIA,Yes,Silver Plan,5500
+36,EPX,Travel Agency,0,Online,4,21,ASIA,No,Customised Plan,0
+53,CWT,Travel Agency,41.58,Online,25,69.3,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,15,44,ASIA,Yes,Customised Plan,4100
+44,JZI,Airlines,12.25,Online,32,35,ASIA,No,Bronze Plan,0
+42,C2B,Airlines,6,Online,57,15,ASIA,No,Bronze Plan,0
+32,JZI,Airlines,9.1,Online,44,26,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,6,43,ASIA,No,Customised Plan,0
+32,C2B,Airlines,4,Online,33,16,ASIA,Yes,Bronze Plan,4607
+64,CWT,Travel Agency,16.25,Online,4,25,ASIA,Yes,Gold Plan,5668
+36,EPX,Travel Agency,0,Online,54,20,ASIA,No,Cancellation Plan,0
+56,JZI,Airlines,9.1,Online,8,26,ASIA,No,Bronze Plan,0
+59,EPX,Travel Agency,0,Online,59,10,ASIA,No,Cancellation Plan,0
+54,C2B,Airlines,15.75,Online,40,63,ASIA,Yes,Silver Plan,5455
+36,EPX,Travel Agency,0,Online,165,10,ASIA,No,Cancellation Plan,0
+64,C2B,Airlines,9.75,Online,34,39,ASIA,Yes,Bronze Plan,4760
+36,EPX,Travel Agency,0,Online,29,56,ASIA,No,Customised Plan,0
+23,EPX,Travel Agency,0,Online,16,13,ASIA,No,Cancellation Plan,0
+37,JZI,Airlines,9.1,Online,55,26,ASIA,Yes,Bronze Plan,4987
+35,JZI,Airlines,15.75,Online,12,45,Americas,No,Bronze Plan,0
+22,C2B,Airlines,9.75,Online,15,39,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,16,37,ASIA,No,Customised Plan,0
+30,C2B,Airlines,5,Online,7,20,ASIA,Yes,Bronze Plan,4535
+41,C2B,Airlines,5,Online,9,20,ASIA,No,Bronze Plan,0
+84,CWT,Travel Agency,18.85,Online,9,29,ASIA,No,Gold Plan,0
+36,EPX,Travel Agency,0,Online,26,24,ASIA,No,Customised Plan,0
+50,EPX,Travel Agency,0,Online,12,10,ASIA,No,Cancellation Plan,0
+30,CWT,Travel Agency,23.73,Online,10,36.5,ASIA,Yes,Gold Plan,5712
+36,EPX,Travel Agency,0,Online,47,77,EUROPE,Yes,Customised Plan,4383
+29,C2B,Airlines,72.94,Online,382,291.75,ASIA,Yes,Silver Plan,5080
+36,CWT,Travel Agency,16.25,Online,107,25,ASIA,Yes,Silver Plan,5420
+35,CWT,Travel Agency,71.28,Online,100,118.8,Americas,No,Customised Plan,0
+17,C2B,Airlines,20.38,Online,21,81.5,ASIA,No,Silver Plan,0
+38,JZI,Airlines,7.7,Online,2,22,ASIA,No,Bronze Plan,0
+49,JZI,Airlines,6.3,Online,4,18,ASIA,No,Bronze Plan,0
+44,CWT,Travel Agency,11.88,Online,10,0,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,28,32,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,10,29,ASIA,No,Customised Plan,0
+27,JZI,Airlines,7.7,Online,385,22,ASIA,No,Bronze Plan,0
+58,EPX,Travel Agency,0,Online,1,10,ASIA,No,Cancellation Plan,0
+51,CWT,Travel Agency,41.58,Online,8,69.3,EUROPE,No,Customised Plan,0
+55,EPX,Travel Agency,0,Online,34,22,ASIA,No,Customised Plan,0
+42,C2B,Airlines,4,Online,5,16,ASIA,No,Bronze Plan,0
+30,CWT,Travel Agency,23.76,Online,11,39.6,Americas,Yes,Customised Plan,4033
+36,EPX,Travel Agency,0,Online,21,101,EUROPE,No,Customised Plan,0
+56,CWT,Travel Agency,41.58,Online,68,69.3,EUROPE,No,Customised Plan,0
+28,C2B,Airlines,11.75,Online,73,47,ASIA,No,Bronze Plan,0
+46,EPX,Travel Agency,0,Online,14,12,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,14,19,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,75,36,ASIA,Yes,Customised Plan,4431
+36,EPX,Travel Agency,0,Online,20,10,ASIA,No,Cancellation Plan,0
+25,C2B,Airlines,12.4,Online,46,31,ASIA,No,Bronze Plan,0
+36,CWT,Travel Agency,11.88,Online,28,19.8,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,25,38,ASIA,No,Customised Plan,0
+35,EPX,Travel Agency,0,Online,33,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,12,10,ASIA,No,Cancellation Plan,0
+22,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5011
+36,EPX,Travel Agency,0,Online,36,112,EUROPE,Yes,Customised Plan,4012
+36,EPX,Travel Agency,0,Online,144,41,ASIA,No,Customised Plan,0
+27,EPX,Travel Agency,0,Online,41,97,Americas,Yes,Customised Plan,4360
+23,EPX,Travel Agency,0,Online,35,18,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,6,10,ASIA,No,Cancellation Plan,0
+47,C2B,Airlines,9.75,Online,10,39,ASIA,No,Silver Plan,0
+52,C2B,Airlines,108,Online,367,432,ASIA,Yes,Silver Plan,5429
+36,EPX,Travel Agency,0,Online,19,25,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,83.16,Online,99,0,EUROPE,No,Customised Plan,0
+33,EPX,Travel Agency,0,Online,27,20,ASIA,No,Customised Plan,0
+30,C2B,Airlines,6.75,Online,13,27,ASIA,Yes,Bronze Plan,4741
+31,CWT,Travel Agency,11.88,Online,53,19.8,Americas,No,Customised Plan,0
+36,C2B,Airlines,6.75,Online,20,27,ASIA,Yes,Bronze Plan,4689
+24,C2B,Airlines,23.63,Online,145,94.5,ASIA,Yes,Bronze Plan,4537
+31,C2B,Airlines,36,Online,4,16,ASIA,No,Bronze Plan,0
+36,C2B,Airlines,18,Online,65,72,ASIA,No,Bronze Plan,0
+57,EPX,Travel Agency,0,Online,1,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,16,54,EUROPE,No,Customised Plan,0
+29,C2B,Airlines,6.75,Online,10,27,ASIA,Yes,Bronze Plan,4760
+36,EPX,Travel Agency,0,Online,3,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,5,45,ASIA,Yes,Customised Plan,4049
+36,EPX,Travel Agency,0,Online,20,33,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,30,18,ASIA,No,Cancellation Plan,0
+76,EPX,Travel Agency,0,Online,46,143,ASIA,No,Customised Plan,0
+33,CWT,Travel Agency,208.16,Online,368,320.25,Americas,Yes,Gold Plan,5825
+34,C2B,Airlines,15,Online,38,60,ASIA,Yes,Bronze Plan,4569
+27,C2B,Airlines,15.88,Online,20,63.5,ASIA,No,Silver Plan,0
+53,EPX,Travel Agency,0,Online,4,23,ASIA,No,Cancellation Plan,0
+34,JZI,Airlines,11.55,Online,126,33,ASIA,No,Bronze Plan,0
+48,CWT,Travel Agency,28.5,Online,116,75,EUROPE,No,Bronze Plan,0
+35,EPX,Travel Agency,0,Online,34,45,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,17,28,ASIA,No,Cancellation Plan,0
+34,CWT,Travel Agency,11.88,Online,45,0,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,10,44,ASIA,Yes,Cancellation Plan,3846
+44,CWT,Travel Agency,47.52,Online,11,79.2,EUROPE,No,Customised Plan,0
+33,C2B,Airlines,54,Online,365,216,ASIA,Yes,Silver Plan,5435
+50,EPX,Travel Agency,0,Online,46,112,Americas,Yes,Customised Plan,4461
+30,C2B,Airlines,4.25,Online,8,17,ASIA,Yes,Bronze Plan,4950
+36,EPX,Travel Agency,0,Online,9,27,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,14,22,ASIA,No,Cancellation Plan,0
+49,C2B,Airlines,13.38,Online,54,53.5,ASIA,Yes,Bronze Plan,4819
+36,EPX,Travel Agency,0,Online,113,110,EUROPE,Yes,Customised Plan,4358
+37,C2B,Airlines,9.75,Online,26,39,ASIA,Yes,Bronze Plan,4880
+29,C2B,Airlines,9.75,Online,18,39,ASIA,Yes,Bronze Plan,4693
+36,EPX,Travel Agency,0,Online,54,43,EUROPE,No,Cancellation Plan,0
+40,C2B,Airlines,4,Online,6,16,ASIA,Yes,Bronze Plan,4891
+43,CWT,Travel Agency,23.76,Online,6,39.6,ASIA,No,Customised Plan,0
+26,CWT,Travel Agency,17.82,Online,8,29.7,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,11,10,ASIA,No,Cancellation Plan,0
+31,JZI,Airlines,12.25,Online,111,35,ASIA,No,Bronze Plan,0
+46,CWT,Travel Agency,5.94,Online,21,9.9,Americas,No,Customised Plan,0
+36,JZI,Airlines,14,Online,378,40,ASIA,No,Bronze Plan,0
+34,CWT,Travel Agency,17.82,Online,4,29.7,Americas,No,Customised Plan,0
+25,EPX,Travel Agency,0,Online,82,13,ASIA,No,Cancellation Plan,0
+38,EPX,Travel Agency,0,Online,9,11,ASIA,No,Cancellation Plan,0
+69,EPX,Travel Agency,0,Online,32,80,Americas,No,Cancellation Plan,0
+45,EPX,Travel Agency,0,Online,93,20,ASIA,No,Customised Plan,0
+72,C2B,Airlines,20,Online,27,50,ASIA,No,Bronze Plan,0
+63,CWT,Travel Agency,9.57,Offline,72,29,ASIA,No,Customised Plan,0
+44,EPX,Travel Agency,0,Online,72,16,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,187,40,Americas,No,Cancellation Plan,0
+48,C2B,Airlines,1.12,Online,39,3.99,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,19,20,ASIA,No,Customised Plan,0
+33,C2B,Airlines,15,Online,53,60,ASIA,Yes,Bronze Plan,4918
+36,EPX,Travel Agency,0,Online,14,20,ASIA,No,Customised Plan,0
+46,C2B,Airlines,83.25,Online,394,333,ASIA,Yes,Gold Plan,5698
+46,C2B,Airlines,6,Online,2,15,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,52,40,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,147,35,ASIA,Yes,Cancellation Plan,3611
+37,CWT,Travel Agency,17.82,Online,3,29.7,EUROPE,Yes,Customised Plan,4310
+66,CWT,Travel Agency,68.9,Online,27,106,ASIA,No,Silver Plan,0
+41,EPX,Travel Agency,0,Online,29,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,37,51,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,12,31,ASIA,No,Cancellation Plan,0
+64,CWT,Travel Agency,21.45,Online,11,33,ASIA,No,Silver Plan,0
+72,C2B,Airlines,8.85,Online,46,35.4,ASIA,Yes,Silver Plan,5046
+39,C2B,Airlines,4,Online,54,16,ASIA,Yes,Bronze Plan,4575
+31,C2B,Airlines,8.38,Online,18,33.5,ASIA,Yes,Bronze Plan,4951
+33,C2B,Airlines,10,Online,11,40,ASIA,No,Bronze Plan,0
+33,C2B,Airlines,18,Online,19,72,ASIA,Yes,Silver Plan,5159
+45,EPX,Travel Agency,0,Online,29,33,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,17.82,Online,5,29.7,ASIA,No,Customised Plan,0
+28,C2B,Airlines,6,Online,5,15,ASIA,No,Bronze Plan,0
+34,C2B,Airlines,9.75,Online,7,39,ASIA,No,Silver Plan,0
+31,CWT,Travel Agency,47.52,Online,110,79.2,Americas,No,Customised Plan,0
+43,C2B,Airlines,4.25,Online,10,17,ASIA,Yes,Bronze Plan,4974
+54,JZI,Airlines,7.7,Online,5,22,ASIA,No,Bronze Plan,0
+43,CWT,Travel Agency,41.58,Online,32,69.3,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,65,80,EUROPE,No,Cancellation Plan,0
+48,C2B,Airlines,54,Online,367,216,ASIA,Yes,Silver Plan,5483
+36,EPX,Travel Agency,0,Online,31,38,ASIA,No,Cancellation Plan,0
+39,JZI,Airlines,19.6,Online,152,56,ASIA,No,Bronze Plan,0
+65,C2B,Airlines,57.75,Online,109,231,ASIA,Yes,Bronze Plan,4526
+27,JZI,Airlines,15.75,Online,9,45,ASIA,No,Bronze Plan,0
+35,CWT,Travel Agency,47.52,Online,40,79.2,EUROPE,Yes,Customised Plan,4242
+48,C2B,Airlines,1.88,Online,40,6.69,ASIA,Yes,Customised Plan,4221
+36,EPX,Travel Agency,0,Online,88,17,ASIA,No,Cancellation Plan,0
+50,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5237
+37,C2B,Airlines,6.75,Online,11,27,ASIA,Yes,Bronze Plan,4539
+43,JZI,Airlines,15.75,Online,15,45,ASIA,No,Bronze Plan,0
+35,EPX,Travel Agency,0,Online,35,29,ASIA,No,Customised Plan,0
+35,JZI,Airlines,12.25,Online,39,35,ASIA,No,Bronze Plan,0
+71,C2B,Airlines,6,Online,3,15,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,15,37,ASIA,Yes,Cancellation Plan,3940
+34,C2B,Airlines,13.63,Online,13,54.5,ASIA,Yes,Silver Plan,5131
+35,C2B,Airlines,15.88,Online,52,63.5,ASIA,Yes,Silver Plan,5144
+26,C2B,Airlines,9.75,Online,145,39,ASIA,No,Bronze Plan,0
+33,CWT,Travel Agency,17.82,Online,4,0,ASIA,No,Customised Plan,0
+28,C2B,Airlines,54,Online,378,216,ASIA,Yes,Silver Plan,5333
+46,JZI,Airlines,6.3,Online,15,18,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,21,20,ASIA,No,Customised Plan,0
+71,EPX,Travel Agency,0,Online,58,10,ASIA,No,Cancellation Plan,0
+34,CWT,Travel Agency,41.58,Online,9,69.3,Americas,Yes,Customised Plan,4184
+30,C2B,Airlines,4,Online,10,16,ASIA,No,Bronze Plan,0
+37,C2B,Airlines,72.94,Online,379,291.75,ASIA,Yes,Silver Plan,5443
+32,EPX,Travel Agency,0,Online,10,20,ASIA,No,Customised Plan,0
+25,C2B,Airlines,9.75,Online,15,39,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,7,112,ASIA,No,Customised Plan,0
+22,C2B,Airlines,6.75,Online,2,27,ASIA,Yes,Bronze Plan,4616
+30,CWT,Travel Agency,47.52,Online,30,79.2,Americas,Yes,Customised Plan,4418
+54,CWT,Travel Agency,5.94,Online,2,9.9,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,7,10,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,23.76,Online,33,39.6,EUROPE,No,Customised Plan,0
+35,EPX,Travel Agency,0,Online,30,74,ASIA,No,Cancellation Plan,0
+29,C2B,Airlines,5,Online,11,20,ASIA,Yes,Bronze Plan,4620
+48,C2B,Airlines,0.96,Online,61,3.43,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,112.86,Online,175,188.1,EUROPE,Yes,Customised Plan,4197
+36,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+40,CWT,Travel Agency,47.52,Online,112,79.2,Americas,No,Customised Plan,0
+45,C2B,Airlines,11.7,Online,18,46.8,ASIA,No,Bronze Plan,0
+31,CWT,Travel Agency,5.94,Online,35,9.9,Americas,No,Customised Plan,0
+48,EPX,Travel Agency,0,Online,87,67,Americas,No,Cancellation Plan,0
+48,EPX,Travel Agency,0,Online,69,11,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,20,20,ASIA,No,Customised Plan,0
+32,EPX,Travel Agency,0,Online,102,50,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,10,36,ASIA,No,Cancellation Plan,0
+23,C2B,Airlines,5.63,Online,8,22.5,ASIA,Yes,Silver Plan,5068
+31,CWT,Travel Agency,0,Offline,402,97,ASIA,No,Customised Plan,0
+61,EPX,Travel Agency,0,Online,393,28,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,10,59,ASIA,No,Customised Plan,0
+45,EPX,Travel Agency,0,Online,43,80,Americas,No,Cancellation Plan,0
+31,CWT,Travel Agency,11.88,Online,144,0,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,54,25,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,10,30,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,12,16,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,15.5,Online,19,62,ASIA,Yes,Bronze Plan,4717
+37,CWT,Travel Agency,47.52,Online,26,79.2,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,25,40,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,47,21,ASIA,Yes,Customised Plan,4078
+69,EPX,Travel Agency,0,Online,17,20,ASIA,No,Customised Plan,0
+32,EPX,Travel Agency,0,Online,16,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,224,15,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,5,27,ASIA,No,Cancellation Plan,0
+26,EPX,Travel Agency,0,Online,33,40,ASIA,No,Cancellation Plan,0
+39,JZI,Airlines,7.7,Online,6,22,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,7,20,ASIA,No,Cancellation Plan,0
+31,C2B,Airlines,54,Online,384,216,ASIA,Yes,Silver Plan,5312
+32,C2B,Airlines,21.6,Online,66,86.4,ASIA,Yes,Silver Plan,5201
+66,EPX,Travel Agency,0,Online,244,14,ASIA,No,Cancellation Plan,0
+50,JZI,Airlines,6.3,Online,13,18,ASIA,No,Bronze Plan,0
+21,C2B,Airlines,12.4,Online,16,31,ASIA,No,Bronze Plan,0
+28,C2B,Airlines,20.64,Online,50,82.55,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,148,28,ASIA,No,Cancellation Plan,0
+37,CWT,Travel Agency,29.7,Online,209,49.5,ASIA,No,Customised Plan,0
+53,JZI,Airlines,7.7,Online,5,22,ASIA,No,Bronze Plan,0
+32,C2B,Airlines,64.8,Online,366,259.2,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,5,35,ASIA,No,Customised Plan,0
+36,C2B,Airlines,5.85,Online,7,23.4,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,15,29,ASIA,No,Customised Plan,0
+50,JZI,Airlines,6.3,Online,4,18,ASIA,No,Bronze Plan,0
+46,C2B,Airlines,5,Online,9,20,ASIA,Yes,Bronze Plan,4560
+42,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5170
+48,CWT,Travel Agency,10.5,Offline,102,30,ASIA,No,Customised Plan,0
+34,C2B,Airlines,7.25,Online,6,29,ASIA,Yes,Silver Plan,5472
+55,CWT,Travel Agency,17.82,Online,3,29.7,EUROPE,No,Customised Plan,0
+25,EPX,Travel Agency,0,Online,12,13,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,32,29,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,8,49,ASIA,No,Customised Plan,0
+69,C2B,Airlines,5.85,Online,14,23.4,ASIA,Yes,Bronze Plan,4975
+19,C2B,Airlines,6,Online,12,15,ASIA,No,Bronze Plan,0
+30,C2B,Airlines,22.13,Online,28,88.5,ASIA,Yes,Silver Plan,5124
+30,C2B,Airlines,5.53,Online,12,22.1,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,2,21,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,26,18,ASIA,No,Cancellation Plan,0
+38,C2B,Airlines,24.86,Online,24,99.45,ASIA,Yes,Gold Plan,5674
+42,EPX,Travel Agency,0,Online,52,10,ASIA,No,Cancellation Plan,0
+31,JZI,Airlines,9.1,Online,16,26,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,132,22,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,12,23,ASIA,No,Customised Plan,0
+26,JZI,Airlines,12.25,Online,95,35,ASIA,Yes,Bronze Plan,4545
+35,EPX,Travel Agency,0,Online,61,28,ASIA,Yes,Cancellation Plan,3694
+38,EPX,Travel Agency,0,Online,43,34,ASIA,Yes,Customised Plan,4128
+40,C2B,Airlines,15.88,Online,48,202,ASIA,Yes,Silver Plan,5332
+33,C2B,Airlines,17.25,Online,27,69,ASIA,Yes,Gold Plan,5591
+36,EPX,Travel Agency,0,Online,28,28,ASIA,No,Cancellation Plan,0
+36,CWT,Travel Agency,29.7,Online,14,49.5,ASIA,No,Customised Plan,0
+54,C2B,Airlines,3.38,Online,6,13.5,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,32,31,ASIA,No,Customised Plan,0
+30,JZI,Airlines,7.7,Online,9,0,ASIA,No,Bronze Plan,0
+61,JZI,Airlines,9.1,Online,8,26,ASIA,No,Bronze Plan,0
+29,CWT,Travel Agency,35.64,Online,49,59.4,Americas,No,Customised Plan,0
+52,C2B,Airlines,10.5,Online,100,42,ASIA,Yes,Silver Plan,5087
+36,JZI,Airlines,12.25,Online,42,35,ASIA,No,Bronze Plan,0
+44,C2B,Airlines,54,Online,377,216,ASIA,Yes,Silver Plan,5281
+36,EPX,Travel Agency,0,Online,4,15,ASIA,No,Cancellation Plan,0
+45,EPX,Travel Agency,0,Online,10,24,Americas,No,Customised Plan,0
+41,EPX,Travel Agency,0,Online,15,20,ASIA,No,Customised Plan,0
+58,JZI,Airlines,10.5,Online,51,30,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,15,80,ASIA,No,Cancellation Plan,0
+38,EPX,Travel Agency,0,Online,43,22,ASIA,No,Customised Plan,0
+40,CWT,Travel Agency,65.34,Online,235,108.9,Americas,No,Customised Plan,0
+35,C2B,Airlines,11.7,Online,19,46.8,ASIA,Yes,Silver Plan,5303
+36,EPX,Travel Agency,0,Online,23,39,ASIA,No,Customised Plan,0
+37,CWT,Travel Agency,5.94,Online,2,9.9,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,79,20,ASIA,No,Customised Plan,0
+61,JZI,Airlines,7.7,Online,101,22,ASIA,No,Bronze Plan,0
+32,C2B,Airlines,21.13,Online,39,84.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,4.63,Online,27,18.5,ASIA,Yes,Silver Plan,5116
+64,C2B,Airlines,6.75,Online,11,27,ASIA,Yes,Bronze Plan,4642
+30,C2B,Airlines,59.5,Online,158,238,ASIA,Yes,Bronze Plan,4625
+25,EPX,Travel Agency,0,Online,120,31,ASIA,Yes,Customised Plan,4303
+23,C2B,Airlines,8.38,Online,29,33.5,ASIA,Yes,Silver Plan,5116
+35,C2B,Airlines,54,Online,376,216,ASIA,Yes,Silver Plan,5252
+29,EPX,Travel Agency,0,Online,125,37,ASIA,No,Customised Plan,0
+42,JZI,Airlines,7.7,Online,7,22,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,14,40,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,11.88,Online,3,19.8,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,4,34,ASIA,No,Customised Plan,0
+60,CWT,Travel Agency,166.53,Online,365,256.2,Americas,Yes,Gold Plan,5651
+22,CWT,Travel Agency,22.04,Online,6,58,EUROPE,No,Bronze Plan,0
+48,CWT,Travel Agency,210.21,Online,365,323.4,Americas,Yes,Gold Plan,5808
+34,C2B,Airlines,3.38,Online,17,13.5,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,51,112,EUROPE,No,Customised Plan,0
+56,C2B,Airlines,15.6,Online,22,39,ASIA,No,Bronze Plan,0
+29,C2B,Airlines,15.5,Online,38,62,ASIA,Yes,Silver Plan,5089
+25,C2B,Airlines,4.39,Online,7,17.55,ASIA,No,Bronze Plan,0
+27,EPX,Travel Agency,0,Online,6,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,10,39,ASIA,Yes,Customised Plan,4331
+36,EPX,Travel Agency,0,Online,53,52,ASIA,No,Cancellation Plan,0
+67,JZI,Airlines,14,Online,24,40,ASIA,No,Bronze Plan,0
+26,C2B,Airlines,7.47,Online,10,29.9,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,3,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,47,76,Americas,No,Cancellation Plan,0
+69,CWT,Travel Agency,9.57,Offline,77,29,ASIA,Yes,Customised Plan,4218
+39,C2B,Airlines,5.25,Online,6,21,ASIA,Yes,Bronze Plan,4787
+27,C2B,Airlines,54,Online,383,216,ASIA,Yes,Silver Plan,5068
+46,EPX,Travel Agency,0,Online,110,14,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,49,10,ASIA,No,Cancellation Plan,0
+27,EPX,Travel Agency,0,Online,386,55,ASIA,No,Customised Plan,0
+22,EPX,Travel Agency,0,Online,16,170,ASIA,No,Customised Plan,0
+27,JZI,Airlines,12.25,Online,162,35,ASIA,No,Bronze Plan,0
+37,JZI,Airlines,6.3,Online,9,18,ASIA,No,Bronze Plan,0
+48,C2B,Airlines,0.96,Online,2,3.44,ASIA,No,Customised Plan,0
+42,C2B,Airlines,4,Online,16,16,ASIA,Yes,Bronze Plan,4671
+48,EPX,Travel Agency,0,Online,6,24,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,3,10,ASIA,No,Cancellation Plan,0
+52,C2B,Airlines,9.2,Online,59,23,ASIA,No,Bronze Plan,0
+59,JZI,Airlines,9.1,Online,3,26,ASIA,No,Bronze Plan,0
+54,EPX,Travel Agency,0,Online,17,42,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,7,0,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,51,57,ASIA,No,Customised Plan,0
+21,EPX,Travel Agency,0,Online,59,80,Americas,No,Cancellation Plan,0
+23,C2B,Airlines,63.21,Online,376,208,ASIA,Yes,Silver Plan,5084
+34,CWT,Travel Agency,41.58,Online,42,69.3,EUROPE,No,Customised Plan,0
+36,CWT,Travel Agency,23.76,Online,6,39.6,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,34,73,ASIA,No,Customised Plan,0
+32,C2B,Airlines,4,Online,21,201,ASIA,Yes,Bronze Plan,4593
+36,EPX,Travel Agency,0,Online,34,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,1,10,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,10,27,ASIA,No,Cancellation Plan,0
+32,JZI,Airlines,11.55,Online,19,33,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,11,33,ASIA,No,Customised Plan,0
+25,CWT,Travel Agency,29.7,Online,38,49.5,EUROPE,Yes,Customised Plan,4451
+36,EPX,Travel Agency,0,Online,13,20,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,1,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,31,90,EUROPE,Yes,Customised Plan,4183
+36,EPX,Travel Agency,0,Online,7,24,ASIA,No,Cancellation Plan,0
+27,C2B,Airlines,5,Online,26,20,ASIA,Yes,Bronze Plan,4553
+36,EPX,Travel Agency,0,Online,16,33,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,29,43,ASIA,No,Customised Plan,0
+46,CWT,Travel Agency,27.3,Online,5,42,ASIA,Yes,Gold Plan,5937
+36,EPX,Travel Agency,0,Online,6,10,ASIA,No,Cancellation Plan,0
+53,C2B,Airlines,72.94,Online,365,291.75,ASIA,Yes,Silver Plan,5274
+36,EPX,Travel Agency,0,Online,58,16,Americas,No,Cancellation Plan,0
+54,EPX,Travel Agency,0,Online,9,15,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,7.25,Online,6,29,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,60,55,ASIA,No,Cancellation Plan,0
+37,C2B,Airlines,13.38,Online,64,53.5,ASIA,No,Bronze Plan,0
+30,CWT,Travel Agency,166.53,Online,375,256.2,Americas,Yes,Gold Plan,5553
+37,C2B,Airlines,112.31,Online,365,449.25,ASIA,Yes,Gold Plan,5523
+28,CWT,Travel Agency,17.82,Online,47,29.7,Americas,Yes,Customised Plan,4379
+65,CWT,Travel Agency,77.22,Online,76,128.7,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,17,33,ASIA,No,Cancellation Plan,0
+50,CWT,Travel Agency,35.64,Online,111,59.4,ASIA,Yes,Customised Plan,4334
+28,EPX,Travel Agency,0,Online,19,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,6,26,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,18,18.87,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,2,56,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,21,35,ASIA,Yes,Customised Plan,4017
+36,EPX,Travel Agency,0,Online,10,23,ASIA,No,Cancellation Plan,0
+25,CWT,Travel Agency,23.76,Online,16,39.6,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+48,C2B,Airlines,2.62,Online,63,9.33,ASIA,Yes,Customised Plan,4484
+68,C2B,Airlines,97.34,Online,365,389.35,ASIA,No,Gold Plan,0
+36,EPX,Travel Agency,0,Online,45,39,ASIA,No,Cancellation Plan,0
+42,JZI,Airlines,7.7,Online,21,22,ASIA,No,Bronze Plan,0
+48,CWT,Travel Agency,10.64,Online,81,28,ASIA,Yes,Bronze Plan,4836
+29,C2B,Airlines,13.63,Online,11,54.5,ASIA,No,Silver Plan,0
+42,CWT,Travel Agency,65.34,Online,164,108.9,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,50,34,ASIA,No,Customised Plan,0
+32,EPX,Travel Agency,0,Online,33,20,ASIA,Yes,Customised Plan,4481
+36,EPX,Travel Agency,0,Online,76,33,ASIA,No,Cancellation Plan,0
+50,C2B,Airlines,17.38,Online,30,69.5,ASIA,Yes,Bronze Plan,4604
+35,CWT,Travel Agency,23.76,Online,4,39.6,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,21,41,ASIA,No,Customised Plan,0
+29,C2B,Airlines,72.94,Online,364,291.75,ASIA,Yes,Silver Plan,5279
+30,CWT,Travel Agency,33,Online,46,208.6,Americas,Yes,Customised Plan,4352
+75,C2B,Airlines,15,Online,20,60,ASIA,Yes,Gold Plan,5669
+37,JZI,Airlines,7.7,Online,107,22,ASIA,No,Bronze Plan,0
+43,C2B,Airlines,54,Online,374,216,ASIA,Yes,Silver Plan,5160
+65,C2B,Airlines,26.4,Online,19,105.6,ASIA,Yes,Gold Plan,5796
+32,CWT,Travel Agency,23.76,Online,105,39.6,EUROPE,Yes,Customised Plan,4283
+35,C2B,Airlines,40.75,Online,22,37,ASIA,No,Silver Plan,0
+36,C2B,Airlines,75.6,Online,368,302.4,ASIA,Yes,Silver Plan,5337
+70,CWT,Travel Agency,10.5,Offline,72,30,ASIA,No,Customised Plan,0
+41,CWT,Travel Agency,17.82,Online,59,62,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,80,97,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,2,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,47,34,ASIA,No,Customised Plan,0
+26,EPX,Travel Agency,0,Online,32,58,Americas,No,Cancellation Plan,0
+29,CWT,Travel Agency,9.57,Offline,102,29,ASIA,Yes,Customised Plan,4407
+36,EPX,Travel Agency,0,Online,28,52,ASIA,No,Customised Plan,0
+32,C2B,Airlines,54,Online,376,216,ASIA,Yes,Silver Plan,5498
+40,JZI,Airlines,6.3,Online,8,18,ASIA,No,Bronze Plan,0
+53,C2B,Airlines,7.25,Online,7,29,ASIA,No,Silver Plan,0
+31,CWT,Travel Agency,10.5,Offline,78,30,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,22,29,ASIA,Yes,Cancellation Plan,3547
+26,EPX,Travel Agency,0,Online,5,13,ASIA,No,Cancellation Plan,0
+31,C2B,Airlines,9.75,Online,9,39,ASIA,No,Silver Plan,0
+30,CWT,Travel Agency,35.64,Online,24,59.4,Americas,Yes,Customised Plan,4433
+36,EPX,Travel Agency,0,Online,26,41,ASIA,No,Cancellation Plan,0
+58,C2B,Airlines,5.25,Online,51,21,ASIA,Yes,Bronze Plan,4511
+36,EPX,Travel Agency,0,Online,45,41,ASIA,No,Customised Plan,0
+45,C2B,Airlines,40.25,Online,365,161,ASIA,Yes,Silver Plan,5111
+26,C2B,Airlines,15.5,Online,14,62,ASIA,Yes,Silver Plan,5268
+60,CWT,Travel Agency,47.52,Online,14,79.2,EUROPE,No,Customised Plan,0
+66,EPX,Travel Agency,0,Online,15,46,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,16,80,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,16,18,ASIA,No,Cancellation Plan,0
+34,C2B,Airlines,4.25,Online,8,17,ASIA,Yes,Bronze Plan,4971
+34,EPX,Travel Agency,0,Online,13,172,Americas,No,Cancellation Plan,0
+48,C2B,Airlines,2.56,Online,28,9.13,ASIA,Yes,Customised Plan,4366
+36,EPX,Travel Agency,0,Online,2,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,34,20,ASIA,No,Customised Plan,0
+36,CWT,Travel Agency,29.7,Online,22,49.5,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,53,89,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,6,80,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,10,28,ASIA,No,Customised Plan,0
+36,C2B,Airlines,13.63,Online,13,54.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,79,52,EUROPE,Yes,Customised Plan,4077
+63,EPX,Travel Agency,0,Online,17,11,ASIA,No,Cancellation Plan,0
+44,JZI,Airlines,33.6,Online,15,96,Americas,No,Bronze Plan,0
+31,EPX,Travel Agency,0,Online,16,0,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,49,84,EUROPE,Yes,Customised Plan,4435
+38,EPX,Travel Agency,0,Online,44,67,ASIA,No,Cancellation Plan,0
+37,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+31,C2B,Airlines,46.96,Online,428,187.85,ASIA,No,Silver Plan,0
+33,C2B,Airlines,7.38,Online,13,29.5,ASIA,No,Bronze Plan,0
+26,C2B,Airlines,15.5,Online,15,62,ASIA,Yes,Silver Plan,5254
+60,C2B,Airlines,13.63,Online,88,54.5,ASIA,Yes,Silver Plan,5313
+29,EPX,Travel Agency,0,Online,129,63,Americas,No,Cancellation Plan,0
+35,C2B,Airlines,5.85,Online,6,36,ASIA,No,Bronze Plan,0
+43,C2B,Airlines,10.5,Online,14,42,ASIA,No,Silver Plan,0
+26,EPX,Travel Agency,0,Online,13,51,ASIA,No,Customised Plan,0
+48,C2B,Airlines,0.23,Online,34,0.83,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,64,80,ASIA,No,Cancellation Plan,0
+25,C2B,Airlines,16.41,Online,46,65.65,ASIA,Yes,Bronze Plan,4780
+22,C2B,Airlines,40.25,Online,375,161,ASIA,No,Silver Plan,0
+31,CWT,Travel Agency,17.82,Online,19,29.7,ASIA,No,Customised Plan,0
+27,C2B,Airlines,4.5,Online,6,18,ASIA,Yes,Bronze Plan,4667
+36,C2B,Airlines,112.31,Online,386,449.25,ASIA,Yes,Gold Plan,5989
+29,EPX,Travel Agency,0,Online,58,17,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,4,10,ASIA,No,Cancellation Plan,0
+31,C2B,Airlines,10,Online,12,40,ASIA,Yes,Bronze Plan,4509
+31,EPX,Travel Agency,0,Online,20,20,ASIA,No,Customised Plan,0
+35,C2B,Airlines,70.2,Online,396,280.8,ASIA,No,Silver Plan,0
+23,EPX,Travel Agency,0,Online,47,42,ASIA,Yes,Customised Plan,4402
+32,JZI,Airlines,9.1,Online,74,26,ASIA,No,Bronze Plan,0
+38,C2B,Airlines,46.96,Online,365,187.85,ASIA,Yes,Silver Plan,5247
+36,EPX,Travel Agency,0,Online,392,69,ASIA,Yes,Customised Plan,4315
+40,CWT,Travel Agency,41.58,Online,69,69.3,EUROPE,Yes,Customised Plan,4474
+51,CWT,Travel Agency,47.52,Online,121,79.2,EUROPE,No,Customised Plan,0
+50,C2B,Airlines,3.38,Online,6,13.5,ASIA,No,Bronze Plan,0
+60,CWT,Travel Agency,41.58,Online,8,69.3,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,3,61,ASIA,No,Cancellation Plan,0
+56,JZI,Airlines,10.5,Online,82,30,ASIA,No,Bronze Plan,0
+22,C2B,Airlines,8.38,Online,89,33.5,ASIA,Yes,Bronze Plan,4707
+30,C2B,Airlines,7.64,Online,8,30.55,ASIA,Yes,Bronze Plan,4786
+41,C2B,Airlines,6,Online,9,15,ASIA,No,Bronze Plan,0
+23,JZI,Airlines,12.25,Online,70,35,ASIA,Yes,Bronze Plan,4899
+56,C2B,Airlines,4.5,Online,6,18,ASIA,Yes,Bronze Plan,4584
+53,EPX,Travel Agency,0,Online,13,112,Americas,No,Customised Plan,0
+31,CWT,Travel Agency,35.64,Online,46,59.4,Americas,Yes,Customised Plan,4400
+36,EPX,Travel Agency,0,Online,46,60,ASIA,No,Cancellation Plan,0
+35,C2B,Airlines,54,Online,41,216,ASIA,No,Silver Plan,0
+65,EPX,Travel Agency,0,Online,3,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,10,22,ASIA,No,Cancellation Plan,0
+46,C2B,Airlines,9.75,Online,13,39,ASIA,No,Silver Plan,0
+32,C2B,Airlines,5.25,Online,5,21,ASIA,Yes,Bronze Plan,4812
+36,EPX,Travel Agency,0,Online,49,39,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,17,42,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,26,0,ASIA,No,Customised Plan,0
+34,C2B,Airlines,22.13,Online,57,88.5,ASIA,Yes,Silver Plan,5053
+36,EPX,Travel Agency,0,Online,14,24,ASIA,Yes,Cancellation Plan,3938
+23,EPX,Travel Agency,0,Online,83,80,Americas,No,Cancellation Plan,0
+31,C2B,Airlines,54,Online,365,216,ASIA,Yes,Silver Plan,5181
+41,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+41,CWT,Travel Agency,0,Offline,365,97,ASIA,Yes,Customised Plan,4029
+33,C2B,Airlines,11.75,Online,12,47,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,35,11,ASIA,No,Cancellation Plan,0
+25,CWT,Travel Agency,9.57,Offline,15,29,ASIA,Yes,Customised Plan,4014
+24,C2B,Airlines,35,Online,17,20,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,30,42,ASIA,No,Customised Plan,0
+57,CWT,Travel Agency,23.76,Online,8,39.6,Americas,Yes,Customised Plan,4476
+38,C2B,Airlines,6.75,Online,107,27,ASIA,No,Bronze Plan,0
+32,C2B,Airlines,46.96,Online,365,187.85,ASIA,No,Silver Plan,0
+22,C2B,Airlines,7.38,Online,12,29.5,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,203,70,EUROPE,No,Customised Plan,0
+48,C2B,Airlines,8.49,Online,20,24.26,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,7,10,ASIA,No,Cancellation Plan,0
+26,C2B,Airlines,122.88,Online,185,491.5,ASIA,No,Gold Plan,0
+75,JZI,Airlines,12.25,Online,34,35,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,7,80,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,132,20,ASIA,No,Cancellation Plan,0
+48,CWT,Travel Agency,11.02,Online,3,29,ASIA,No,Gold Plan,0
+24,EPX,Travel Agency,0,Online,64,74,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,3,10,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,63.21,Online,369,252.85,ASIA,Yes,Silver Plan,5055
+36,C2B,Airlines,25.25,Online,78,101,ASIA,Yes,Bronze Plan,4662
+23,C2B,Airlines,18,Online,20,72,ASIA,Yes,Silver Plan,5340
+39,C2B,Airlines,54,Online,383,216,ASIA,Yes,Silver Plan,5207
+22,C2B,Airlines,5.63,Online,19,22.5,ASIA,Yes,Silver Plan,5376
+63,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+54,JZI,Airlines,10.5,Online,53,30,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,25,38,ASIA,No,Customised Plan,0
+19,JZI,Airlines,15.75,Online,105,45,ASIA,Yes,Bronze Plan,4591
+31,C2B,Airlines,12.4,Online,27,31,ASIA,No,Bronze Plan,0
+57,EPX,Travel Agency,0,Online,45,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,58,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,2,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,1,10,ASIA,No,Cancellation Plan,0
+48,CWT,Travel Agency,18.62,Online,53,49,ASIA,No,Gold Plan,0
+38,CWT,Travel Agency,29.7,Online,8,49.5,ASIA,Yes,Customised Plan,4100
+18,C2B,Airlines,14.13,Online,91,56.5,ASIA,Yes,Silver Plan,5145
+44,CWT,Travel Agency,23.76,Online,51,39.6,ASIA,No,Customised Plan,0
+28,CWT,Travel Agency,41.58,Online,50,69.3,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,60,35,ASIA,No,Customised Plan,0
+37,C2B,Airlines,75.25,Online,369,301,ASIA,Yes,Silver Plan,5123
+41,C2B,Airlines,37,Online,119,148,ASIA,Yes,Bronze Plan,4921
+41,EPX,Travel Agency,0,Online,2,38,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,7,34,ASIA,No,Customised Plan,0
+56,C2B,Airlines,3.38,Online,7,13.5,ASIA,No,Bronze Plan,0
+28,C2B,Airlines,5.75,Online,41,23,ASIA,No,Bronze Plan,0
+45,C2B,Airlines,63.21,Online,367,252.85,ASIA,Yes,Silver Plan,5412
+25,EPX,Travel Agency,0,Online,42,17,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,31,80,Americas,No,Cancellation Plan,0
+64,EPX,Travel Agency,0,Online,75,23.87,ASIA,No,Customised Plan,0
+55,C2B,Airlines,63.21,Online,398,252.85,ASIA,Yes,Silver Plan,5264
+28,C2B,Airlines,9.38,Online,9,0,ASIA,No,Silver Plan,0
+68,C2B,Airlines,6.75,Online,11,27,ASIA,Yes,Bronze Plan,4871
+30,C2B,Airlines,8.88,Online,46,35.5,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,22,29,ASIA,Yes,Cancellation Plan,3670
+27,C2B,Airlines,11.7,Online,12,0,ASIA,No,Silver Plan,0
+36,CWT,Travel Agency,29.7,Online,111,49.5,ASIA,No,Customised Plan,0
+34,C2B,Airlines,16.75,Online,15,67,ASIA,Yes,Bronze Plan,4568
+59,CWT,Travel Agency,10.5,Offline,28,30,ASIA,No,Customised Plan,0
+20,EPX,Travel Agency,0,Online,61,80,Americas,No,Cancellation Plan,0
+26,C2B,Airlines,24.8,Online,47,62,ASIA,No,Bronze Plan,0
+23,JZI,Airlines,11.55,Online,14,33,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,1,13,ASIA,No,Cancellation Plan,0
+28,EPX,Travel Agency,0,Online,91,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,9,13,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,26,73,EUROPE,No,Cancellation Plan,0
+41,CWT,Travel Agency,17.82,Online,14,29.7,EUROPE,No,Customised Plan,0
+54,C2B,Airlines,4,Online,23,16,ASIA,No,Bronze Plan,0
+48,C2B,Airlines,32.16,Online,8,91.88,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,138,53,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,7,29,ASIA,No,Customised Plan,0
+37,JZI,Airlines,15.75,Online,87,45,ASIA,No,Bronze Plan,0
+37,C2B,Airlines,11.38,Online,25,45.5,ASIA,Yes,Bronze Plan,4870
+25,C2B,Airlines,6.01,Online,32,24.05,ASIA,No,Silver Plan,0
+45,C2B,Airlines,7.38,Online,10,29.5,ASIA,Yes,Silver Plan,5422
+36,C2B,Airlines,52.33,Online,372,209.3,ASIA,No,Silver Plan,0
+60,CWT,Travel Agency,47.52,Online,12,79.2,ASIA,Yes,Customised Plan,4017
+36,EPX,Travel Agency,0,Online,125,66,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,4,11,ASIA,No,Cancellation Plan,0
+34,C2B,Airlines,6,Online,22,15,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,5,73,ASIA,No,Cancellation Plan,0
+49,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,31,29,ASIA,Yes,Customised Plan,4464
+26,JZI,Airlines,14,Online,55,40,ASIA,Yes,Bronze Plan,4735
+26,CWT,Travel Agency,17.82,Online,43,0,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,289,29,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,216,20,EUROPE,Yes,Customised Plan,4095
+20,C2B,Airlines,14.13,Online,17,56.5,ASIA,Yes,Silver Plan,5362
+41,CWT,Travel Agency,77.22,Online,14,128.7,EUROPE,Yes,Customised Plan,4224
+48,C2B,Airlines,17.29,Online,22,49.39,ASIA,No,Customised Plan,0
+45,EPX,Travel Agency,0,Online,65,112,Americas,No,Customised Plan,0
+77,CWT,Travel Agency,17.23,Online,32,26.5,ASIA,Yes,Silver Plan,5214
+36,EPX,Travel Agency,0,Online,35,32,ASIA,No,Customised Plan,0
+51,C2B,Airlines,7.38,Online,17,29.5,ASIA,Yes,Bronze Plan,4705
+36,EPX,Travel Agency,0,Online,73,17,ASIA,Yes,Cancellation Plan,3953
+68,JZI,Airlines,12.25,Online,21,165,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,17,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,13,37,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,3,149,Americas,Yes,Customised Plan,4441
+45,CWT,Travel Agency,9.57,Offline,20,29,ASIA,No,Customised Plan,0
+28,C2B,Airlines,28.13,Online,34,112.5,ASIA,Yes,Silver Plan,5307
+35,EPX,Travel Agency,0,Online,35,112,EUROPE,Yes,Customised Plan,4287
+54,JZI,Airlines,7.7,Online,123,22,ASIA,No,Bronze Plan,0
+51,C2B,Airlines,63.21,Online,370,252.85,ASIA,No,Silver Plan,0
+38,CWT,Travel Agency,23.76,Online,9,39.6,ASIA,No,Customised Plan,0
+48,C2B,Airlines,1.33,Online,65,4.76,ASIA,Yes,Customised Plan,4003
+69,C2B,Airlines,3.38,Online,6,13.5,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,10,30,Americas,No,Customised Plan,0
+48,C2B,Airlines,0.56,Online,2,1.98,ASIA,No,Customised Plan,0
+43,JZI,Airlines,12.25,Online,19,35,ASIA,No,Bronze Plan,0
+25,C2B,Airlines,28.8,Online,17,72,ASIA,No,Bronze Plan,0
+23,JZI,Airlines,7.7,Online,12,22,ASIA,No,Bronze Plan,0
+36,C2B,Airlines,13.38,Online,116,53.5,ASIA,Yes,Bronze Plan,4643
+48,C2B,Airlines,0.05,Online,280,0.19,ASIA,No,Customised Plan,0
+36,JZI,Airlines,6.3,Online,26,18,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,35,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,11,20,ASIA,Yes,Customised Plan,4279
+40,CWT,Travel Agency,23.76,Online,19,39.6,Americas,No,Customised Plan,0
+58,C2B,Airlines,4,Online,30,16,ASIA,Yes,Bronze Plan,4750
+36,EPX,Travel Agency,0,Online,37,80,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,30,20,ASIA,No,Customised Plan,0
+48,EPX,Travel Agency,0,Online,70,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,5,27,ASIA,No,Cancellation Plan,0
+51,CWT,Travel Agency,29.7,Online,30,49.5,ASIA,No,Customised Plan,0
+34,C2B,Airlines,63.21,Online,380,252.85,ASIA,Yes,Silver Plan,5433
+40,C2B,Airlines,8.38,Online,115,33.5,ASIA,Yes,Bronze Plan,4677
+39,JZI,Airlines,6.3,Online,2,18,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,7,10,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,46.96,Online,376,187.85,ASIA,Yes,Silver Plan,5481
+48,CWT,Travel Agency,10.64,Online,8,28,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,19,28,ASIA,No,Customised Plan,0
+25,C2B,Airlines,12.4,Online,18,31,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,7,61,ASIA,Yes,Customised Plan,4143
+36,EPX,Travel Agency,0,Online,16,30,ASIA,No,Customised Plan,0
+52,EPX,Travel Agency,0,Online,11,11,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,15,40,ASIA,No,Customised Plan,0
+36,C2B,Airlines,5.63,Online,85,22.5,ASIA,No,Silver Plan,0
+38,C2B,Airlines,7.38,Online,7,29.5,ASIA,No,Silver Plan,0
+29,C2B,Airlines,63.21,Online,368,252.85,ASIA,Yes,Silver Plan,5342
+17,C2B,Airlines,51.75,Online,64,207,ASIA,Yes,Gold Plan,5901
+44,C2B,Airlines,46.96,Online,366,187.85,ASIA,Yes,Silver Plan,5412
+46,EPX,Travel Agency,0,Online,74,104,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,25,54,ASIA,Yes,Customised Plan,4401
+48,C2B,Airlines,1.22,Online,10,4.37,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,22,29,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,6.63,Online,11,26.5,ASIA,Yes,Bronze Plan,4838
+25,C2B,Airlines,20,Online,10,50,ASIA,Yes,Bronze Plan,4683
+56,JZI,Airlines,9.1,Online,9,26,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,38,26,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,40,156,EUROPE,No,Customised Plan,0
+32,C2B,Airlines,7.13,Online,5,28.5,ASIA,No,Silver Plan,0
+50,CWT,Travel Agency,23.76,Online,14,39.6,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,40,27,ASIA,No,Customised Plan,0
+37,CWT,Travel Agency,210.21,Online,364,323.4,Americas,No,Gold Plan,0
+60,C2B,Airlines,17.13,Online,36,68.5,ASIA,No,Bronze Plan,0
+42,C2B,Airlines,54,Online,365,216,ASIA,No,Silver Plan,0
+25,C2B,Airlines,5.75,Online,17,23,ASIA,No,Bronze Plan,0
+44,CWT,Travel Agency,23.76,Online,9,204,ASIA,Yes,Customised Plan,4430
+36,EPX,Travel Agency,0,Online,70,112,EUROPE,No,Customised Plan,0
+31,CWT,Travel Agency,35.64,Online,11,59.4,EUROPE,Yes,Customised Plan,4476
+43,C2B,Airlines,63.21,Online,376,155,ASIA,Yes,Silver Plan,5064
+61,C2B,Airlines,83.25,Online,365,333,ASIA,Yes,Gold Plan,5501
+36,EPX,Travel Agency,0,Online,11,36,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,6,12,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,19,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,8,15,ASIA,No,Cancellation Plan,0
+42,CWT,Travel Agency,35.64,Online,7,59.4,EUROPE,No,Customised Plan,0
+35,EPX,Travel Agency,0,Online,2,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,10,17,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,49,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,131,63,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,2,112,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,35,27,ASIA,No,Cancellation Plan,0
+35,C2B,Airlines,18,Online,103,72,ASIA,Yes,Bronze Plan,4658
+46,EPX,Travel Agency,0,Online,198,112,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,8,59,ASIA,No,Cancellation Plan,0
+27,CWT,Travel Agency,23.76,Online,14,39.6,ASIA,No,Customised Plan,0
+50,EPX,Travel Agency,0,Online,76,15,Americas,No,Cancellation Plan,0
+47,JZI,Airlines,6.3,Online,14,18,ASIA,No,Bronze Plan,0
+48,C2B,Airlines,1.84,Online,3,6.56,ASIA,No,Customised Plan,0
+27,EPX,Travel Agency,0,Online,20,20,ASIA,No,Customised Plan,0
+48,C2B,Airlines,8.38,Online,8,33.5,ASIA,No,Gold Plan,0
+36,EPX,Travel Agency,0,Online,43,23,EUROPE,No,Cancellation Plan,0
+29,C2B,Airlines,13.38,Online,41,53.5,ASIA,Yes,Bronze Plan,4950
+33,CWT,Travel Agency,23.73,Online,10,36.5,ASIA,Yes,Gold Plan,5592
+36,EPX,Travel Agency,0,Online,4,16,ASIA,No,Cancellation Plan,0
+40,CWT,Travel Agency,23.76,Online,33,39.6,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,24,28,ASIA,No,Customised Plan,0
+58,EPX,Travel Agency,0,Online,99,20,ASIA,No,Customised Plan,0
+28,C2B,Airlines,7.64,Online,66,30.55,ASIA,No,Bronze Plan,0
+31,CWT,Travel Agency,17.82,Online,4,29.7,EUROPE,No,Customised Plan,0
+31,C2B,Airlines,72.94,Online,367,291.75,ASIA,Yes,Silver Plan,5464
+36,EPX,Travel Agency,0,Online,33,49,EUROPE,No,Cancellation Plan,0
+31,CWT,Travel Agency,23.76,Online,84,39.6,Americas,No,Customised Plan,0
+65,C2B,Airlines,4.63,Online,5,18.5,ASIA,Yes,Silver Plan,5287
+20,C2B,Airlines,10.5,Online,17,42,ASIA,Yes,Silver Plan,5322
+36,EPX,Travel Agency,0,Online,79,39,ASIA,No,Cancellation Plan,0
+26,CWT,Travel Agency,29.7,Online,74,49.5,EUROPE,Yes,Customised Plan,4321
+26,C2B,Airlines,5.53,Online,14,22.1,ASIA,Yes,Bronze Plan,4988
+36,EPX,Travel Agency,0,Online,53,20,ASIA,No,Customised Plan,0
+29,C2B,Airlines,4.25,Online,9,17,ASIA,Yes,Bronze Plan,4901
+31,C2B,Airlines,59.88,Online,369,239.5,ASIA,Yes,Gold Plan,5860
+36,EPX,Travel Agency,0,Online,80,152,ASIA,No,Customised Plan,0
+34,CWT,Travel Agency,41.58,Online,37,0,Americas,No,Customised Plan,0
+28,JZI,Airlines,10.5,Online,44,30,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,281,69,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,15,13,ASIA,No,Cancellation Plan,0
+37,CWT,Travel Agency,17.82,Online,19,71,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,43,22,ASIA,No,Cancellation Plan,0
+31,EPX,Travel Agency,0,Online,11,35,ASIA,No,Customised Plan,0
+28,C2B,Airlines,5.88,Online,28,23.5,ASIA,Yes,Bronze Plan,4660
+28,CWT,Travel Agency,17.82,Online,204,29.7,ASIA,No,Customised Plan,0
+43,C2B,Airlines,3.38,Online,4,13.5,ASIA,Yes,Bronze Plan,4924
+36,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,12,40,ASIA,Yes,Customised Plan,4387
+21,C2B,Airlines,21.5,Online,66,86,ASIA,Yes,Bronze Plan,4558
+36,EPX,Travel Agency,0,Online,234,26,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,14,31,ASIA,No,Customised Plan,0
+37,CWT,Travel Agency,95.04,Online,61,158.4,Americas,Yes,Customised Plan,4012
+32,C2B,Airlines,21.13,Online,87,84.5,ASIA,Yes,Silver Plan,5302
+49,EPX,Travel Agency,0,Online,40,95,ASIA,No,Customised Plan,0
+55,C2B,Airlines,4,Online,12,16,ASIA,Yes,Bronze Plan,4714
+36,CWT,Travel Agency,47.52,Online,49,79.2,Americas,Yes,Customised Plan,4453
+36,EPX,Travel Agency,0,Online,74,16,ASIA,Yes,Cancellation Plan,3975
+36,EPX,Travel Agency,0,Online,96,85,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,31,24,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,35,41,Americas,Yes,Customised Plan,4013
+36,EPX,Travel Agency,0,Online,55,29,ASIA,No,Cancellation Plan,0
+33,C2B,Airlines,54,Online,372,216,ASIA,Yes,Silver Plan,5036
+44,CWT,Travel Agency,142.56,Online,29,237.6,Americas,No,Customised Plan,0
+79,EPX,Travel Agency,0,Online,41,78,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,66,197,ASIA,No,Cancellation Plan,0
+48,CWT,Travel Agency,10.64,Online,17,28,ASIA,Yes,Bronze Plan,4729
+40,EPX,Travel Agency,0,Online,14,20,ASIA,No,Customised Plan,0
+35,JZI,Airlines,33.6,Online,164,96,Americas,Yes,Bronze Plan,4733
+26,C2B,Airlines,18,Online,57,72,ASIA,Yes,Silver Plan,5151
+57,C2B,Airlines,5,Online,10,20,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,86,44,ASIA,Yes,Customised Plan,4127
+38,C2B,Airlines,46.96,Online,375,187.85,ASIA,Yes,Silver Plan,5319
+36,EPX,Travel Agency,0,Online,81,200,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,20,56,ASIA,No,Customised Plan,0
+42,CWT,Travel Agency,23.76,Online,9,39.6,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,3,14,ASIA,No,Cancellation Plan,0
+39,C2B,Airlines,5.88,Online,32,23.5,ASIA,Yes,Bronze Plan,4773
+36,EPX,Travel Agency,0,Online,7,42,ASIA,No,Customised Plan,0
+22,C2B,Airlines,60,Online,391,56.5,ASIA,Yes,Bronze Plan,4884
+40,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+37,C2B,Airlines,3.38,Online,2,13.5,ASIA,Yes,Bronze Plan,4583
+36,EPX,Travel Agency,0,Online,6,73,ASIA,Yes,Customised Plan,4376
+36,EPX,Travel Agency,0,Online,33,0,ASIA,No,Cancellation Plan,0
+47,C2B,Airlines,46.96,Online,365,187.85,ASIA,Yes,Silver Plan,5390
+61,EPX,Travel Agency,0,Online,52,112,Americas,Yes,Customised Plan,4191
+24,C2B,Airlines,23.63,Online,55,94.5,ASIA,No,Bronze Plan,0
+59,C2B,Airlines,8.38,Online,18,33.5,ASIA,No,Bronze Plan,0
+67,EPX,Travel Agency,0,Online,147,31,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,15,14,ASIA,No,Cancellation Plan,0
+48,CWT,Travel Agency,10.64,Online,56,28,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,21,77,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,74,112,EUROPE,Yes,Customised Plan,4074
+30,C2B,Airlines,46.25,Online,167,185,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,8,29,ASIA,No,Cancellation Plan,0
+29,C2B,Airlines,5.88,Online,9,23.5,ASIA,Yes,Bronze Plan,4815
+31,CWT,Travel Agency,11.88,Online,113,0,EUROPE,No,Customised Plan,0
+45,JZI,Airlines,12.95,Online,55,37,ASIA,No,Bronze Plan,0
+31,CWT,Travel Agency,40.95,Online,147,63,ASIA,Yes,Gold Plan,5907
+29,C2B,Airlines,5,Online,7,20,ASIA,No,Bronze Plan,0
+30,CWT,Travel Agency,9.57,Offline,6,29,ASIA,No,Customised Plan,0
+40,EPX,Travel Agency,0,Online,47,112,Americas,Yes,Customised Plan,4475
+36,EPX,Travel Agency,0,Online,61,56,Americas,Yes,Customised Plan,4116
+36,EPX,Travel Agency,0,Online,9,65,ASIA,No,Customised Plan,0
+61,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5336
+28,JZI,Airlines,14,Online,42,40,ASIA,Yes,Bronze Plan,4635
+29,EPX,Travel Agency,0,Online,18,10,ASIA,No,Cancellation Plan,0
+61,C2B,Airlines,6,Online,8,15,ASIA,No,Bronze Plan,0
+34,CWT,Travel Agency,23.76,Online,14,39.6,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,51,85,EUROPE,No,Customised Plan,0
+24,C2B,Airlines,134.75,Online,175,539,ASIA,No,Gold Plan,0
+31,CWT,Travel Agency,53.46,Online,125,89.1,Americas,Yes,Customised Plan,4023
+36,EPX,Travel Agency,0,Online,34,66,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,156,29,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,95,14,ASIA,Yes,Cancellation Plan,3977
+36,EPX,Travel Agency,0,Online,25,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,202,38,ASIA,No,Customised Plan,0
+51,CWT,Travel Agency,59.4,Online,50,99,EUROPE,No,Customised Plan,0
+29,CWT,Travel Agency,41.58,Online,27,69.3,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,18,71,Americas,Yes,Customised Plan,4168
+35,EPX,Travel Agency,0,Online,11,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,72,20,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,17.82,Online,9,29.7,EUROPE,No,Customised Plan,0
+32,C2B,Airlines,46.96,Online,365,187.85,ASIA,Yes,Silver Plan,5343
+36,EPX,Travel Agency,0,Online,6,57,ASIA,No,Cancellation Plan,0
+47,C2B,Airlines,97.34,Online,366,389.35,ASIA,Yes,Gold Plan,5566
+36,EPX,Travel Agency,0,Online,28,39,ASIA,No,Customised Plan,0
+24,C2B,Airlines,6.3,Online,74,25.2,ASIA,No,Bronze Plan,0
+27,C2B,Airlines,54,Online,370,216,ASIA,Yes,Silver Plan,5305
+36,EPX,Travel Agency,0,Online,17,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,125,26,ASIA,Yes,Customised Plan,4051
+32,EPX,Travel Agency,0,Online,9,20,ASIA,No,Customised Plan,0
+38,JZI,Airlines,10.5,Online,18,30,ASIA,Yes,Bronze Plan,4885
+46,C2B,Airlines,54,Online,367,216,ASIA,Yes,Silver Plan,5091
+36,EPX,Travel Agency,0,Online,14,59,EUROPE,No,Cancellation Plan,0
+31,C2B,Airlines,16.75,Online,25,67,ASIA,Yes,Bronze Plan,4986
+53,CWT,Travel Agency,47.52,Online,13,79.2,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,17,151,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,6,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,26,20,ASIA,No,Customised Plan,0
+47,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5298
+47,C2B,Airlines,6,Online,3,15,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,126,17,ASIA,No,Cancellation Plan,0
+58,CWT,Travel Agency,23.76,Online,11,39.6,ASIA,No,Customised Plan,0
+41,C2B,Airlines,6.75,Online,17,27,ASIA,Yes,Bronze Plan,4670
+48,C2B,Airlines,0.18,Online,11,0.64,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,103,27,ASIA,No,Customised Plan,0
+25,C2B,Airlines,12.13,Online,22,48.5,ASIA,No,Silver Plan,0
+47,JZI,Airlines,9.1,Online,9,26,ASIA,Yes,Bronze Plan,4949
+22,EPX,Travel Agency,0,Online,27,10,ASIA,No,Cancellation Plan,0
+32,C2B,Airlines,26.4,Online,36,105.6,ASIA,Yes,Gold Plan,5976
+53,C2B,Airlines,13.38,Online,128,171,ASIA,Yes,Bronze Plan,4599
+37,CWT,Travel Agency,11.88,Online,5,19.8,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,146,80,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,27,14,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,171,104,Americas,No,Customised Plan,0
+55,EPX,Travel Agency,0,Online,35,33,ASIA,No,Cancellation Plan,0
+42,C2B,Airlines,83.25,Online,364,333,ASIA,No,Gold Plan,0
+50,CWT,Travel Agency,41.58,Online,118,69.3,ASIA,Yes,Customised Plan,4312
+64,CWT,Travel Agency,59.4,Online,26,99,ASIA,Yes,Customised Plan,4191
+37,CWT,Travel Agency,71.28,Online,96,0,Americas,No,Customised Plan,0
+51,CWT,Travel Agency,53.46,Online,71,89.1,Americas,Yes,Customised Plan,4079
+36,EPX,Travel Agency,0,Online,76,11,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,6,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,38,20,ASIA,Yes,Customised Plan,4118
+36,EPX,Travel Agency,0,Online,9,26,ASIA,No,Cancellation Plan,0
+25,EPX,Travel Agency,0,Offline,18,33,ASIA,Yes,Customised Plan,4088
+48,C2B,Airlines,0.77,Online,160,2.76,ASIA,No,Customised Plan,0
+41,CWT,Travel Agency,23.76,Online,33,39.6,Americas,No,Customised Plan,0
+53,CWT,Travel Agency,35.64,Online,7,59.4,EUROPE,Yes,Customised Plan,4491
+21,JZI,Airlines,12.25,Online,18,35,Americas,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,17,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,19,39,ASIA,Yes,Customised Plan,4168
+36,EPX,Travel Agency,0,Online,14,13,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,29.7,Online,28,49.5,Americas,No,Customised Plan,0
+55,C2B,Airlines,46.96,Online,394,187.85,ASIA,Yes,Silver Plan,5230
+36,EPX,Travel Agency,0,Online,8,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,24,46,ASIA,No,Customised Plan,0
+25,C2B,Airlines,54,Online,365,216,ASIA,Yes,Silver Plan,5337
+26,EPX,Travel Agency,0,Online,11,10,ASIA,No,Cancellation Plan,0
+14,CWT,Travel Agency,10.5,Offline,31,30,ASIA,Yes,Customised Plan,4453
+33,C2B,Airlines,4.63,Online,3,18.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,15,14,ASIA,No,Cancellation Plan,0
+56,C2B,Airlines,4.63,Online,9,18.5,ASIA,No,Silver Plan,0
+48,EPX,Travel Agency,0,Online,4,10,ASIA,No,Cancellation Plan,0
+23,EPX,Travel Agency,0,Online,19,17,Americas,No,Cancellation Plan,0
+45,JZI,Airlines,7.7,Online,21,22,ASIA,No,Bronze Plan,0
+24,C2B,Airlines,8.38,Online,15,33.5,ASIA,Yes,Silver Plan,5296
+36,EPX,Travel Agency,0,Online,40,72,EUROPE,No,Customised Plan,0
+28,C2B,Airlines,6.5,Online,41,159,ASIA,Yes,Bronze Plan,4692
+38,JZI,Airlines,6.3,Online,7,18,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,8,44,ASIA,No,Customised Plan,0
+49,JZI,Airlines,7.7,Online,22,22,ASIA,No,Bronze Plan,0
+57,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5431
+36,EPX,Travel Agency,0,Online,17,30,ASIA,No,Customised Plan,0
+46,C2B,Airlines,24.75,Online,40,99,ASIA,Yes,Bronze Plan,4524
+58,C2B,Airlines,54,Online,368,216,ASIA,Yes,Silver Plan,5031
+36,EPX,Travel Agency,0,Online,26,32,ASIA,No,Customised Plan,0
+37,C2B,Airlines,4.63,Online,2,18.5,ASIA,Yes,Silver Plan,5388
+54,EPX,Travel Agency,0,Online,20,20,ASIA,No,Customised Plan,0
+33,C2B,Airlines,17.75,Online,64,71,ASIA,Yes,Bronze Plan,4755
+29,C2B,Airlines,18,Online,20,72,ASIA,Yes,Silver Plan,5261
+30,C2B,Airlines,4.63,Online,4,18.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,180,50,ASIA,No,Customised Plan,0
+48,C2B,Airlines,75.25,Online,390,301,ASIA,Yes,Silver Plan,5034
+36,EPX,Travel Agency,0,Online,21,38,ASIA,Yes,Cancellation Plan,3738
+69,C2B,Airlines,6,Online,7,15,ASIA,Yes,Bronze Plan,4960
+36,EPX,Travel Agency,0,Online,67,23,ASIA,No,Cancellation Plan,0
+61,CWT,Travel Agency,35.64,Online,85,59.4,EUROPE,Yes,Customised Plan,4070
+46,CWT,Travel Agency,53.46,Online,114,89.1,Americas,No,Customised Plan,0
+34,EPX,Travel Agency,0,Online,23,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,17,112,Americas,No,Customised Plan,0
+34,CWT,Travel Agency,17.82,Online,22,29.7,ASIA,No,Customised Plan,0
+30,CWT,Travel Agency,17.82,Online,16,29.7,Americas,No,Customised Plan,0
+53,C2B,Airlines,7.38,Online,18,29.5,ASIA,Yes,Silver Plan,5044
+36,EPX,Travel Agency,0,Online,11,41,ASIA,No,Customised Plan,0
+37,C2B,Airlines,5.25,Online,10,21,ASIA,No,Bronze Plan,0
+48,C2B,Airlines,26.4,Online,100,105.6,ASIA,Yes,Gold Plan,5743
+36,EPX,Travel Agency,0,Online,19,39,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,3,15,ASIA,No,Cancellation Plan,0
+22,EPX,Travel Agency,0,Online,36,16,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,9,177,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,33,20,ASIA,No,Customised Plan,0
+38,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5260
+32,CWT,Travel Agency,23.76,Online,9,39.6,ASIA,Yes,Customised Plan,4200
+36,EPX,Travel Agency,0,Online,14,10,ASIA,No,Cancellation Plan,0
+36,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5474
+34,C2B,Airlines,5.25,Online,5,21,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,129,20,ASIA,No,Customised Plan,0
+48,C2B,Airlines,0.56,Online,83,1.99,ASIA,No,Customised Plan,0
+29,CWT,Travel Agency,23.76,Online,173,39.6,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,29.7,Online,6,49.5,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,23,194,ASIA,No,Cancellation Plan,0
+58,EPX,Travel Agency,0,Online,16,20,ASIA,No,Customised Plan,0
+39,CWT,Travel Agency,11.88,Online,6,19.8,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,5,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,51,20,ASIA,Yes,Customised Plan,4125
+32,EPX,Travel Agency,0,Online,14,16,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,92,29,ASIA,No,Customised Plan,0
+37,C2B,Airlines,46.96,Online,366,187.85,ASIA,Yes,Silver Plan,5229
+36,CWT,Travel Agency,41.58,Online,9,69.3,Americas,No,Customised Plan,0
+29,C2B,Airlines,54,Online,366,216,ASIA,Yes,Silver Plan,5067
+36,EPX,Travel Agency,0,Online,11,37,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,95,32,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,13,16,ASIA,No,Cancellation Plan,0
+31,C2B,Airlines,9.75,Online,42,39,ASIA,No,Silver Plan,0
+58,JZI,Airlines,12.25,Online,65,35,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,191,0,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,79,73,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,20,24,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,34,86,Americas,No,Customised Plan,0
+43,C2B,Airlines,63.21,Online,368,252.85,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,10,30,ASIA,No,Cancellation Plan,0
+21,JZI,Airlines,11.55,Online,65,33,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,229,50,ASIA,No,Customised Plan,0
+31,C2B,Airlines,63.21,Online,367,252.85,ASIA,Yes,Silver Plan,5173
+81,C2B,Airlines,64.38,Online,135,257.5,ASIA,Yes,Bronze Plan,4951
+22,C2B,Airlines,10.13,Online,18,40.5,ASIA,No,Bronze Plan,0
+50,EPX,Travel Agency,0,Online,3,22,ASIA,No,Customised Plan,0
+53,JZI,Airlines,15.4,Online,202,44,ASIA,No,Bronze Plan,0
+32,C2B,Airlines,3.38,Online,3,13.5,ASIA,No,Bronze Plan,0
+48,C2B,Airlines,0.36,Online,70,1.29,ASIA,No,Customised Plan,0
+44,EPX,Travel Agency,0,Online,5,14,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,29,25,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,55,20,ASIA,No,Customised Plan,0
+28,C2B,Airlines,16.41,Online,33,65.65,ASIA,Yes,Bronze Plan,4777
+44,CWT,Travel Agency,47.52,Online,51,79.2,EUROPE,Yes,Customised Plan,4261
+48,C2B,Airlines,4.2,Online,384,14.99,ASIA,No,Customised Plan,0
+23,EPX,Travel Agency,0,Online,43,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,129,48,ASIA,Yes,Customised Plan,4281
+19,EPX,Travel Agency,0,Online,129,80,ASIA,No,Cancellation Plan,0
+48,C2B,Airlines,2.62,Online,73,9.33,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,5,35,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,97,41,ASIA,Yes,Customised Plan,4097
+36,EPX,Travel Agency,0,Online,15,106,ASIA,No,Customised Plan,0
+53,JZI,Airlines,9.1,Online,46,26,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,35,34,ASIA,No,Cancellation Plan,0
+34,JZI,Airlines,9.1,Online,61,26,ASIA,No,Bronze Plan,0
+34,EPX,Travel Agency,0,Online,30,112,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,26,20,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,38,169,ASIA,No,Cancellation Plan,0
+37,EPX,Travel Agency,0,Online,83,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,24,30,ASIA,No,Customised Plan,0
+25,JZI,Airlines,7.7,Online,15,176,ASIA,No,Bronze Plan,0
+46,JZI,Airlines,7.7,Online,61,22,Americas,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,3,70,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,22,20,ASIA,No,Customised Plan,0
+25,C2B,Airlines,37.2,Online,84,93,ASIA,No,Bronze Plan,0
+31,CWT,Travel Agency,17.82,Online,14,29.7,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,31,12,ASIA,No,Cancellation Plan,0
+30,CWT,Travel Agency,11.88,Online,39,19.8,EUROPE,No,Customised Plan,0
+25,C2B,Airlines,12.4,Online,42,31,ASIA,No,Bronze Plan,0
+43,C2B,Airlines,5.63,Online,66,22.5,ASIA,No,Silver Plan,0
+28,C2B,Airlines,5,Online,11,20,ASIA,Yes,Bronze Plan,4502
+55,EPX,Travel Agency,0,Online,26,59,ASIA,No,Customised Plan,0
+22,CWT,Travel Agency,49.4,Online,167,0,EUROPE,No,Gold Plan,0
+25,C2B,Airlines,15.5,Online,8,62,ASIA,No,Silver Plan,0
+35,EPX,Travel Agency,0,Online,24,55,EUROPE,No,Cancellation Plan,0
+31,EPX,Travel Agency,0,Online,159,20,ASIA,No,Customised Plan,0
+34,EPX,Travel Agency,0,Online,9,10,ASIA,No,Cancellation Plan,0
+29,C2B,Airlines,4,Online,33,16,ASIA,Yes,Bronze Plan,4883
+42,EPX,Travel Agency,0,Online,35,25,ASIA,No,Cancellation Plan,0
+29,EPX,Travel Agency,0,Online,25,10,ASIA,No,Cancellation Plan,0
+47,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+34,C2B,Airlines,68.08,Online,431,272.3,ASIA,Yes,Silver Plan,5203
+53,CWT,Travel Agency,41.58,Online,52,69.3,Americas,No,Customised Plan,0
+65,C2B,Airlines,6,Online,20,15,ASIA,No,Bronze Plan,0
+28,C2B,Airlines,5,Online,21,20,ASIA,No,Bronze Plan,0
+39,JZI,Airlines,9.1,Online,50,26,ASIA,No,Bronze Plan,0
+45,EPX,Travel Agency,0,Online,15,0,ASIA,No,Cancellation Plan,0
+25,EPX,Travel Agency,0,Online,66,20,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,65.34,Online,208,108.9,EUROPE,Yes,Customised Plan,4442
+48,C2B,Airlines,6,Online,26,15,ASIA,No,Bronze Plan,0
+31,C2B,Airlines,5,Online,9,20,ASIA,No,Bronze Plan,0
+26,C2B,Airlines,4,Online,4,16,ASIA,Yes,Bronze Plan,4600
+31,CWT,Travel Agency,47.52,Online,52,79.2,Americas,Yes,Customised Plan,4142
+48,C2B,Airlines,0.05,Online,83,0.19,ASIA,No,Customised Plan,0
+30,C2B,Airlines,4.63,Online,3,18.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,26,64,EUROPE,No,Cancellation Plan,0
+30,C2B,Airlines,8.7,Online,38,34.8,ASIA,Yes,Silver Plan,5404
+36,EPX,Travel Agency,0,Online,19,25,ASIA,No,Customised Plan,0
+40,CWT,Travel Agency,30.55,Online,12,47,ASIA,Yes,Gold Plan,5608
+36,EPX,Travel Agency,0,Online,15,26,ASIA,No,Customised Plan,0
+35,C2B,Airlines,8.88,Online,6,35.5,ASIA,No,Silver Plan,0
+40,EPX,Travel Agency,0,Online,39,112,Americas,Yes,Customised Plan,4284
+36,EPX,Travel Agency,0,Online,28,28,ASIA,No,Customised Plan,0
+35,EPX,Travel Agency,0,Online,39,58,EUROPE,No,Customised Plan,0
+48,C2B,Airlines,6.75,Online,10,27,ASIA,Yes,Bronze Plan,4526
+36,EPX,Travel Agency,0,Online,16,67,Americas,No,Customised Plan,0
+74,C2B,Airlines,46.96,Online,369,187.85,ASIA,Yes,Silver Plan,5104
+47,CWT,Travel Agency,17.82,Online,18,29.7,ASIA,No,Customised Plan,0
+67,C2B,Airlines,13.38,Online,55,53.5,ASIA,Yes,Bronze Plan,4679
+33,C2B,Airlines,15.56,Online,11,62.25,ASIA,Yes,Silver Plan,5494
+50,C2B,Airlines,6,Online,8,15,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,384,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,1,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,16,20,ASIA,No,Customised Plan,0
+48,C2B,Airlines,1.25,Online,4,4.44,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,12,18,ASIA,No,Cancellation Plan,0
+38,CWT,Travel Agency,0,Offline,366,86,ASIA,Yes,Customised Plan,4119
+36,EPX,Travel Agency,0,Online,49,34,ASIA,Yes,Customised Plan,4385
+36,EPX,Travel Agency,0,Online,120,84,ASIA,Yes,Customised Plan,4273
+49,JZI,Airlines,17.15,Online,27,49,ASIA,No,Bronze Plan,0
+54,C2B,Airlines,8.38,Online,14,33.5,ASIA,Yes,Silver Plan,5171
+35,C2B,Airlines,6,Online,2,15,ASIA,No,Bronze Plan,0
+39,CWT,Travel Agency,43.55,Online,12,67,Americas,Yes,Gold Plan,5580
+36,JZI,Airlines,9.1,Online,14,26,ASIA,Yes,Bronze Plan,4921
+36,EPX,Travel Agency,0,Online,55,15,ASIA,Yes,Cancellation Plan,3960
+36,EPX,Travel Agency,0,Online,33,42,ASIA,No,Cancellation Plan,0
+55,CWT,Travel Agency,106.92,Online,106,178.2,EUROPE,No,Customised Plan,0
+35,JZI,Airlines,10.5,Online,12,30,ASIA,Yes,Bronze Plan,4510
+31,C2B,Airlines,9.75,Online,11,39,ASIA,Yes,Silver Plan,5086
+48,CWT,Travel Agency,10.64,Online,40,21,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,29,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,115,20,ASIA,No,Customised Plan,0
+44,CWT,Travel Agency,208,Online,397,320,Americas,Yes,Gold Plan,5723
+43,JZI,Airlines,7.7,Online,6,22,ASIA,No,Bronze Plan,0
+49,C2B,Airlines,54,Online,365,216,ASIA,Yes,Silver Plan,5059
+41,CWT,Travel Agency,0,Offline,364,97,Americas,Yes,Customised Plan,4369
+39,C2B,Airlines,24.5,Online,61,98,ASIA,No,Gold Plan,0
+45,C2B,Airlines,46.96,Online,372,187.85,ASIA,Yes,Silver Plan,5018
+27,EPX,Travel Agency,0,Online,80,36,ASIA,No,Customised Plan,0
+42,JZI,Airlines,7.7,Online,40,22,ASIA,No,Bronze Plan,0
+43,EPX,Travel Agency,0,Online,80,15,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,18,70,ASIA,No,Cancellation Plan,0
+45,EPX,Travel Agency,0,Online,8,12,ASIA,Yes,Cancellation Plan,3787
+36,EPX,Travel Agency,0,Online,75,45,Americas,No,Cancellation Plan,0
+27,C2B,Airlines,5.25,Online,9,21,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,85,37,EUROPE,Yes,Cancellation Plan,3930
+56,CWT,Travel Agency,35.64,Online,20,59.4,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,5,20,ASIA,No,Customised Plan,0
+47,C2B,Airlines,18,Online,21,72,ASIA,Yes,Silver Plan,5436
+40,C2B,Airlines,6.75,Online,10,27,ASIA,Yes,Bronze Plan,4973
+60,EPX,Travel Agency,0,Online,11,71,ASIA,No,Customised Plan,0
+50,EPX,Travel Agency,0,Online,6,56,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,71,25,ASIA,No,Cancellation Plan,0
+26,C2B,Airlines,4.8,Online,7,19.2,ASIA,Yes,Bronze Plan,4984
+26,C2B,Airlines,46.96,Online,365,187.85,ASIA,Yes,Silver Plan,5467
+33,C2B,Airlines,63.21,Online,365,252.85,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,111,22,ASIA,No,Cancellation Plan,0
+25,CWT,Travel Agency,18.85,Online,24,29,ASIA,No,Gold Plan,0
+36,EPX,Travel Agency,0,Online,114,27,ASIA,No,Cancellation Plan,0
+49,C2B,Airlines,8.85,Online,46,35.4,ASIA,Yes,Silver Plan,5314
+61,C2B,Airlines,99.9,Online,367,399.6,ASIA,Yes,Gold Plan,5697
+36,EPX,Travel Agency,0,Online,5,22,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,11,23,ASIA,No,Customised Plan,0
+26,CWT,Travel Agency,124.74,Online,93,207.9,Americas,No,Customised Plan,0
+38,EPX,Travel Agency,0,Online,27,15,ASIA,No,Cancellation Plan,0
+25,C2B,Airlines,28.8,Online,17,72,ASIA,No,Bronze Plan,0
+37,CWT,Travel Agency,77.22,Online,73,128.7,Americas,No,Customised Plan,0
+42,C2B,Airlines,54,Online,366,216,ASIA,Yes,Silver Plan,5320
+44,JZI,Airlines,9.1,Online,7,26,ASIA,No,Bronze Plan,0
+31,CWT,Travel Agency,41.58,Online,34,69.3,Americas,No,Customised Plan,0
+41,C2B,Airlines,15,Online,59,60,ASIA,Yes,Bronze Plan,4649
+26,CWT,Travel Agency,11.88,Online,4,19.8,ASIA,No,Customised Plan,0
+48,CWT,Travel Agency,10.64,Online,22,28,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,38,80,ASIA,No,Cancellation Plan,0
+26,EPX,Travel Agency,0,Online,65,10,ASIA,No,Cancellation Plan,0
+24,C2B,Airlines,11.75,Online,16,47,ASIA,Yes,Bronze Plan,4863
+41,CWT,Travel Agency,17.82,Online,145,29.7,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,17,27,ASIA,No,Cancellation Plan,0
+23,C2B,Airlines,10.13,Online,36,181,ASIA,Yes,Bronze Plan,4903
+42,EPX,Travel Agency,0,Online,94,24,ASIA,No,Cancellation Plan,0
+31,EPX,Travel Agency,0,Online,39,10,ASIA,Yes,Cancellation Plan,3933
+36,EPX,Travel Agency,0,Online,130,20,ASIA,No,Customised Plan,0
+24,C2B,Airlines,4.39,Online,5,17.55,ASIA,Yes,Bronze Plan,4579
+61,CWT,Travel Agency,10.5,Offline,55,30,ASIA,No,Customised Plan,0
+29,EPX,Travel Agency,0,Online,29,10,ASIA,No,Cancellation Plan,0
+62,JZI,Airlines,9.1,Online,10,26,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,75,44,ASIA,No,Cancellation Plan,0
+45,JZI,Airlines,15.75,Online,9,45,Americas,Yes,Bronze Plan,4988
+41,C2B,Airlines,54,Online,378,216,ASIA,Yes,Silver Plan,5417
+36,C2B,Airlines,6.38,Online,54,25.5,ASIA,Yes,Bronze Plan,4733
+25,JZI,Airlines,6.3,Online,-1,18,ASIA,No,Bronze Plan,0
+32,JZI,Airlines,10.5,Online,65,30,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,13,20,ASIA,No,Customised Plan,0
+48,C2B,Airlines,1.22,Online,172,4.36,ASIA,No,Customised Plan,0
+51,C2B,Airlines,4.63,Online,5,18.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,18,56,ASIA,No,Cancellation Plan,0
+49,C2B,Airlines,5.63,Online,5,22.5,ASIA,No,Silver Plan,0
+30,C2B,Airlines,4,Online,5,16,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,2,20,ASIA,No,Customised Plan,0
+65,CWT,Travel Agency,23.73,Online,12,36.5,ASIA,Yes,Gold Plan,5633
+33,EPX,Travel Agency,0,Online,42,20,ASIA,No,Customised Plan,0
+53,CWT,Travel Agency,10.5,Offline,47,30,ASIA,No,Customised Plan,0
+27,C2B,Airlines,15.88,Online,40,63.5,ASIA,Yes,Silver Plan,5041
+36,EPX,Travel Agency,0,Online,23,24,ASIA,No,Customised Plan,0
+28,EPX,Travel Agency,0,Online,20,40,ASIA,Yes,Customised Plan,4051
+37,C2B,Airlines,40.25,Online,365,161,ASIA,Yes,Silver Plan,5135
+24,C2B,Airlines,54,Online,368,216,ASIA,Yes,Silver Plan,5485
+24,CWT,Travel Agency,124.74,Online,80,0,Americas,No,Customised Plan,0
+36,JZI,Airlines,25.55,Online,16,73,Americas,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,5,21,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,99,32,Americas,No,Customised Plan,0
+25,CWT,Travel Agency,9.57,Offline,4,29,ASIA,Yes,Customised Plan,4120
+36,EPX,Travel Agency,0,Online,39,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,15,13,ASIA,No,Cancellation Plan,0
+43,EPX,Travel Agency,0,Online,15,56,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,37,112,EUROPE,Yes,Customised Plan,4097
+30,EPX,Travel Agency,0,Online,37,15,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,40,26,ASIA,Yes,Customised Plan,4173
+36,EPX,Travel Agency,0,Online,13,37,ASIA,No,Customised Plan,0
+53,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+31,C2B,Airlines,15.88,Online,43,63.5,ASIA,Yes,Silver Plan,5435
+36,EPX,Travel Agency,0,Online,15,41,ASIA,No,Customised Plan,0
+41,CWT,Travel Agency,35.64,Online,34,183,Americas,No,Customised Plan,0
+36,C2B,Airlines,28.25,Online,18,113,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,49,34,ASIA,No,Customised Plan,0
+47,CWT,Travel Agency,29.7,Online,21,49.5,Americas,Yes,Customised Plan,4279
+39,C2B,Airlines,6.3,Online,3,25.2,ASIA,Yes,Bronze Plan,4798
+26,C2B,Airlines,64.8,Online,365,259.2,ASIA,Yes,Silver Plan,5053
+52,EPX,Travel Agency,0,Online,13,10,ASIA,No,Cancellation Plan,0
+34,C2B,Airlines,4,Online,11,16,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,32,40,Americas,No,Cancellation Plan,0
+35,CWT,Travel Agency,23.76,Online,12,188,ASIA,Yes,Customised Plan,4197
+46,CWT,Travel Agency,41.58,Online,391,69.3,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,118,187,EUROPE,No,Customised Plan,0
+32,C2B,Airlines,4,Online,5,16,ASIA,No,Bronze Plan,0
+56,C2B,Airlines,14.38,Online,9,57.5,ASIA,No,Gold Plan,0
+36,EPX,Travel Agency,0,Online,11,20,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,11.88,Online,23,19.8,EUROPE,No,Customised Plan,0
+22,C2B,Airlines,63.21,Online,366,252.85,ASIA,Yes,Silver Plan,5129
+36,EPX,Travel Agency,0,Online,6,91,ASIA,No,Customised Plan,0
+8,CWT,Travel Agency,9.57,Offline,50,29,ASIA,No,Customised Plan,0
+48,C2B,Airlines,16.27,Online,187,46.49,ASIA,No,Customised Plan,0
+47,JZI,Airlines,6.3,Online,4,18,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,68,20,ASIA,No,Customised Plan,0
+57,C2B,Airlines,64.8,Online,396,259.2,ASIA,Yes,Silver Plan,5219
+36,EPX,Travel Agency,0,Online,12,32,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,63,35,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,81,40,ASIA,No,Cancellation Plan,0
+20,EPX,Travel Agency,0,Online,25,21,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,33,21,ASIA,Yes,Customised Plan,4383
+48,C2B,Airlines,0.23,Online,31,0.83,ASIA,No,Customised Plan,0
+50,C2B,Airlines,12.5,Online,10,50,ASIA,Yes,Silver Plan,5463
+36,EPX,Travel Agency,0,Online,28,23,ASIA,No,Customised Plan,0
+50,EPX,Travel Agency,0,Online,386,21,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,14,100,EUROPE,Yes,Customised Plan,4272
+36,EPX,Travel Agency,0,Online,9,27,ASIA,No,Customised Plan,0
+24,C2B,Airlines,12.4,Online,34,31,ASIA,No,Bronze Plan,0
+37,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,29.7,Online,7,49.5,EUROPE,No,Customised Plan,0
+24,CWT,Travel Agency,17.82,Online,58,29.7,EUROPE,Yes,Customised Plan,4403
+31,C2B,Airlines,4,Online,6,16,ASIA,Yes,Bronze Plan,4830
+53,C2B,Airlines,9.2,Online,115,23,ASIA,No,Bronze Plan,0
+61,C2B,Airlines,64.8,Online,44,259.2,ASIA,No,Silver Plan,0
+25,JZI,Airlines,63.35,Online,58,181,EUROPE,No,Bronze Plan,0
+57,CWT,Travel Agency,17.82,Online,8,29.7,Americas,Yes,Customised Plan,4324
+28,EPX,Travel Agency,0,Online,366,34,ASIA,No,Customised Plan,0
+50,CWT,Travel Agency,29.7,Online,19,49.5,Americas,No,Customised Plan,0
+67,C2B,Airlines,9.75,Online,28,39,ASIA,No,Bronze Plan,0
+28,EPX,Travel Agency,0,Online,90,36,ASIA,No,Cancellation Plan,0
+39,JZI,Airlines,7.7,Online,11,22,ASIA,No,Bronze Plan,0
+61,EPX,Travel Agency,0,Online,14,20,Americas,No,Customised Plan,0
+58,EPX,Travel Agency,0,Online,43,112,Americas,Yes,Customised Plan,4235
+26,CWT,Travel Agency,29.7,Online,7,49.5,ASIA,No,Customised Plan,0
+54,EPX,Travel Agency,0,Online,1,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,10,26,ASIA,No,Cancellation Plan,0
+21,EPX,Travel Agency,0,Online,70,51,ASIA,Yes,Customised Plan,4315
+36,EPX,Travel Agency,0,Online,40,37,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,53,86,EUROPE,No,Customised Plan,0
+39,C2B,Airlines,6.75,Online,9,27,ASIA,No,Bronze Plan,0
+28,C2B,Airlines,9.25,Online,8,37,ASIA,Yes,Silver Plan,5426
+44,C2B,Airlines,11.88,Online,8,47.5,ASIA,Yes,Silver Plan,5348
+34,C2B,Airlines,54,Online,382,216,ASIA,Yes,Silver Plan,5398
+36,EPX,Travel Agency,0,Online,13,22,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,3,45,ASIA,No,Customised Plan,0
+36,C2B,Airlines,4,Online,19,16,ASIA,No,Bronze Plan,0
+34,CWT,Travel Agency,166.53,Online,364,256.2,Americas,No,Gold Plan,0
+67,JZI,Airlines,6.3,Online,44,18,ASIA,Yes,Bronze Plan,4543
+32,EPX,Travel Agency,0,Online,50,22,ASIA,No,Cancellation Plan,0
+62,C2B,Airlines,10.13,Online,17,40.5,ASIA,No,Silver Plan,0
+29,CWT,Travel Agency,17.82,Online,39,0,EUROPE,No,Customised Plan,0
+41,CWT,Travel Agency,89.1,Online,61,148.5,EUROPE,No,Customised Plan,0
+46,C2B,Airlines,63.21,Online,375,252.85,ASIA,Yes,Silver Plan,5049
+26,JZI,Airlines,12.25,Online,103,35,ASIA,No,Bronze Plan,0
+35,EPX,Travel Agency,0,Online,3,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,27,48,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,60,13,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,107,94,ASIA,No,Customised Plan,0
+35,CWT,Travel Agency,59.4,Online,10,99,EUROPE,Yes,Customised Plan,4365
+36,EPX,Travel Agency,0,Online,19,25,ASIA,No,Cancellation Plan,0
+48,CWT,Travel Agency,41.58,Online,23,69.3,EUROPE,No,Customised Plan,0
+31,CWT,Travel Agency,29.7,Online,10,49.5,ASIA,Yes,Customised Plan,4332
+36,EPX,Travel Agency,0,Online,8,49,ASIA,No,Customised Plan,0
+50,C2B,Airlines,21.5,Online,27,86,ASIA,Yes,Bronze Plan,4924
+30,C2B,Airlines,9.75,Online,9,39,ASIA,Yes,Silver Plan,5339
+30,C2B,Airlines,40.25,Online,365,161,ASIA,Yes,Silver Plan,5295
+24,C2B,Airlines,4.25,Online,9,17,ASIA,Yes,Bronze Plan,4603
+44,C2B,Airlines,4.39,Online,10,198,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,388,20,ASIA,Yes,Customised Plan,4190
+36,EPX,Travel Agency,0,Online,25,28,ASIA,No,Customised Plan,0
+47,CWT,Travel Agency,53.46,Online,23,89.1,ASIA,No,Customised Plan,0
+35,C2B,Airlines,4.25,Online,19,17,ASIA,Yes,Bronze Plan,4903
+37,JZI,Airlines,10.5,Online,11,30,ASIA,No,Bronze Plan,0
+24,EPX,Travel Agency,0,Online,43,40,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,49,11,ASIA,No,Cancellation Plan,0
+26,C2B,Airlines,3.38,Online,6,13.5,ASIA,Yes,Bronze Plan,4631
+36,EPX,Travel Agency,0,Online,2,21,ASIA,No,Cancellation Plan,0
+61,C2B,Airlines,22.13,Online,74,88.5,ASIA,Yes,Silver Plan,5332
+36,EPX,Travel Agency,0,Online,22,20,ASIA,No,Customised Plan,0
+30,EPX,Travel Agency,0,Online,38,10,ASIA,No,Cancellation Plan,0
+30,CWT,Travel Agency,11.88,Online,2,19.8,Americas,No,Customised Plan,0
+48,C2B,Airlines,1.22,Online,24,4.36,ASIA,No,Customised Plan,0
+29,EPX,Travel Agency,0,Online,12,25,ASIA,No,Customised Plan,0
+37,CWT,Travel Agency,23.76,Online,42,39.6,Americas,No,Customised Plan,0
+44,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,11,27,ASIA,No,Customised Plan,0
+28,C2B,Airlines,18,Online,108,72,ASIA,Yes,Silver Plan,5034
+52,C2B,Airlines,4.25,Online,11,17,ASIA,Yes,Bronze Plan,4695
+36,EPX,Travel Agency,0,Online,215,60,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,12,31,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,15.5,Online,36,62,ASIA,Yes,Bronze Plan,4985
+60,CWT,Travel Agency,10.5,Offline,14,30,ASIA,No,Customised Plan,0
+48,C2B,Airlines,1.03,Online,105,3.68,ASIA,Yes,Customised Plan,4154
+36,EPX,Travel Agency,0,Online,60,22,ASIA,No,Cancellation Plan,0
+74,C2B,Airlines,41.44,Online,82,165.75,ASIA,No,Bronze Plan,0
+33,JZI,Airlines,7.7,Online,4,22,ASIA,No,Bronze Plan,0
+35,EPX,Travel Agency,0,Online,19,69,ASIA,No,Customised Plan,0
+43,EPX,Travel Agency,0,Online,147,80,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,9,0,ASIA,No,Customised Plan,0
+43,EPX,Travel Agency,0,Online,5,17,ASIA,No,Cancellation Plan,0
+29,CWT,Travel Agency,53.46,Online,28,0,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,27,40,ASIA,No,Cancellation Plan,0
+21,EPX,Travel Agency,0,Online,11,14,ASIA,No,Cancellation Plan,0
+50,JZI,Airlines,12.25,Online,25,35,ASIA,Yes,Bronze Plan,4908
+31,CWT,Travel Agency,41.58,Online,34,0,ASIA,No,Customised Plan,0
+30,C2B,Airlines,48.3,Online,364,193.2,ASIA,Yes,Silver Plan,5301
+36,EPX,Travel Agency,0,Online,82,26,ASIA,No,Cancellation Plan,0
+67,JZI,Airlines,9.1,Online,19,26,ASIA,No,Bronze Plan,0
+47,JZI,Airlines,9.1,Online,78,26,ASIA,No,Bronze Plan,0
+41,C2B,Airlines,63.21,Online,368,252.85,ASIA,Yes,Silver Plan,5432
+36,EPX,Travel Agency,0,Online,21,46,ASIA,No,Customised Plan,0
+25,C2B,Airlines,25.13,Online,51,100.5,ASIA,Yes,Silver Plan,5304
+36,EPX,Travel Agency,0,Online,14,18,ASIA,No,Cancellation Plan,0
+48,CWT,Travel Agency,14.44,Online,21,38,ASIA,Yes,Gold Plan,5680
+37,CWT,Travel Agency,29.7,Online,6,49.5,Americas,No,Customised Plan,0
+16,C2B,Airlines,54,Online,373,216,ASIA,Yes,Silver Plan,5189
+26,C2B,Airlines,6.75,Online,10,27,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,13,56,ASIA,No,Cancellation Plan,0
+47,JZI,Airlines,11.55,Online,8,33,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,24,23,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,11,44,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,8,22,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,87,22,ASIA,No,Cancellation Plan,0
+41,C2B,Airlines,24.86,Online,235,99.45,ASIA,Yes,Gold Plan,5721
+36,EPX,Travel Agency,0,Online,99,160,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,39,43,ASIA,Yes,Customised Plan,4150
+36,EPX,Travel Agency,0,Online,13,21,ASIA,No,Customised Plan,0
+42,C2B,Airlines,21,Online,11,84,ASIA,No,Silver Plan,0
+48,CWT,Travel Agency,28.5,Online,10,75,EUROPE,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,43,66,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,15,29,ASIA,No,Customised Plan,0
+22,EPX,Travel Agency,0,Online,36,10,ASIA,No,Cancellation Plan,0
+29,C2B,Airlines,5.63,Online,15,22.5,ASIA,Yes,Silver Plan,5316
+37,C2B,Airlines,8.38,Online,16,33.5,ASIA,No,Silver Plan,0
+51,C2B,Airlines,54,Online,366,216,ASIA,Yes,Silver Plan,5117
+74,JZI,Airlines,7.7,Online,35,22,ASIA,No,Bronze Plan,0
+35,EPX,Travel Agency,0,Online,37,20,ASIA,No,Customised Plan,0
+49,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5257
+48,C2B,Airlines,0.54,Online,21,1.93,ASIA,No,Customised Plan,0
+35,EPX,Travel Agency,0,Online,11,50,ASIA,No,Cancellation Plan,0
+35,EPX,Travel Agency,0,Online,17,61,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,29.7,Online,125,49.5,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,9,20,ASIA,No,Customised Plan,0
+30,C2B,Airlines,8.63,Online,18,34.5,ASIA,Yes,Bronze Plan,4861
+29,EPX,Travel Agency,0,Online,61,11,ASIA,No,Cancellation Plan,0
+27,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+48,C2B,Airlines,21.85,Online,23,62.43,ASIA,No,Customised Plan,0
+31,EPX,Travel Agency,0,Online,60,10,ASIA,No,Cancellation Plan,0
+45,CWT,Travel Agency,47.52,Online,64,79.2,Americas,No,Customised Plan,0
+37,JZI,Airlines,6.3,Online,4,18,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,73,16,ASIA,Yes,Cancellation Plan,3971
+36,EPX,Travel Agency,0,Online,7,11,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,7,21,ASIA,No,Customised Plan,0
+39,EPX,Travel Agency,0,Online,17,80,Americas,No,Cancellation Plan,0
+26,CWT,Travel Agency,17.82,Online,9,29.7,ASIA,Yes,Customised Plan,4486
+45,CWT,Travel Agency,5.94,Online,141,9.9,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,25,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,27,73,EUROPE,No,Customised Plan,0
+27,C2B,Airlines,18.6,Online,14,74.4,ASIA,Yes,Silver Plan,5130
+37,C2B,Airlines,6.75,Online,2,27,ASIA,Yes,Bronze Plan,4805
+47,C2B,Airlines,6,Online,9,15,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,20,20,ASIA,No,Customised Plan,0
+48,C2B,Airlines,7.67,Online,50,21.92,ASIA,No,Customised Plan,0
+30,C2B,Airlines,18,Online,23,72,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,60,25,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,8.63,Online,36,34.5,ASIA,Yes,Bronze Plan,4540
+36,EPX,Travel Agency,0,Online,50,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,3,20,ASIA,No,Customised Plan,0
+48,C2B,Airlines,8.38,Online,57,33.5,ASIA,No,Bronze Plan,0
+43,CWT,Travel Agency,35.64,Online,23,59.4,Americas,No,Customised Plan,0
+31,CWT,Travel Agency,17.82,Online,24,0,ASIA,No,Customised Plan,0
+27,C2B,Airlines,54,Online,365,216,ASIA,No,Silver Plan,0
+35,CWT,Travel Agency,11.02,Offline,2,29,ASIA,Yes,Gold Plan,5851
+58,EPX,Travel Agency,0,Online,78,17,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,14,68,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,13,10,ASIA,No,Cancellation Plan,0
+27,EPX,Travel Agency,0,Online,47,20,ASIA,Yes,Customised Plan,4354
+36,EPX,Travel Agency,0,Online,8,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,14,11,ASIA,No,Cancellation Plan,0
+55,EPX,Travel Agency,0,Offline,17,68,Americas,Yes,Customised Plan,4376
+53,EPX,Travel Agency,0,Online,5,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,9,79,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,123,14,ASIA,No,Cancellation Plan,0
+35,EPX,Travel Agency,0,Online,32,12,ASIA,Yes,Cancellation Plan,3956
+46,CWT,Travel Agency,19.14,Offline,113,58,ASIA,No,Gold Plan,0
+47,JZI,Airlines,6.3,Online,19,18,ASIA,No,Bronze Plan,0
+41,C2B,Airlines,54,Online,395,216,ASIA,No,Silver Plan,0
+29,EPX,Travel Agency,0,Online,72,10,Americas,No,Cancellation Plan,0
+48,C2B,Airlines,0.14,Online,0,0.51,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,5,182,ASIA,No,Cancellation Plan,0
+71,C2B,Airlines,18,Online,19,72,ASIA,Yes,Bronze Plan,4680
+36,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+24,C2B,Airlines,14.13,Online,28,56.5,ASIA,Yes,Bronze Plan,4857
+38,C2B,Airlines,72.94,Online,383,291.75,ASIA,Yes,Silver Plan,5159
+59,C2B,Airlines,13.2,Online,16,52.8,ASIA,No,Gold Plan,0
+37,CWT,Travel Agency,17.82,Online,17,29.7,ASIA,Yes,Customised Plan,4137
+36,CWT,Travel Agency,47.52,Online,38,79.2,Americas,No,Customised Plan,0
+59,EPX,Travel Agency,0,Online,10,36,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,3,34,ASIA,Yes,Cancellation Plan,3643
+51,JZI,Airlines,7.7,Online,14,22,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,13,0,ASIA,No,Customised Plan,0
+29,JZI,Airlines,7.7,Online,14,22,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,232,53,ASIA,Yes,Customised Plan,4185
+35,C2B,Airlines,19.07,Online,13,76.3,ASIA,Yes,Silver Plan,5243
+49,CWT,Travel Agency,23.76,Online,58,39.6,ASIA,No,Customised Plan,0
+48,C2B,Airlines,14.16,Online,102,40.46,ASIA,No,Customised Plan,0
+48,C2B,Airlines,0.5,Online,9,60,ASIA,No,Customised Plan,0
+23,EPX,Travel Agency,0,Online,23,10,ASIA,No,Cancellation Plan,0
+64,CWT,Travel Agency,124.74,Online,58,207.9,Americas,No,Customised Plan,0
+25,JZI,Airlines,7.7,Online,78,22,ASIA,No,Bronze Plan,0
+67,CWT,Travel Agency,65.34,Online,135,108.9,Americas,No,Customised Plan,0
+29,C2B,Airlines,11.88,Online,41,47.5,ASIA,Yes,Silver Plan,5383
+41,C2B,Airlines,6,Online,7,15,ASIA,No,Bronze Plan,0
+45,C2B,Airlines,63.21,Online,366,252.85,ASIA,Yes,Silver Plan,5378
+30,EPX,Travel Agency,0,Online,38,13,ASIA,Yes,Cancellation Plan,3817
+74,C2B,Airlines,28.13,Online,33,112.5,ASIA,Yes,Silver Plan,5460
+36,EPX,Travel Agency,0,Online,57,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,39,112,Americas,No,Customised Plan,0
+43,C2B,Airlines,18,Online,38,72,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,13,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,33,20,ASIA,No,Customised Plan,0
+33,CWT,Travel Agency,89.1,Online,68,148.5,EUROPE,Yes,Customised Plan,4073
+60,CWT,Travel Agency,17.82,Online,21,0,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,29,44,ASIA,No,Cancellation Plan,0
+42,EPX,Travel Agency,0,Online,24,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,45,22,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,105,43,ASIA,Yes,Customised Plan,4184
+32,JZI,Airlines,7.7,Online,7,22,ASIA,No,Bronze Plan,0
+83,C2B,Airlines,17.38,Online,21,69.5,ASIA,Yes,Gold Plan,5899
+26,C2B,Airlines,46.96,Online,365,187.85,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,18,10,ASIA,No,Cancellation Plan,0
+29,EPX,Travel Agency,0,Online,45,29,ASIA,Yes,Customised Plan,4498
+63,EPX,Travel Agency,0,Online,189,94,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,16,10,ASIA,No,Cancellation Plan,0
+48,CWT,Travel Agency,36.1,Online,68,95,EUROPE,Yes,Bronze Plan,4965
+19,C2B,Airlines,6,Online,32,15,ASIA,No,Bronze Plan,0
+32,C2B,Airlines,99.9,Online,365,399.6,ASIA,Yes,Gold Plan,5981
+35,CWT,Travel Agency,17.82,Online,22,29.7,EUROPE,Yes,Customised Plan,4204
+36,EPX,Travel Agency,0,Online,18,14,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,4,20,ASIA,No,Customised Plan,0
+48,C2B,Airlines,0.25,Online,11,0.88,ASIA,No,Customised Plan,0
+36,CWT,Travel Agency,106.92,Online,32,178.2,Americas,Yes,Customised Plan,4137
+34,C2B,Airlines,4,Online,35,16,ASIA,Yes,Bronze Plan,4501
+23,C2B,Airlines,44.69,Online,62,178.75,ASIA,Yes,Gold Plan,5699
+26,CWT,Travel Agency,9.57,Offline,12,29,ASIA,No,Customised Plan,0
+35,EPX,Travel Agency,0,Online,34,21,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,67,60,ASIA,No,Customised Plan,0
+59,C2B,Airlines,48.3,Online,398,193.2,ASIA,Yes,Silver Plan,5068
+36,EPX,Travel Agency,0,Online,103,20,ASIA,No,Customised Plan,0
+25,JZI,Airlines,9.1,Online,369,26,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,27,10,ASIA,No,Cancellation Plan,0
+26,EPX,Travel Agency,0,Online,4,14,ASIA,No,Cancellation Plan,0
+52,C2B,Airlines,5.25,Online,29,21,ASIA,No,Bronze Plan,0
+21,EPX,Travel Agency,0,Online,13,10,ASIA,No,Cancellation Plan,0
+44,JZI,Airlines,7.7,Online,70,22,ASIA,No,Bronze Plan,0
+27,EPX,Travel Agency,0,Online,15,10,ASIA,No,Cancellation Plan,0
+33,C2B,Airlines,10,Online,36,40,ASIA,Yes,Bronze Plan,4757
+31,EPX,Travel Agency,0,Online,6,24,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,66,50,ASIA,Yes,Customised Plan,4488
+36,EPX,Travel Agency,0,Online,25,39,ASIA,Yes,Customised Plan,4436
+24,C2B,Airlines,23.75,Online,46,95,ASIA,Yes,Silver Plan,5051
+32,EPX,Travel Agency,0,Online,9,51,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,53.46,Online,61,89.1,EUROPE,No,Customised Plan,0
+29,CWT,Travel Agency,65.34,Online,59,108.9,Americas,No,Customised Plan,0
+35,EPX,Travel Agency,0,Online,2,27,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,27,38,ASIA,Yes,Customised Plan,4363
+36,EPX,Travel Agency,0,Online,124,57,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,49,102,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,19,10,ASIA,No,Cancellation Plan,0
+70,C2B,Airlines,54,Online,365,216,ASIA,Yes,Silver Plan,5159
+37,CWT,Travel Agency,41.58,Online,39,69.3,Americas,Yes,Customised Plan,4295
+33,C2B,Airlines,6.75,Online,29,27,ASIA,Yes,Silver Plan,5073
+30,C2B,Airlines,15.88,Online,19,63.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,38,41,ASIA,No,Customised Plan,0
+26,C2B,Airlines,4,Online,5,16,ASIA,Yes,Bronze Plan,4568
+31,CWT,Travel Agency,23.76,Online,11,39.6,Americas,No,Customised Plan,0
+61,CWT,Travel Agency,166.53,Online,365,256.2,Americas,Yes,Gold Plan,5622
+36,EPX,Travel Agency,0,Online,3,29,ASIA,No,Cancellation Plan,0
+35,EPX,Travel Agency,0,Online,42,20,ASIA,No,Customised Plan,0
+34,EPX,Travel Agency,0,Online,36,20,ASIA,No,Customised Plan,0
+28,C2B,Airlines,5.53,Online,21,22.1,ASIA,Yes,Bronze Plan,4797
+36,EPX,Travel Agency,0,Online,8,11,ASIA,No,Cancellation Plan,0
+67,C2B,Airlines,15,Online,17,60,ASIA,Yes,Bronze Plan,4806
+39,CWT,Travel Agency,77.22,Online,23,128.7,Americas,No,Customised Plan,0
+31,C2B,Airlines,15.5,Online,44,62,ASIA,No,Silver Plan,0
+52,CWT,Travel Agency,65.34,Online,179,108.9,EUROPE,No,Customised Plan,0
+22,C2B,Airlines,5,Online,8,20,ASIA,No,Bronze Plan,0
+38,C2B,Airlines,6.25,Online,24,25,ASIA,Yes,Silver Plan,5352
+36,EPX,Travel Agency,0,Online,50,70,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,73,16,ASIA,No,Cancellation Plan,0
+26,C2B,Airlines,54,Online,364,216,ASIA,No,Silver Plan,0
+35,C2B,Airlines,54,Online,377,216,ASIA,Yes,Silver Plan,5367
+36,EPX,Travel Agency,0,Online,46,43,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,8,65,ASIA,No,Customised Plan,0
+36,C2B,Airlines,5.88,Online,8,23.5,ASIA,Yes,Bronze Plan,4607
+31,C2B,Airlines,8.38,Online,35,33.5,ASIA,No,Bronze Plan,0
+30,C2B,Airlines,5,Online,14,0,ASIA,No,Bronze Plan,0
+53,EPX,Travel Agency,0,Online,177,112,Americas,Yes,Customised Plan,4122
+36,EPX,Travel Agency,0,Online,21,85,EUROPE,No,Customised Plan,0
+32,C2B,Airlines,8.38,Online,14,33.5,ASIA,Yes,Bronze Plan,4856
+25,EPX,Travel Agency,0,Online,390,104,Americas,Yes,Customised Plan,4012
+64,JZI,Airlines,6.3,Online,2,18,ASIA,No,Bronze Plan,0
+31,CWT,Travel Agency,35.64,Online,11,59.4,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,108,64,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,41.58,Online,58,69.3,EUROPE,Yes,Customised Plan,4086
+35,EPX,Travel Agency,0,Online,6,15,ASIA,No,Cancellation Plan,0
+48,C2B,Airlines,0.21,Online,377,0.74,ASIA,No,Customised Plan,0
+26,EPX,Travel Agency,0,Online,30,1,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,11,47,ASIA,No,Customised Plan,0
+31,C2B,Airlines,15,Online,19,60,ASIA,Yes,Bronze Plan,4962
+65,EPX,Travel Agency,0,Online,14,27,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,33,20,ASIA,No,Customised Plan,0
+41,CWT,Travel Agency,17.82,Online,40,29.7,Americas,No,Customised Plan,0
+34,EPX,Travel Agency,0,Online,24,18,ASIA,No,Cancellation Plan,0
+30,C2B,Airlines,54,Online,364,216,ASIA,Yes,Silver Plan,5173
+36,EPX,Travel Agency,0,Online,5,30,ASIA,No,Customised Plan,0
+48,C2B,Airlines,1.96,Online,76,7,ASIA,No,Customised Plan,0
+58,EPX,Travel Agency,0,Online,1,10,ASIA,No,Cancellation Plan,0
+27,CWT,Travel Agency,71.28,Online,49,153,EUROPE,Yes,Customised Plan,4230
+41,CWT,Travel Agency,47.52,Online,122,79.2,Americas,No,Customised Plan,0
+30,EPX,Travel Agency,0,Online,12,11,ASIA,No,Cancellation Plan,0
+48,CWT,Travel Agency,12.54,Online,16,33,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,35,0,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,46,20,ASIA,No,Customised Plan,0
+24,C2B,Airlines,8.63,Online,36,34.5,ASIA,Yes,Bronze Plan,4786
+36,EPX,Travel Agency,0,Online,26,43,ASIA,No,Cancellation Plan,0
+32,CWT,Travel Agency,77.22,Online,73,128.7,Americas,Yes,Customised Plan,4048
+30,C2B,Airlines,8.38,Online,48,33.5,ASIA,Yes,Bronze Plan,4813
+35,EPX,Travel Agency,0,Online,26,10,Americas,No,Cancellation Plan,0
+51,JZI,Airlines,9.1,Online,195,26,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,167,58,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,34,33,ASIA,Yes,Customised Plan,4262
+36,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+60,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+30,C2B,Airlines,15.5,Online,22,62,ASIA,No,Bronze Plan,0
+32,EPX,Travel Agency,0,Online,29,174,Americas,Yes,Cancellation Plan,3578
+28,EPX,Travel Agency,0,Online,19,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,113,19,ASIA,No,Cancellation Plan,0
+28,CWT,Travel Agency,166.53,Online,369,256.2,Americas,No,Gold Plan,0
+39,C2B,Airlines,54,Online,365,216,ASIA,Yes,Silver Plan,5456
+28,C2B,Airlines,63.21,Online,401,252.85,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,109,20,ASIA,Yes,Customised Plan,4457
+68,C2B,Airlines,70.2,Online,375,280.8,ASIA,Yes,Silver Plan,5251
+52,CWT,Travel Agency,17.82,Online,30,29.7,EUROPE,No,Customised Plan,0
+25,C2B,Airlines,5.63,Online,23,0,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,2,44,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,5,66,ASIA,No,Customised Plan,0
+31,EPX,Travel Agency,0,Online,47,37,ASIA,No,Customised Plan,0
+30,EPX,Travel Agency,0,Online,17,80,Americas,No,Cancellation Plan,0
+27,C2B,Airlines,7.38,Online,11,29.5,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,21,83,ASIA,No,Customised Plan,0
+44,EPX,Travel Agency,0,Online,12,10,ASIA,No,Cancellation Plan,0
+48,C2B,Airlines,0.81,Online,26,2.88,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,3,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,7,20,ASIA,No,Customised Plan,0
+39,CWT,Travel Agency,107.25,Online,368,165,ASIA,Yes,Silver Plan,5499
+35,EPX,Travel Agency,0,Online,5,13,ASIA,No,Cancellation Plan,0
+58,C2B,Airlines,13.38,Online,32,53.5,ASIA,Yes,Bronze Plan,4633
+34,C2B,Airlines,23.5,Online,12,94,ASIA,Yes,Bronze Plan,4680
+24,C2B,Airlines,13.38,Online,22,53.5,ASIA,Yes,Bronze Plan,4639
+49,JZI,Airlines,7.7,Online,6,22,ASIA,No,Bronze Plan,0
+41,EPX,Travel Agency,0,Online,28,24,ASIA,Yes,Customised Plan,4219
+36,EPX,Travel Agency,0,Online,100,48,EUROPE,No,Cancellation Plan,0
+26,EPX,Travel Agency,0,Online,54,22,ASIA,No,Cancellation Plan,0
+27,CWT,Travel Agency,17.82,Online,13,29.7,ASIA,No,Customised Plan,0
+23,C2B,Airlines,13.38,Online,32,53.5,ASIA,Yes,Bronze Plan,4627
+35,EPX,Travel Agency,0,Online,9,39,ASIA,No,Cancellation Plan,0
+22,C2B,Airlines,63.21,Online,370,252.85,ASIA,Yes,Silver Plan,5008
+26,JZI,Airlines,9.1,Online,63,26,ASIA,No,Bronze Plan,0
+27,C2B,Airlines,40.25,Online,371,161,ASIA,Yes,Silver Plan,5206
+57,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+43,JZI,Airlines,6.3,Online,4,18,ASIA,No,Bronze Plan,0
+30,EPX,Travel Agency,0,Online,15,23,ASIA,No,Cancellation Plan,0
+29,C2B,Airlines,7.38,Online,12,31,ASIA,No,Bronze Plan,0
+44,EPX,Travel Agency,0,Online,28,10,ASIA,No,Cancellation Plan,0
+54,JZI,Airlines,6.3,Online,23,18,ASIA,No,Bronze Plan,0
+51,CWT,Travel Agency,29.7,Online,27,49.5,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,15,21,ASIA,Yes,Customised Plan,4248
+46,CWT,Travel Agency,23.76,Online,334,39.6,ASIA,No,Customised Plan,0
+64,CWT,Travel Agency,10.5,Offline,62,30,ASIA,No,Customised Plan,0
+48,C2B,Airlines,3.38,Online,12,30,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,25,19,ASIA,No,Cancellation Plan,0
+15,CWT,Travel Agency,10.5,Offline,53,30,ASIA,No,Customised Plan,0
+29,EPX,Travel Agency,0,Online,14,0,ASIA,No,Cancellation Plan,0
+32,C2B,Airlines,4.39,Online,5,17.55,ASIA,Yes,Bronze Plan,4818
+74,EPX,Travel Agency,0,Online,39,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,101,26,ASIA,Yes,Customised Plan,4493
+28,C2B,Airlines,13.38,Online,36,53.5,ASIA,No,Bronze Plan,0
+61,EPX,Travel Agency,0,Online,27,35,Americas,No,Customised Plan,0
+48,CWT,Travel Agency,41.58,Online,20,69.3,ASIA,No,Customised Plan,0
+34,C2B,Airlines,11.75,Online,12,47,ASIA,Yes,Bronze Plan,4871
+53,C2B,Airlines,64.8,Online,396,259.2,ASIA,Yes,Silver Plan,5073
+36,EPX,Travel Agency,0,Online,2,14,ASIA,No,Cancellation Plan,0
+45,EPX,Travel Agency,0,Online,70,80,Americas,No,Cancellation Plan,0
+28,CWT,Travel Agency,41.58,Online,32,69.3,Americas,No,Customised Plan,0
+39,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+38,C2B,Airlines,7.35,Online,8,29.4,ASIA,No,Silver Plan,0
+81,C2B,Airlines,57.13,Online,70,228.5,ASIA,No,Gold Plan,0
+36,EPX,Travel Agency,0,Online,167,15,ASIA,No,Cancellation Plan,0
+22,CWT,Travel Agency,28.5,Online,28,75,EUROPE,No,Bronze Plan,0
+35,EPX,Travel Agency,0,Online,17,33,ASIA,No,Customised Plan,0
+36,C2B,Airlines,5.25,Online,7,21,ASIA,No,Bronze Plan,0
+32,EPX,Travel Agency,0,Online,7,39,ASIA,Yes,Customised Plan,4199
+36,EPX,Travel Agency,0,Online,16,178,ASIA,No,Cancellation Plan,0
+17,C2B,Airlines,5,Online,9,20,ASIA,Yes,Bronze Plan,4500
+40,C2B,Airlines,54,Online,394,216,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,3,12,ASIA,No,Cancellation Plan,0
+38,CWT,Travel Agency,29.7,Online,18,49.5,Americas,No,Customised Plan,0
+30,C2B,Airlines,4.5,Online,8,18,ASIA,Yes,Bronze Plan,4759
+36,EPX,Travel Agency,0,Online,73,45,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,47,61,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,52,179,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+44,CWT,Travel Agency,5.94,Online,4,9.9,Americas,No,Customised Plan,0
+37,C2B,Airlines,46.8,Online,18,117,ASIA,No,Bronze Plan,0
+62,EPX,Travel Agency,0,Online,11,80,Americas,No,Cancellation Plan,0
+34,CWT,Travel Agency,11.88,Online,8,19.8,ASIA,No,Customised Plan,0
+47,JZI,Airlines,7.7,Online,16,22,ASIA,No,Bronze Plan,0
+35,C2B,Airlines,72.94,Online,397,291.75,ASIA,Yes,Silver Plan,5429
+32,C2B,Airlines,8.88,Online,32,35.5,ASIA,No,Bronze Plan,0
+30,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5332
+25,C2B,Airlines,20,Online,19,50,ASIA,No,Bronze Plan,0
+44,JZI,Airlines,14,Online,19,40,ASIA,No,Bronze Plan,0
+30,CWT,Travel Agency,5.94,Online,50,196,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,56,12,ASIA,No,Cancellation Plan,0
+43,C2B,Airlines,97.34,Online,365,389.35,ASIA,Yes,Gold Plan,5511
+32,EPX,Travel Agency,0,Online,33,29,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,23.76,Online,16,39.6,ASIA,No,Customised Plan,0
+25,C2B,Airlines,11.88,Online,10,47.5,ASIA,No,Silver Plan,0
+49,EPX,Travel Agency,0,Online,2,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,46,13,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,4,17,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,17.82,Online,18,29.7,ASIA,No,Customised Plan,0
+36,CWT,Travel Agency,47.52,Online,28,79.2,Americas,Yes,Customised Plan,4094
+48,CWT,Travel Agency,10.64,Online,18,28,ASIA,Yes,Bronze Plan,4755
+36,EPX,Travel Agency,0,Online,29,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,33,24,ASIA,No,Cancellation Plan,0
+38,C2B,Airlines,5,Online,7,20,ASIA,Yes,Bronze Plan,4823
+30,CWT,Travel Agency,41.58,Online,55,69.3,EUROPE,Yes,Customised Plan,4472
+34,C2B,Airlines,31.75,Online,16,127,ASIA,Yes,Silver Plan,5403
+25,C2B,Airlines,49.6,Online,81,124,ASIA,Yes,Bronze Plan,4674
+35,CWT,Travel Agency,83.16,Online,15,138.6,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,4,53,ASIA,No,Customised Plan,0
+46,C2B,Airlines,12.07,Online,16,48.3,ASIA,Yes,Bronze Plan,4839
+36,EPX,Travel Agency,0,Online,50,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,8,199,ASIA,No,Customised Plan,0
+37,C2B,Airlines,3.38,Online,3,13.5,ASIA,Yes,Bronze Plan,4658
+35,EPX,Travel Agency,0,Online,68,0,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,2,11,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,11.88,Online,27,47.5,ASIA,Yes,Silver Plan,5094
+31,CWT,Travel Agency,41.58,Online,23,69.3,EUROPE,No,Customised Plan,0
+51,C2B,Airlines,8.7,Online,13,34.8,ASIA,No,Silver Plan,0
+22,CWT,Travel Agency,32.68,Online,26,86,EUROPE,No,Gold Plan,0
+62,EPX,Travel Agency,0,Online,12,22,ASIA,No,Cancellation Plan,0
+32,JZI,Airlines,12.95,Online,266,37,ASIA,No,Bronze Plan,0
+35,EPX,Travel Agency,0,Online,146,50,Americas,Yes,Cancellation Plan,3978
+63,JZI,Airlines,6.3,Online,7,18,ASIA,No,Bronze Plan,0
+30,C2B,Airlines,6.75,Online,59,27,ASIA,No,Bronze Plan,0
+40,CWT,Travel Agency,41.58,Online,38,154,Americas,Yes,Customised Plan,4395
+31,CWT,Travel Agency,23.76,Online,11,39.6,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,24,19,ASIA,No,Cancellation Plan,0
+65,C2B,Airlines,23.4,Online,18,93.6,ASIA,Yes,Silver Plan,5057
+26,C2B,Airlines,6.75,Online,10,27,ASIA,Yes,Bronze Plan,4946
+56,JZI,Airlines,7.7,Online,17,22,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,10,30,ASIA,No,Customised Plan,0
+28,C2B,Airlines,54,Online,385,216,ASIA,Yes,Silver Plan,5157
+25,C2B,Airlines,64.8,Online,366,259.2,ASIA,Yes,Silver Plan,5370
+45,C2B,Airlines,15,Online,17,60,ASIA,Yes,Bronze Plan,4911
+52,JZI,Airlines,11.55,Online,5,33,ASIA,No,Bronze Plan,0
+30,EPX,Travel Agency,0,Online,273,72,Americas,No,Cancellation Plan,0
+44,EPX,Travel Agency,0,Online,11,21,ASIA,No,Customised Plan,0
+43,CWT,Travel Agency,23.76,Online,14,39.6,ASIA,No,Customised Plan,0
+43,JZI,Airlines,7.7,Online,17,22,ASIA,No,Bronze Plan,0
+48,C2B,Airlines,0.05,Online,86,189,ASIA,No,Customised Plan,0
+39,CWT,Travel Agency,132.99,Online,369,204.6,ASIA,No,Gold Plan,0
+32,CWT,Travel Agency,47.52,Online,153,79.2,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,65,26,ASIA,No,Cancellation Plan,0
+24,C2B,Airlines,13.25,Online,10,53,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,47,75,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,90,180,ASIA,No,Customised Plan,0
+43,EPX,Travel Agency,0,Online,32,68,ASIA,No,Customised Plan,0
+43,CWT,Travel Agency,35.64,Online,6,59.4,EUROPE,Yes,Customised Plan,4130
+36,EPX,Travel Agency,0,Online,17,65,ASIA,No,Customised Plan,0
+41,C2B,Airlines,4.8,Online,3,19.2,ASIA,Yes,Bronze Plan,4942
+73,C2B,Airlines,54,Online,378,216,ASIA,Yes,Silver Plan,5447
+34,C2B,Airlines,5.63,Online,5,22.5,ASIA,Yes,Silver Plan,5449
+30,C2B,Airlines,4,Online,4,16,ASIA,No,Bronze Plan,0
+24,EPX,Travel Agency,0,Online,85,36,ASIA,No,Customised Plan,0
+30,C2B,Airlines,54,Online,370,216,ASIA,Yes,Silver Plan,5405
+36,EPX,Travel Agency,0,Online,7,48,ASIA,No,Customised Plan,0
+25,C2B,Airlines,12.4,Online,1,31,ASIA,No,Bronze Plan,0
+62,EPX,Travel Agency,0,Online,15,20,ASIA,No,Customised Plan,0
+46,CWT,Travel Agency,160.38,Online,84,267.3,EUROPE,No,Customised Plan,0
+36,C2B,Airlines,12.5,Online,28,50,ASIA,Yes,Bronze Plan,4661
+31,CWT,Travel Agency,47.52,Online,11,79.2,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,21,38,ASIA,No,Customised Plan,0
+30,C2B,Airlines,83.25,Online,370,333,ASIA,Yes,Gold Plan,5913
+36,EPX,Travel Agency,0,Online,48,21,ASIA,Yes,Customised Plan,4240
+36,EPX,Travel Agency,0,Online,14,29,ASIA,No,Cancellation Plan,0
+28,JZI,Airlines,15.4,Online,43,44,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,41,36,ASIA,No,Cancellation Plan,0
+46,C2B,Airlines,46.96,Online,365,187.85,ASIA,Yes,Silver Plan,5254
+31,EPX,Travel Agency,0,Online,38,10,ASIA,Yes,Cancellation Plan,3933
+44,EPX,Travel Agency,0,Online,6,20,ASIA,No,Customised Plan,0
+53,C2B,Airlines,57.13,Online,104,228.5,ASIA,Yes,Silver Plan,5060
+31,C2B,Airlines,63.21,Online,413,252.85,ASIA,Yes,Silver Plan,5236
+33,JZI,Airlines,12.25,Online,48,35,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,3,20,ASIA,No,Customised Plan,0
+29,EPX,Travel Agency,0,Online,42,59,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,201,37,ASIA,Yes,Customised Plan,4253
+36,EPX,Travel Agency,0,Online,40,20,ASIA,Yes,Customised Plan,4326
+36,EPX,Travel Agency,0,Online,34,21,ASIA,No,Cancellation Plan,0
+56,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+30,C2B,Airlines,13.63,Online,14,54.5,ASIA,Yes,Silver Plan,5163
+50,CWT,Travel Agency,17.82,Online,4,29.7,EUROPE,No,Customised Plan,0
+29,C2B,Airlines,44.5,Online,79,178,ASIA,Yes,Bronze Plan,4798
+35,EPX,Travel Agency,0,Online,14,42,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,41.58,Online,9,69.3,Americas,No,Customised Plan,0
+44,C2B,Airlines,3.38,Online,13,13.5,ASIA,Yes,Bronze Plan,4647
+22,C2B,Airlines,10.15,Online,36,29,ASIA,Yes,Bronze Plan,4612
+36,EPX,Travel Agency,0,Online,390,80,ASIA,No,Cancellation Plan,0
+38,C2B,Airlines,7.38,Online,8,29.5,ASIA,Yes,Silver Plan,5361
+35,EPX,Travel Agency,0,Online,34,51,ASIA,No,Cancellation Plan,0
+30,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5396
+36,EPX,Travel Agency,0,Online,11,79,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,82,80,EUROPE,No,Cancellation Plan,0
+27,C2B,Airlines,8.81,Online,21,35.25,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,217,66,EUROPE,Yes,Cancellation Plan,3639
+46,CWT,Travel Agency,47.52,Online,52,0,Americas,No,Customised Plan,0
+55,C2B,Airlines,6.63,Online,24,26.5,ASIA,Yes,Bronze Plan,4636
+36,EPX,Travel Agency,0,Online,30,14,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,19,25,ASIA,Yes,Customised Plan,4055
+69,EPX,Travel Agency,0,Online,63,90,Americas,Yes,Customised Plan,4182
+33,CWT,Travel Agency,166.53,Online,379,256.2,Americas,Yes,Gold Plan,5642
+59,C2B,Airlines,34.38,Online,59,137.5,ASIA,Yes,Silver Plan,5110
+27,C2B,Airlines,18.56,Online,16,74.25,ASIA,Yes,Silver Plan,5281
+36,C2B,Airlines,14.46,Online,23,57.85,ASIA,Yes,Bronze Plan,4817
+18,JZI,Airlines,9.1,Online,14,26,ASIA,No,Bronze Plan,0
+31,CWT,Travel Agency,23.76,Online,26,39.6,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,24,20,ASIA,No,Customised Plan,0
+42,EPX,Travel Agency,0,Online,18,20,ASIA,No,Customised Plan,0
+34,C2B,Airlines,31.75,Online,68,127,ASIA,Yes,Silver Plan,5281
+36,EPX,Travel Agency,0,Online,77,50,ASIA,No,Cancellation Plan,0
+30,C2B,Airlines,7.38,Online,168,29.5,ASIA,Yes,Bronze Plan,4805
+25,C2B,Airlines,11.75,Online,14,47,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,2,20,ASIA,No,Customised Plan,0
+29,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5346
+40,JZI,Airlines,10.5,Online,56,0,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,59,80,EUROPE,No,Cancellation Plan,0
+27,C2B,Airlines,15,Online,91,55,ASIA,No,Bronze Plan,0
+29,C2B,Airlines,8.38,Online,43,33.5,ASIA,Yes,Bronze Plan,4724
+36,EPX,Travel Agency,0,Online,24,21,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,40,21,ASIA,No,Customised Plan,0
+32,C2B,Airlines,20.13,Online,25,80.5,ASIA,Yes,Bronze Plan,4711
+36,EPX,Travel Agency,0,Online,3,10,ASIA,No,Cancellation Plan,0
+48,C2B,Airlines,28,Online,45,1.35,ASIA,No,Customised Plan,0
+35,C2B,Airlines,67.75,Online,110,271,ASIA,Yes,Silver Plan,5166
+36,EPX,Travel Agency,0,Online,4,23,ASIA,No,Customised Plan,0
+31,C2B,Airlines,97.34,Online,365,389.35,ASIA,Yes,Gold Plan,5917
+35,JZI,Airlines,57.4,Online,113,164,Americas,Yes,Bronze Plan,4886
+42,JZI,Airlines,7.7,Online,69,22,ASIA,No,Bronze Plan,0
+30,C2B,Airlines,9.75,Online,48,39,ASIA,No,Silver Plan,0
+41,C2B,Airlines,54,Online,364,216,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,1,12,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,387,52,Americas,No,Cancellation Plan,0
+37,JZI,Airlines,9.1,Online,6,26,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,3,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,39,11,ASIA,No,Cancellation Plan,0
+52,CWT,Travel Agency,59.4,Online,30,99,Americas,Yes,Customised Plan,4399
+36,EPX,Travel Agency,0,Online,18,16,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,11,10,ASIA,No,Cancellation Plan,0
+32,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,62,57,Americas,Yes,Customised Plan,4374
+26,C2B,Airlines,9.59,Online,10,38.35,ASIA,Yes,Bronze Plan,4595
+36,EPX,Travel Agency,0,Online,110,32,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,31,27,ASIA,No,Cancellation Plan,0
+72,C2B,Airlines,6.75,Online,21,27,ASIA,Yes,Silver Plan,5406
+36,EPX,Travel Agency,0,Online,1,10,ASIA,No,Cancellation Plan,0
+45,EPX,Travel Agency,0,Online,48,10,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,43,20,ASIA,No,Customised Plan,0
+64,EPX,Travel Agency,0,Online,36,80,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,4,10,ASIA,No,Cancellation Plan,0
+40,EPX,Travel Agency,0,Online,17,10,ASIA,No,Cancellation Plan,0
+50,JZI,Airlines,15.4,Online,71,44,Americas,Yes,Bronze Plan,4822
+46,EPX,Travel Agency,0,Online,13,20,ASIA,No,Customised Plan,0
+29,C2B,Airlines,15.88,Online,62,63.5,ASIA,Yes,Silver Plan,5156
+36,EPX,Travel Agency,0,Online,33,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,4,10,ASIA,No,Cancellation Plan,0
+32,C2B,Airlines,5.88,Online,19,23.5,ASIA,No,Bronze Plan,0
+41,CWT,Travel Agency,29.7,Online,50,0,Americas,No,Customised Plan,0
+49,EPX,Travel Agency,0,Online,24,81,ASIA,No,Customised Plan,0
+44,JZI,Airlines,6.3,Online,14,18,ASIA,Yes,Bronze Plan,4907
+36,EPX,Travel Agency,0,Online,76,41,ASIA,No,Customised Plan,0
+45,CWT,Travel Agency,35.64,Online,21,59.4,EUROPE,No,Customised Plan,0
+32,C2B,Airlines,4.39,Online,5,17.55,ASIA,Yes,Bronze Plan,4765
+33,C2B,Airlines,3.38,Online,5,13.5,ASIA,No,Bronze Plan,0
+43,C2B,Airlines,59.88,Online,367,239.5,ASIA,Yes,Gold Plan,5634
+36,EPX,Travel Agency,0,Online,13,49,ASIA,Yes,Customised Plan,4438
+30,C2B,Airlines,5.63,Online,39,22.5,ASIA,Yes,Silver Plan,5083
+26,JZI,Airlines,7.7,Online,27,54,ASIA,No,Bronze Plan,0
+28,C2B,Airlines,4.63,Online,17,18.5,ASIA,No,Silver Plan,0
+31,CWT,Travel Agency,23.76,Online,10,39.6,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,28,15,EUROPE,No,Cancellation Plan,0
+63,EPX,Travel Agency,0,Online,5,20,ASIA,No,Customised Plan,0
+26,EPX,Travel Agency,0,Online,44,20,ASIA,No,Customised Plan,0
+43,JZI,Airlines,6.3,Online,3,28,ASIA,No,Bronze Plan,0
+27,C2B,Airlines,12.13,Online,13,48.5,ASIA,Yes,Silver Plan,5076
+44,JZI,Airlines,6.3,Online,31,18,ASIA,Yes,Bronze Plan,4709
+64,C2B,Airlines,40.25,Online,366,161,ASIA,No,Silver Plan,0
+29,C2B,Airlines,6,Online,10,15,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,4,11,EUROPE,Yes,Cancellation Plan,3526
+36,EPX,Travel Agency,0,Online,12,193,ASIA,Yes,Customised Plan,4398
+36,EPX,Travel Agency,0,Online,6,39,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,13,54,EUROPE,No,Customised Plan,0
+54,JZI,Airlines,9.1,Online,39,26,ASIA,No,Bronze Plan,0
+39,CWT,Travel Agency,17.82,Online,5,29.7,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,31,21,ASIA,No,Cancellation Plan,0
+67,C2B,Airlines,13.38,Online,16,53.5,ASIA,No,Bronze Plan,0
+46,C2B,Airlines,4.63,Online,15,18.5,ASIA,No,Silver Plan,0
+19,C2B,Airlines,6.01,Online,42,24.05,ASIA,No,Silver Plan,0
+39,C2B,Airlines,40.25,Online,366,173,ASIA,Yes,Silver Plan,5149
+44,C2B,Airlines,54,Online,365,216,ASIA,Yes,Silver Plan,5079
+36,EPX,Travel Agency,0,Online,66,34,ASIA,Yes,Customised Plan,4044
+36,EPX,Travel Agency,0,Online,75,25,ASIA,No,Cancellation Plan,0
+42,CWT,Travel Agency,5.94,Online,15,9.9,ASIA,No,Customised Plan,0
+56,JZI,Airlines,48.3,Online,46,138,Americas,Yes,Bronze Plan,4763
+36,EPX,Travel Agency,0,Online,42,70,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,33,53,ASIA,No,Customised Plan,0
+30,EPX,Travel Agency,0,Online,17,80,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,124,24,Americas,No,Customised Plan,0
+52,CWT,Travel Agency,23.76,Online,9,39.6,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,8,34,ASIA,Yes,Customised Plan,4331
+28,CWT,Travel Agency,17.82,Online,71,29.7,ASIA,No,Customised Plan,0
+24,CWT,Travel Agency,0,Offline,364,97,ASIA,Yes,Customised Plan,4203
+48,C2B,Airlines,70.2,Online,382,280.8,ASIA,Yes,Silver Plan,5216
+36,EPX,Travel Agency,0,Online,6,43,EUROPE,Yes,Cancellation Plan,3801
+69,EPX,Travel Agency,0,Online,57,99,Americas,Yes,Customised Plan,4368
+36,EPX,Travel Agency,0,Online,22,20,Americas,No,Cancellation Plan,0
+31,EPX,Travel Agency,0,Online,11,24,Americas,No,Cancellation Plan,0
+40,EPX,Travel Agency,0,Online,155,13,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,1,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,14,209,ASIA,No,Cancellation Plan,0
+35,JZI,Airlines,9.1,Online,7,26,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,22,25,ASIA,No,Cancellation Plan,0
+45,EPX,Travel Agency,0,Online,37,22,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,18,13,ASIA,No,Cancellation Plan,0
+30,EPX,Travel Agency,0,Online,24,23,ASIA,No,Customised Plan,0
+32,C2B,Airlines,7.38,Online,9,29.5,ASIA,Yes,Silver Plan,5106
+34,C2B,Airlines,18,Online,66,72,ASIA,Yes,Silver Plan,5453
+47,EPX,Travel Agency,0,Online,70,20,ASIA,No,Customised Plan,0
+39,CWT,Travel Agency,29,Online,370,204.6,ASIA,Yes,Gold Plan,5502
+33,CWT,Travel Agency,11.88,Online,6,19.8,ASIA,No,Customised Plan,0
+41,C2B,Airlines,5.25,Online,36,21,ASIA,No,Bronze Plan,0
+63,JZI,Airlines,6.3,Online,11,18,ASIA,Yes,Bronze Plan,4980
+56,CWT,Travel Agency,29.7,Online,5,49.5,ASIA,No,Customised Plan,0
+44,JZI,Airlines,19.6,Online,50,56,ASIA,No,Bronze Plan,0
+21,EPX,Travel Agency,0,Online,5,37,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,34,112,Americas,Yes,Customised Plan,4407
+30,C2B,Airlines,18,Online,33,72,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,7,20,ASIA,No,Customised Plan,0
+27,JZI,Airlines,6.3,Online,11,18,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,40,10,ASIA,No,Cancellation Plan,0
+47,CWT,Travel Agency,5.94,Online,7,9.9,EUROPE,Yes,Customised Plan,4314
+40,CWT,Travel Agency,29.7,Online,9,64,Americas,No,Customised Plan,0
+23,EPX,Travel Agency,0,Online,17,25,ASIA,No,Customised Plan,0
+45,C2B,Airlines,20.06,Online,96,80.25,ASIA,Yes,Bronze Plan,4633
+36,EPX,Travel Agency,0,Online,34,22,ASIA,No,Cancellation Plan,0
+29,EPX,Travel Agency,0,Online,224,80,Americas,Yes,Cancellation Plan,3876
+45,JZI,Airlines,6.3,Online,12,18,ASIA,No,Bronze Plan,0
+24,C2B,Airlines,5.88,Online,20,23.5,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,63,13,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,9,20,ASIA,No,Customised Plan,0
+31,C2B,Airlines,5.25,Online,6,21,ASIA,No,Bronze Plan,0
+43,JZI,Airlines,15.75,Online,14,45,ASIA,No,Bronze Plan,0
+33,C2B,Airlines,5.63,Online,6,22.5,ASIA,Yes,Silver Plan,5370
+55,EPX,Travel Agency,0,Online,21,20,ASIA,Yes,Customised Plan,4040
+49,EPX,Travel Agency,0,Online,7,25,ASIA,No,Customised Plan,0
+69,C2B,Airlines,6,Online,12,15,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,12,33,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,12,29,ASIA,Yes,Customised Plan,4019
+36,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,93,20,ASIA,No,Customised Plan,0
+56,CWT,Travel Agency,17.82,Online,13,0,ASIA,No,Customised Plan,0
+57,CWT,Travel Agency,41.58,Online,113,69.3,ASIA,No,Customised Plan,0
+48,C2B,Airlines,6.25,Online,4,17.87,ASIA,No,Customised Plan,0
+29,EPX,Travel Agency,0,Online,35,112,ASIA,No,Customised Plan,0
+41,EPX,Travel Agency,0,Online,31,10,ASIA,No,Cancellation Plan,0
+44,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5210
+24,C2B,Airlines,4.25,Online,18,17,ASIA,No,Bronze Plan,0
+23,C2B,Airlines,12.75,Online,62,51,ASIA,Yes,Bronze Plan,4635
+45,CWT,Travel Agency,17.82,Online,18,29.7,ASIA,No,Customised Plan,0
+35,JZI,Airlines,7.7,Online,51,22,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,278,38,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,30,29,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,25,11,ASIA,No,Customised Plan,0
+49,C2B,Airlines,97.34,Online,364,389.35,ASIA,Yes,Gold Plan,5820
+30,JZI,Airlines,7.7,Online,32,22,ASIA,No,Bronze Plan,0
+38,C2B,Airlines,63.21,Online,386,252.85,ASIA,Yes,Silver Plan,5394
+60,JZI,Airlines,14,Online,29,40,ASIA,Yes,Bronze Plan,4756
+26,C2B,Airlines,3.38,Online,32,13.5,ASIA,No,Bronze Plan,0
+39,EPX,Travel Agency,0,Online,11,69,ASIA,No,Cancellation Plan,0
+42,CWT,Travel Agency,132.99,Online,434,204.6,ASIA,No,Gold Plan,0
+44,EPX,Travel Agency,0,Online,19,10,ASIA,No,Cancellation Plan,0
+36,C2B,Airlines,54,Online,369,216,ASIA,Yes,Silver Plan,5437
+31,CWT,Travel Agency,11.88,Online,6,19.8,ASIA,No,Customised Plan,0
+34,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+57,C2B,Airlines,8.38,Online,30,33.5,ASIA,No,Bronze Plan,0
+31,CWT,Travel Agency,29.7,Online,61,49.5,Americas,Yes,Customised Plan,4279
+36,EPX,Travel Agency,0,Online,4,13,ASIA,No,Cancellation Plan,0
+40,CWT,Travel Agency,29.7,Online,7,49.5,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,82,57,EUROPE,Yes,Cancellation Plan,3974
+36,EPX,Travel Agency,0,Online,65,192,ASIA,No,Customised Plan,0
+25,C2B,Airlines,12.4,Online,2,31,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,95,23,ASIA,Yes,Customised Plan,4131
+36,EPX,Travel Agency,0,Online,61,20,ASIA,No,Cancellation Plan,0
+49,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+28,CWT,Travel Agency,149.37,Online,367,229.8,Americas,Yes,Silver Plan,5136
+27,EPX,Travel Agency,0,Online,10,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,56,112,ASIA,No,Customised Plan,0
+72,CWT,Travel Agency,17.82,Online,42,29.7,ASIA,No,Customised Plan,0
+59,C2B,Airlines,6.75,Online,11,27,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,5,10,ASIA,No,Cancellation Plan,0
+34,C2B,Airlines,12.13,Online,15,48.5,ASIA,Yes,Silver Plan,5486
+36,EPX,Travel Agency,0,Online,212,80,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,12,32,ASIA,Yes,Customised Plan,4046
+31,C2B,Airlines,63.21,Online,380,252.85,ASIA,Yes,Silver Plan,5012
+34,CWT,Travel Agency,166.53,Online,421,256.2,Americas,No,Gold Plan,0
+68,EPX,Travel Agency,0,Online,109,13,ASIA,No,Cancellation Plan,0
+36,CWT,Travel Agency,5.94,Online,3,9.9,ASIA,No,Customised Plan,0
+48,CWT,Travel Agency,29.7,Online,58,152,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,52,20,ASIA,No,Customised Plan,0
+73,CWT,Travel Agency,9.57,Offline,226,29,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,22,31,ASIA,No,Customised Plan,0
+28,EPX,Travel Agency,0,Online,123,16,Americas,No,Cancellation Plan,0
+26,CWT,Travel Agency,41.58,Online,50,69.3,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,3,20,ASIA,No,Customised Plan,0
+32,EPX,Travel Agency,0,Online,387,16,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,41.58,Online,11,0,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,107,21.87,EUROPE,Yes,Customised Plan,4141
+48,C2B,Airlines,3.75,Online,2,15,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,1,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,97,10,ASIA,No,Cancellation Plan,0
+35,JZI,Airlines,12.95,Online,33,37,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,69,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,60,163,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,388,20,ASIA,No,Customised Plan,0
+32,C2B,Airlines,63.21,Online,368,252.85,ASIA,Yes,Silver Plan,5345
+36,EPX,Travel Agency,0,Online,25,22,ASIA,No,Customised Plan,0
+47,EPX,Travel Agency,0,Online,10,22,Americas,No,Customised Plan,0
+50,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,29,23,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,39,51,EUROPE,No,Cancellation Plan,0
+30,EPX,Travel Agency,0,Online,1,19,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,45,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,27,68,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,62,31,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,28,61,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,77,34,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,42,10,ASIA,No,Cancellation Plan,0
+54,CWT,Travel Agency,23.76,Online,5,39.6,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,62,20,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,27,22,ASIA,Yes,Customised Plan,4368
+26,C2B,Airlines,54,Online,383,216,ASIA,No,Silver Plan,0
+46,JZI,Airlines,7.7,Online,101,22,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,5,80,EUROPE,No,Cancellation Plan,0
+37,C2B,Airlines,7.38,Online,14,29.5,ASIA,Yes,Silver Plan,5035
+52,JZI,Airlines,12.25,Online,12,35,ASIA,No,Bronze Plan,0
+43,JZI,Airlines,10.5,Online,14,30,ASIA,No,Bronze Plan,0
+52,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5265
+44,CWT,Travel Agency,11.88,Online,4,19.8,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,36,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,21,22,ASIA,No,Cancellation Plan,0
+38,EPX,Travel Agency,0,Online,16,25,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,29,35,ASIA,Yes,Customised Plan,4350
+48,C2B,Airlines,5.63,Online,10,22.5,ASIA,No,Silver Plan,0
+22,C2B,Airlines,9.13,Online,9,36.5,ASIA,Yes,Gold Plan,5776
+36,EPX,Travel Agency,0,Online,36,68,ASIA,Yes,Customised Plan,4043
+70,CWT,Travel Agency,9.57,Offline,56,29,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,3,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,16,30,ASIA,No,Customised Plan,0
+21,JZI,Airlines,7.7,Online,18,22,ASIA,No,Bronze Plan,0
+28,EPX,Travel Agency,0,Online,3,10,ASIA,No,Cancellation Plan,0
+35,EPX,Travel Agency,0,Online,9,20,ASIA,No,Customised Plan,0
+36,C2B,Airlines,15.88,Online,53,63.5,ASIA,Yes,Silver Plan,5399
+53,CWT,Travel Agency,17.82,Online,8,29.7,ASIA,No,Customised Plan,0
+26,CWT,Travel Agency,29.7,Online,35,49.5,Americas,Yes,Customised Plan,4017
+37,C2B,Airlines,21.13,Online,39,84.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,163,13,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,163,20,ASIA,No,Customised Plan,0
+51,C2B,Airlines,8.38,Online,6,33.5,ASIA,Yes,Gold Plan,5511
+36,EPX,Travel Agency,0,Online,17,29,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,80,41,ASIA,Yes,Customised Plan,4334
+51,EPX,Travel Agency,0,Online,71,13,ASIA,No,Cancellation Plan,0
+43,C2B,Airlines,6.94,Online,6,27.75,ASIA,Yes,Silver Plan,5385
+27,CWT,Travel Agency,17.82,Online,56,29.7,ASIA,No,Customised Plan,0
+47,CWT,Travel Agency,23.76,Online,7,39.6,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,34,10,ASIA,No,Cancellation Plan,0
+37,C2B,Airlines,5.25,Online,3,21,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,66,34,ASIA,No,Customised Plan,0
+60,JZI,Airlines,9.1,Online,48,26,ASIA,No,Bronze Plan,0
+42,C2B,Airlines,63.21,Online,380,252.85,ASIA,Yes,Silver Plan,5206
+22,C2B,Airlines,16.75,Online,30,67,ASIA,No,Silver Plan,0
+44,C2B,Airlines,3.75,Online,3,15,ASIA,Yes,Silver Plan,5366
+35,C2B,Airlines,15.6,Online,22,39,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,3,29,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,35.64,Online,26,59.4,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,19,15,ASIA,No,Cancellation Plan,0
+42,JZI,Airlines,10.5,Online,54,30,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,14,33,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,8,80,ASIA,No,Cancellation Plan,0
+36,CWT,Travel Agency,47.52,Online,13,0,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,42,20,ASIA,No,Cancellation Plan,0
+27,C2B,Airlines,6.63,Online,25,26.5,ASIA,Yes,Bronze Plan,4811
+36,EPX,Travel Agency,0,Online,100,35,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,29.7,Online,4,49.5,Americas,No,Customised Plan,0
+30,EPX,Travel Agency,0,Online,39,27,ASIA,No,Customised Plan,0
+39,EPX,Travel Agency,30,Online,23,205.6,ASIA,No,Cancellation Plan,0
+52,JZI,Airlines,7.7,Online,3,22,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,1,20,ASIA,No,Customised Plan,0
+40,CWT,Travel Agency,5.94,Online,54,9.9,EUROPE,No,Customised Plan,0
+34,C2B,Airlines,12.38,Online,21,49.5,ASIA,Yes,Silver Plan,5298
+36,EPX,Travel Agency,0,Online,50,98,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,48,151,ASIA,No,Customised Plan,0
+32,C2B,Airlines,5.63,Online,9,22.5,ASIA,Yes,Silver Plan,5177
+49,JZI,Airlines,10.5,Online,57,30,ASIA,No,Bronze Plan,0
+25,C2B,Airlines,6.75,Online,14,27,ASIA,No,Bronze Plan,0
+38,C2B,Airlines,11.75,Online,13,47,ASIA,Yes,Bronze Plan,4898
+59,C2B,Airlines,6.94,Online,6,27.75,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,4,14,ASIA,No,Cancellation Plan,0
+35,C2B,Airlines,4.39,Online,5,17.55,ASIA,Yes,Bronze Plan,4747
+36,EPX,Travel Agency,0,Online,40,60,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,80,62,EUROPE,Yes,Customised Plan,4412
+39,JZI,Airlines,12.25,Online,14,35,ASIA,No,Bronze Plan,0
+35,EPX,Travel Agency,0,Online,54,30,ASIA,No,Customised Plan,0
+32,EPX,Travel Agency,0,Online,67,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,171,112,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,85,35,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,2,186,ASIA,No,Cancellation Plan,0
+26,C2B,Airlines,6.88,Online,5,27.5,ASIA,Yes,Gold Plan,5864
+25,JZI,Airlines,7.7,Online,4,35,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,156,26,ASIA,Yes,Customised Plan,4096
+31,C2B,Airlines,18,Online,19,72,ASIA,Yes,Silver Plan,5351
+45,C2B,Airlines,10.89,Online,10,43.55,ASIA,Yes,Silver Plan,5475
+36,EPX,Travel Agency,0,Online,59,22,ASIA,No,Customised Plan,0
+52,EPX,Travel Agency,0,Online,39,10,ASIA,Yes,Cancellation Plan,3826
+28,C2B,Airlines,32,Online,364,207.6,ASIA,Yes,Silver Plan,5035
+25,CWT,Travel Agency,17.23,Online,7,26.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,34,11,Americas,No,Cancellation Plan,0
+23,C2B,Airlines,7.47,Online,39,29.9,ASIA,No,Bronze Plan,0
+32,CWT,Travel Agency,77.22,Online,19,128.7,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,11,19,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,14,21,ASIA,No,Customised Plan,0
+32,CWT,Travel Agency,41.58,Online,18,69.3,Americas,Yes,Customised Plan,4454
+35,C2B,Airlines,8.38,Online,115,33.5,ASIA,Yes,Bronze Plan,4524
+36,EPX,Travel Agency,0,Online,44,69,Americas,Yes,Customised Plan,4184
+36,EPX,Travel Agency,0,Online,38,35,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,12,78,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,34,24,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,20,46,ASIA,Yes,Customised Plan,4266
+23,EPX,Travel Agency,0,Online,6,35,Americas,No,Cancellation Plan,0
+64,EPX,Travel Agency,0,Online,65,109,Americas,Yes,Customised Plan,4387
+36,EPX,Travel Agency,0,Online,71,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,27,Online,66,35,ASIA,Yes,Customised Plan,4332
+36,EPX,Travel Agency,0,Online,309,12,ASIA,No,Cancellation Plan,0
+45,EPX,Travel Agency,0,Online,12,10,ASIA,No,Cancellation Plan,0
+49,CWT,Travel Agency,9.57,Offline,18,29,ASIA,Yes,Customised Plan,4171
+54,CWT,Travel Agency,11.88,Online,35,25,ASIA,No,Customised Plan,0
+61,C2B,Airlines,9.75,Online,28,39,ASIA,Yes,Silver Plan,5323
+53,JZI,Airlines,12.25,Online,46,35,ASIA,Yes,Bronze Plan,4519
+65,EPX,Travel Agency,0,Online,1,10,ASIA,No,Cancellation Plan,0
+33,CWT,Travel Agency,77.22,Online,19,128.7,Americas,No,Customised Plan,0
+52,CWT,Travel Agency,59.4,Online,280,99,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,1,12,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,4,38,ASIA,No,Cancellation Plan,0
+24,C2B,Airlines,3.38,Online,5,13.5,ASIA,Yes,Bronze Plan,4713
+36,EPX,Travel Agency,0,Online,92,24,ASIA,No,Customised Plan,0
+21,C2B,Airlines,4,Online,17,16,ASIA,Yes,Bronze Plan,4511
+29,EPX,Travel Agency,0,Online,80,103,Americas,Yes,Customised Plan,4003
+25,C2B,Airlines,54,Online,368,216,ASIA,Yes,Silver Plan,5453
+26,C2B,Airlines,18.13,Online,40,72.5,ASIA,Yes,Bronze Plan,4852
+31,CWT,Travel Agency,11.88,Online,4,19.8,ASIA,No,Customised Plan,0
+40,JZI,Airlines,21.35,Online,88,61,EUROPE,Yes,Bronze Plan,4960
+36,EPX,Travel Agency,0,Online,26,50,ASIA,Yes,Customised Plan,4244
+27,C2B,Airlines,9.75,Online,58,39,ASIA,Yes,Bronze Plan,4583
+54,CWT,Travel Agency,27.3,Online,15,42,ASIA,Yes,Gold Plan,5933
+36,EPX,Travel Agency,0,Online,14,31,ASIA,Yes,Cancellation Plan,3725
+36,C2B,Airlines,4.63,Online,11,18.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,70,112,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,30,10,ASIA,No,Cancellation Plan,0
+31,CWT,Travel Agency,53.46,Online,37,89.1,Americas,No,Customised Plan,0
+26,EPX,Travel Agency,0,Online,21,12,ASIA,Yes,Cancellation Plan,3683
+28,C2B,Airlines,8.63,Online,149,34.5,ASIA,Yes,Bronze Plan,4521
+26,JZI,Airlines,6.3,Online,2,18,ASIA,No,Bronze Plan,0
+47,C2B,Airlines,5.06,Online,21,20.25,ASIA,No,Bronze Plan,0
+32,C2B,Airlines,4,Online,20,16,ASIA,Yes,Bronze Plan,4829
+31,C2B,Airlines,58.35,Online,380,233.4,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,6,21,ASIA,No,Customised Plan,0
+76,CWT,Travel Agency,17.23,Online,22,26.5,ASIA,Yes,Silver Plan,5343
+29,CWT,Travel Agency,23.76,Online,19,39.6,ASIA,Yes,Customised Plan,4251
+36,EPX,Travel Agency,0,Online,110,0,ASIA,No,Cancellation Plan,0
+65,JZI,Airlines,20.3,Online,15,58,ASIA,No,Bronze Plan,0
+32,C2B,Airlines,8.13,Online,6,32.5,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,18,53,Americas,No,Cancellation Plan,0
+45,JZI,Airlines,11.55,Online,11,33,ASIA,No,Bronze Plan,0
+53,CWT,Travel Agency,53.46,Online,68,89.1,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,11,69,ASIA,Yes,Customised Plan,4352
+36,EPX,Travel Agency,0,Online,98,20,ASIA,No,Customised Plan,0
+30,CWT,Travel Agency,210.21,Online,417,323.4,Americas,Yes,Gold Plan,5786
+36,EPX,Travel Agency,0,Online,16,28,ASIA,No,Customised Plan,0
+39,CWT,Travel Agency,23.76,Online,131,39.6,ASIA,Yes,Customised Plan,4288
+36,EPX,Travel Agency,0,Online,12,67,EUROPE,No,Cancellation Plan,0
+51,C2B,Airlines,19.13,Online,14,76.5,ASIA,Yes,Gold Plan,5898
+20,EPX,Travel Agency,0,Online,18,10,ASIA,No,Cancellation Plan,0
+30,C2B,Airlines,7.38,Online,16,29.5,ASIA,Yes,Silver Plan,5303
+32,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5003
+53,CWT,Travel Agency,23.76,Online,74,39.6,Americas,No,Customised Plan,0
+38,JZI,Airlines,16.45,Online,28,47,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,4,26,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,177,128,ASIA,No,Cancellation Plan,0
+66,EPX,Travel Agency,0,Online,18,18,ASIA,No,Cancellation Plan,0
+36,C2B,Airlines,7.25,Online,6,29,ASIA,No,Silver Plan,0
+33,JZI,Airlines,24,Online,2,18,ASIA,No,Bronze Plan,0
+47,EPX,Travel Agency,0,Online,34,88,Americas,No,Customised Plan,0
+27,CWT,Travel Agency,17.82,Online,16,29.7,ASIA,Yes,Customised Plan,4220
+26,C2B,Airlines,12.4,Online,25,31,ASIA,No,Bronze Plan,0
+52,EPX,Travel Agency,0,Online,78,112,Americas,No,Customised Plan,0
+31,CWT,Travel Agency,65.34,Online,86,108.9,Americas,Yes,Customised Plan,4340
+38,JZI,Airlines,6.3,Online,31,18,ASIA,No,Bronze Plan,0
+54,C2B,Airlines,15.6,Online,6,39,ASIA,No,Bronze Plan,0
+38,CWT,Travel Agency,17.82,Online,4,0,ASIA,No,Customised Plan,0
+56,C2B,Airlines,5.63,Online,6,22.5,ASIA,Yes,Silver Plan,5135
+39,EPX,Travel Agency,0,Online,22,12,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,39,58,ASIA,Yes,Customised Plan,4257
+36,EPX,Travel Agency,0,Online,27,13,ASIA,Yes,Cancellation Plan,3760
+50,C2B,Airlines,20.38,Online,56,81.5,ASIA,Yes,Silver Plan,5045
+31,C2B,Airlines,8.38,Online,17,33.5,ASIA,Yes,Silver Plan,5467
+30,JZI,Airlines,7.7,Online,4,22,ASIA,No,Bronze Plan,0
+30,C2B,Airlines,17.38,Online,22,69.5,ASIA,Yes,Bronze Plan,4686
+36,EPX,Travel Agency,0,Online,82,67,ASIA,No,Customised Plan,0
+31,C2B,Airlines,15.88,Online,20,63.5,ASIA,Yes,Silver Plan,5083
+50,C2B,Airlines,8.38,Online,6,33.5,ASIA,Yes,Gold Plan,5941
+36,EPX,Travel Agency,0,Online,10,20,ASIA,No,Customised Plan,0
+44,EPX,Travel Agency,0,Online,27,48,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,35,15,ASIA,No,Cancellation Plan,0
+62,JZI,Airlines,9.1,Online,195,26,ASIA,No,Bronze Plan,0
+48,C2B,Airlines,2,Online,2,7.15,ASIA,Yes,Customised Plan,4232
+28,C2B,Airlines,6.63,Online,17,26.5,ASIA,Yes,Bronze Plan,4656
+38,C2B,Airlines,5.25,Online,10,21,ASIA,Yes,Bronze Plan,4900
+22,EPX,Travel Agency,0,Offline,120,1,ASIA,No,Customised Plan,0
+29,C2B,Airlines,12.4,Online,22,31,ASIA,No,Bronze Plan,0
+26,JZI,Airlines,9.1,Online,58,26,ASIA,No,Bronze Plan,0
+27,C2B,Airlines,15.88,Online,15,63.5,ASIA,Yes,Silver Plan,5214
+60,C2B,Airlines,3.38,Online,6,13.5,ASIA,Yes,Bronze Plan,4684
+36,EPX,Travel Agency,0,Online,22,21,EUROPE,No,Cancellation Plan,0
+22,C2B,Airlines,84.13,Online,197,336.5,ASIA,Yes,Bronze Plan,4600
+38,C2B,Airlines,5.25,Online,67,21,ASIA,Yes,Bronze Plan,4560
+23,C2B,Airlines,15.5,Online,58,62,ASIA,Yes,Bronze Plan,4882
+41,C2B,Airlines,97.25,Online,368,389,ASIA,Yes,Silver Plan,5128
+28,C2B,Airlines,25,Online,9,18.5,ASIA,Yes,Silver Plan,5070
+36,EPX,Travel Agency,0,Online,77,28,ASIA,No,Cancellation Plan,0
+47,CWT,Travel Agency,65.34,Online,42,108.9,Americas,No,Customised Plan,0
+58,EPX,Travel Agency,0,Online,41,32,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,41,24,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,49,94,EUROPE,No,Customised Plan,0
+25,C2B,Airlines,12.4,Online,23,31,ASIA,No,Bronze Plan,0
+38,JZI,Airlines,10.5,Online,34,30,ASIA,No,Bronze Plan,0
+46,C2B,Airlines,63.38,Online,93,253.5,ASIA,Yes,Silver Plan,5094
+56,CWT,Travel Agency,65.34,Online,33,108.9,EUROPE,No,Customised Plan,0
+49,JZI,Airlines,11.55,Online,7,33,ASIA,Yes,Bronze Plan,4691
+28,EPX,Travel Agency,0,Online,10,30,ASIA,No,Cancellation Plan,0
+38,CWT,Travel Agency,41.58,Online,57,69.3,Americas,No,Customised Plan,0
+24,C2B,Airlines,8.63,Online,15,34.5,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,47,63,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,14,27,ASIA,No,Customised Plan,0
+27,C2B,Airlines,43.06,Online,104,172.25,ASIA,Yes,Silver Plan,5009
+46,CWT,Travel Agency,47.52,Online,11,79.2,Americas,No,Customised Plan,0
+29,C2B,Airlines,4.8,Online,6,19.2,ASIA,No,Bronze Plan,0
+54,C2B,Airlines,75.25,Online,365,301,ASIA,No,Silver Plan,0
+53,JZI,Airlines,12.25,Online,15,35,ASIA,No,Bronze Plan,0
+38,C2B,Airlines,45.5,Online,19,182,ASIA,No,Gold Plan,0
+25,C2B,Airlines,9.75,Online,142,39,ASIA,No,Bronze Plan,0
+29,C2B,Airlines,4,Online,5,16,ASIA,Yes,Bronze Plan,4779
+36,EPX,Travel Agency,0,Online,36,10,ASIA,No,Cancellation Plan,0
+52,C2B,Airlines,7.38,Online,10,29.5,ASIA,Yes,Silver Plan,5440
+36,C2B,Airlines,63.21,Online,374,252.85,ASIA,Yes,Silver Plan,5296
+35,EPX,Travel Agency,0,Online,27,21,ASIA,Yes,Customised Plan,4102
+35,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+33,C2B,Airlines,17.71,Online,21,70.85,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,27,46,ASIA,No,Customised Plan,0
+46,C2B,Airlines,83.25,Online,364,333,ASIA,Yes,Gold Plan,5706
+36,EPX,Travel Agency,0,Online,65,112,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,6,16,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,15,20,ASIA,Yes,Customised Plan,4462
+30,C2B,Airlines,13.25,Online,16,53,ASIA,Yes,Bronze Plan,4522
+39,EPX,Travel Agency,0,Online,45,11,ASIA,No,Cancellation Plan,0
+46,C2B,Airlines,6,Online,7,15,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,19,50,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,31,17,ASIA,No,Cancellation Plan,0
+50,EPX,Travel Agency,0,Online,21,10,ASIA,No,Cancellation Plan,0
+39,C2B,Airlines,54,Online,365,207,ASIA,Yes,Silver Plan,5240
+36,C2B,Airlines,8.88,Online,8,35.5,ASIA,Yes,Silver Plan,5498
+34,CWT,Travel Agency,49.73,Online,31,76.5,EUROPE,Yes,Gold Plan,5603
+41,C2B,Airlines,6.3,Online,10,25.2,ASIA,Yes,Bronze Plan,4984
+36,EPX,Travel Agency,0,Online,37,13,ASIA,No,Cancellation Plan,0
+42,C2B,Airlines,29.13,Online,41,116.5,ASIA,Yes,Silver Plan,5409
+31,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5175
+67,EPX,Travel Agency,0,Online,12,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,13,39,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,14,10,ASIA,No,Cancellation Plan,0
+33,C2B,Airlines,12.25,Online,26,49,ASIA,Yes,Gold Plan,5628
+36,EPX,Travel Agency,0,Online,2,20,ASIA,No,Customised Plan,0
+49,JZI,Airlines,15.75,Online,189,45,Americas,No,Bronze Plan,0
+30,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5200
+35,C2B,Airlines,3.75,Online,5,15,ASIA,Yes,Silver Plan,5027
+36,EPX,Travel Agency,0,Online,70,46,ASIA,No,Cancellation Plan,0
+67,C2B,Airlines,20.25,Online,46,81,ASIA,Yes,Bronze Plan,4833
+74,C2B,Airlines,50.25,Online,377,201,ASIA,No,Silver Plan,0
+29,CWT,Travel Agency,5.94,Online,27,0,Americas,No,Customised Plan,0
+37,CWT,Travel Agency,149.37,Online,373,229.8,Americas,Yes,Silver Plan,5429
+36,EPX,Travel Agency,0,Online,38,29,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,18,Online,112,72,ASIA,Yes,Silver Plan,5344
+36,JZI,Airlines,15.4,Online,222,44,ASIA,No,Bronze Plan,0
+26,C2B,Airlines,10.25,Online,10,41,ASIA,Yes,Silver Plan,5407
+69,C2B,Airlines,64.8,Online,368,259.2,ASIA,Yes,Silver Plan,5384
+36,EPX,Travel Agency,0,Online,111,53,ASIA,No,Cancellation Plan,0
+50,CWT,Travel Agency,35.64,Online,21,59.4,Americas,Yes,Customised Plan,4293
+32,EPX,Travel Agency,0,Online,4,10,ASIA,No,Cancellation Plan,0
+30,C2B,Airlines,7.38,Online,11,29.5,ASIA,Yes,Silver Plan,5161
+64,CWT,Travel Agency,41.58,Online,32,69.3,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,6,44,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,4,13,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,38,64,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,51,23,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,56,145,EUROPE,Yes,Customised Plan,4127
+55,CWT,Travel Agency,17.82,Online,89,29.7,EUROPE,Yes,Customised Plan,4060
+36,EPX,Travel Agency,0,Online,81,28,ASIA,No,Customised Plan,0
+58,CWT,Travel Agency,47.52,Online,51,79.2,EUROPE,Yes,Customised Plan,4313
+60,C2B,Airlines,83.25,Online,388,333,ASIA,Yes,Gold Plan,5636
+31,CWT,Travel Agency,29.7,Online,10,49.5,ASIA,Yes,Customised Plan,4066
+29,EPX,Travel Agency,0,Online,25,20,ASIA,No,Customised Plan,0
+48,JZI,Airlines,6.3,Online,4,18,ASIA,No,Bronze Plan,0
+48,C2B,Airlines,2.64,Online,24,7.55,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,14,28,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,7,44,ASIA,No,Customised Plan,0
+26,CWT,Travel Agency,41.58,Online,10,69.3,Americas,Yes,Customised Plan,4288
+34,C2B,Airlines,11.75,Online,29,47,ASIA,No,Bronze Plan,0
+56,C2B,Airlines,18,Online,60,72,ASIA,Yes,Silver Plan,5295
+26,C2B,Airlines,46.25,Online,154,185,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,28,0,ASIA,No,Cancellation Plan,0
+41,JZI,Airlines,6.3,Online,8,18,ASIA,No,Bronze Plan,0
+31,CWT,Travel Agency,5.94,Online,4,0,Americas,No,Customised Plan,0
+40,EPX,Travel Agency,0,Online,63,112,Americas,No,Customised Plan,0
+31,C2B,Airlines,54,Online,364,216,ASIA,Yes,Silver Plan,5404
+36,EPX,Travel Agency,0,Online,5,20,ASIA,No,Customised Plan,0
+26,C2B,Airlines,18,Online,41,72,ASIA,No,Bronze Plan,0
+61,JZI,Airlines,11.55,Online,13,168,ASIA,No,Bronze Plan,0
+35,EPX,Travel Agency,0,Online,47,52,ASIA,No,Customised Plan,0
+32,EPX,Travel Agency,0,Online,28,10,ASIA,Yes,Cancellation Plan,3806
+36,EPX,Travel Agency,0,Online,123,52,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,25,10,ASIA,No,Cancellation Plan,0
+35,C2B,Airlines,54,Online,367,216,ASIA,Yes,Silver Plan,5258
+60,JZI,Airlines,7.7,Online,8,22,ASIA,No,Bronze Plan,0
+23,C2B,Airlines,11.86,Online,14,47.45,ASIA,No,Gold Plan,0
+36,EPX,Travel Agency,0,Online,12,15,ASIA,No,Cancellation Plan,0
+44,JZI,Airlines,58.45,Online,36,167,EUROPE,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,45,106,ASIA,No,Customised Plan,0
+56,C2B,Airlines,12.13,Online,17,48.5,ASIA,Yes,Silver Plan,5135
+42,C2B,Airlines,12.38,Online,17,49.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,55,100,EUROPE,Yes,Customised Plan,4452
+37,C2B,Airlines,49.6,Online,0,124,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,107,88,EUROPE,Yes,Customised Plan,4437
+34,C2B,Airlines,9.2,Online,33,23,ASIA,No,Bronze Plan,0
+53,C2B,Airlines,72.94,Online,368,291.75,ASIA,No,Silver Plan,0
+48,C2B,Airlines,1.83,Online,3,5.23,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,72,93,EUROPE,Yes,Customised Plan,4445
+35,EPX,Travel Agency,0,Online,8,10,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,29,101,EUROPE,No,Customised Plan,0
+39,C2B,Airlines,83.25,Online,365,333,ASIA,Yes,Gold Plan,5569
+29,C2B,Airlines,5,Online,19,20,ASIA,Yes,Bronze Plan,4680
+36,EPX,Travel Agency,0,Online,8,11,ASIA,No,Cancellation Plan,0
+48,CWT,Travel Agency,32.68,Online,8,86,EUROPE,Yes,Gold Plan,5551
+54,JZI,Airlines,9.1,Online,20,26,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,25,112,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,71.28,Online,41,118.8,EUROPE,Yes,Customised Plan,4059
+28,C2B,Airlines,6.75,Online,10,27,ASIA,Yes,Bronze Plan,4576
+53,C2B,Airlines,5.63,Online,5,22.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,5,46,ASIA,Yes,Customised Plan,4383
+54,CWT,Travel Agency,27.3,Online,37,161,ASIA,Yes,Gold Plan,5788
+55,C2B,Airlines,97.34,Online,385,389.35,ASIA,No,Gold Plan,0
+72,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5381
+36,EPX,Travel Agency,0,Online,59,20,ASIA,No,Customised Plan,0
+31,CWT,Travel Agency,71.28,Online,78,118.8,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,10,56,ASIA,Yes,Customised Plan,4469
+43,JZI,Airlines,6.3,Online,3,18,ASIA,No,Bronze Plan,0
+23,C2B,Airlines,6.75,Online,10,27,ASIA,Yes,Bronze Plan,4813
+35,EPX,Travel Agency,34,Online,8,209.6,ASIA,No,Cancellation Plan,0
+48,C2B,Airlines,3.92,Online,27,11.19,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,77,28,ASIA,No,Customised Plan,0
+71,CWT,Travel Agency,100.98,Online,73,168.3,Americas,Yes,Customised Plan,4349
+49,C2B,Airlines,7.64,Online,128,30.55,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,84,22,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,24,33,ASIA,No,Customised Plan,0
+58,CWT,Travel Agency,11.88,Online,15,19.8,EUROPE,No,Customised Plan,0
+54,JZI,Airlines,9.1,Online,11,26,ASIA,No,Bronze Plan,0
+25,C2B,Airlines,3.38,Online,3,13.5,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,66,113,EUROPE,No,Cancellation Plan,0
+33,C2B,Airlines,11.88,Online,10,47.5,ASIA,Yes,Silver Plan,5178
+36,EPX,Travel Agency,0,Online,3,31,ASIA,No,Customised Plan,0
+43,JZI,Airlines,6.3,Online,2,18,ASIA,No,Bronze Plan,0
+41,JZI,Airlines,15.4,Online,67,44,ASIA,No,Bronze Plan,0
+43,C2B,Airlines,20.38,Online,45,81.5,ASIA,Yes,Silver Plan,5337
+36,EPX,Travel Agency,0,Online,6,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,218,21,ASIA,No,Customised Plan,0
+48,C2B,Airlines,3.01,Online,78,10.74,ASIA,No,Customised Plan,0
+40,C2B,Airlines,15.5,Online,12,62,ASIA,No,Silver Plan,0
+63,JZI,Airlines,7.7,Online,8,22,ASIA,No,Bronze Plan,0
+24,C2B,Airlines,20.38,Online,385,81.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,31,0,ASIA,No,Cancellation Plan,0
+30,C2B,Airlines,11.38,Online,19,45.5,ASIA,Yes,Bronze Plan,4532
+26,C2B,Airlines,5.25,Online,90,21,ASIA,No,Bronze Plan,0
+59,C2B,Airlines,41.25,Online,78,165,ASIA,No,Bronze Plan,0
+31,CWT,Travel Agency,23.76,Online,7,39.6,Americas,Yes,Customised Plan,4249
+36,EPX,Travel Agency,0,Online,31,80,EUROPE,No,Cancellation Plan,0
+23,EPX,Travel Agency,0,Online,4,10,ASIA,No,Cancellation Plan,0
+40,JZI,Airlines,7.7,Online,40,22,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,23,26,ASIA,No,Customised Plan,0
+45,EPX,Travel Agency,0,Online,51,112,Americas,Yes,Customised Plan,4441
+65,CWT,Travel Agency,10.5,Offline,48,30,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,389,62,Americas,No,Customised Plan,0
+31,C2B,Airlines,72.94,Online,365,291.75,ASIA,Yes,Silver Plan,5052
+36,EPX,Travel Agency,0,Online,49,38,ASIA,No,Customised Plan,0
+28,CWT,Travel Agency,17.82,Online,12,29.7,ASIA,Yes,Customised Plan,4330
+36,EPX,Travel Agency,0,Online,2,20,ASIA,No,Cancellation Plan,0
+52,C2B,Airlines,63.21,Online,369,252.85,ASIA,Yes,Silver Plan,5423
+36,EPX,Travel Agency,0,Online,63,51,EUROPE,Yes,Customised Plan,4403
+36,EPX,Travel Agency,0,Online,70,20,ASIA,No,Customised Plan,0
+20,C2B,Airlines,23.75,Online,79,95,ASIA,No,Silver Plan,0
+46,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5443
+34,JZI,Airlines,48.3,Online,83,138,Americas,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,57,65,Americas,Yes,Cancellation Plan,3607
+36,EPX,Travel Agency,0,Online,47,20,ASIA,Yes,Cancellation Plan,3901
+54,JZI,Airlines,7.7,Online,46,22,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,28,12,ASIA,No,Cancellation Plan,0
+27,C2B,Airlines,7.5,Online,4,30,ASIA,Yes,Silver Plan,5402
+35,C2B,Airlines,8.38,Online,13,33.5,ASIA,Yes,Bronze Plan,4598
+36,JZI,Airlines,7.7,Online,25,22,ASIA,No,Bronze Plan,0
+32,CWT,Travel Agency,47.52,Online,10,79.2,Americas,No,Customised Plan,0
+37,CWT,Travel Agency,23.76,Online,22,39.6,ASIA,No,Customised Plan,0
+47,EPX,Travel Agency,0,Online,13,10,ASIA,No,Cancellation Plan,0
+48,C2B,Airlines,0.38,Online,276,1.35,ASIA,No,Customised Plan,0
+27,C2B,Airlines,46.96,Online,368,187.85,ASIA,Yes,Silver Plan,5232
+36,EPX,Travel Agency,0,Online,36,32,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,35,85,EUROPE,Yes,Customised Plan,4449
+28,CWT,Travel Agency,6.75,Online,3,42,ASIA,No,Silver Plan,0
+30,C2B,Airlines,5.25,Online,6,21,ASIA,Yes,Bronze Plan,4923
+36,EPX,Travel Agency,0,Online,75,95,EUROPE,Yes,Customised Plan,4421
+30,EPX,Travel Agency,0,Online,10,10,ASIA,No,Cancellation Plan,0
+38,CWT,Travel Agency,30.55,Online,29,47,EUROPE,Yes,Silver Plan,5477
+36,EPX,Travel Agency,0,Online,139,42,Americas,No,Customised Plan,0
+23,EPX,Travel Agency,0,Online,8,59,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,55,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,24,20,ASIA,No,Customised Plan,0
+23,EPX,Travel Agency,0,Online,101,65,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,12,20,ASIA,No,Customised Plan,0
+49,C2B,Airlines,6.75,Online,11,27,ASIA,No,Bronze Plan,0
+11,C2B,Airlines,15.75,Online,27,63,ASIA,No,Silver Plan,0
+63,EPX,Travel Agency,0,Online,9,12,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,10,80,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,12,11,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,26,13,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,83,55,EUROPE,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,63,10,ASIA,No,Cancellation Plan,0
+26,C2B,Airlines,70.2,Online,398,280.8,ASIA,Yes,Silver Plan,5401
+24,EPX,Travel Agency,0,Online,11,27,ASIA,No,Customised Plan,0
+42,EPX,Travel Agency,0,Online,28,10,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,20,66,ASIA,Yes,Customised Plan,4245
+41,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5180
+36,EPX,Travel Agency,0,Online,29,30,ASIA,No,Cancellation Plan,0
+40,C2B,Airlines,7.25,Online,4,29,ASIA,Yes,Silver Plan,5343
+36,EPX,Travel Agency,0,Online,14,27,ASIA,No,Customised Plan,0
+24,CWT,Travel Agency,95.04,Online,19,158.4,Americas,Yes,Customised Plan,4397
+36,EPX,Travel Agency,0,Online,64,31,ASIA,No,Customised Plan,0
+64,CWT,Travel Agency,23.76,Online,38,52,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,12,39,ASIA,No,Cancellation Plan,0
+28,EPX,Travel Agency,0,Online,125,112,Americas,Yes,Customised Plan,4448
+26,EPX,Travel Agency,0,Online,31,96,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,76,70,ASIA,Yes,Customised Plan,4276
+36,EPX,Travel Agency,0,Online,81,20,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,23,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,22,32,Americas,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,11,19,ASIA,No,Cancellation Plan,0
+40,C2B,Airlines,3.75,Online,2,15,ASIA,No,Silver Plan,0
+30,EPX,Travel Agency,0,Online,18,28,ASIA,No,Customised Plan,0
+27,EPX,Travel Agency,0,Offline,19,33,ASIA,Yes,Customised Plan,4188
+34,EPX,Travel Agency,0,Online,8,20,ASIA,No,Customised Plan,0
+26,CWT,Travel Agency,132.99,Online,368,204.6,ASIA,Yes,Gold Plan,5853
+28,EPX,Travel Agency,0,Online,70,112,Americas,No,Customised Plan,0
+69,JZI,Airlines,7.7,Online,10,22,ASIA,No,Bronze Plan,0
+34,CWT,Travel Agency,23.73,Online,12,36.5,ASIA,No,Gold Plan,0
+25,C2B,Airlines,15.5,Online,66,62,ASIA,Yes,Bronze Plan,4650
+46,C2B,Airlines,13.31,Online,64,53.25,ASIA,Yes,Bronze Plan,4810
+29,C2B,Airlines,10.38,Online,15,41.5,ASIA,No,Silver Plan,0
+29,C2B,Airlines,15.5,Online,73,62,ASIA,Yes,Silver Plan,5281
+26,C2B,Airlines,7.47,Online,106,20.87,ASIA,Yes,Bronze Plan,4754
+39,C2B,Airlines,34.13,Online,55,136.5,ASIA,No,Gold Plan,0
+28,C2B,Airlines,13.25,Online,21,53,ASIA,Yes,Bronze Plan,4721
+48,C2B,Airlines,64.8,Online,382,259.2,ASIA,Yes,Silver Plan,5327
+36,EPX,Travel Agency,0,Online,48,20,ASIA,No,Customised Plan,0
+58,CWT,Travel Agency,10.5,Offline,17,30,ASIA,Yes,Customised Plan,4084
+25,EPX,Travel Agency,0,Online,381,73,Americas,Yes,Cancellation Plan,3741
+28,EPX,Travel Agency,0,Online,190,22,Americas,No,Cancellation Plan,0
+28,EPX,Travel Agency,0,Online,79,80,Americas,No,Cancellation Plan,0
+36,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5333
+24,C2B,Airlines,5.53,Online,31,22.1,ASIA,Yes,Bronze Plan,4748
+36,EPX,Travel Agency,0,Online,303,84,EUROPE,Yes,Customised Plan,4275
+36,EPX,Travel Agency,0,Online,10,31,ASIA,No,Cancellation Plan,0
+37,EPX,Travel Agency,0,Online,45,13,ASIA,No,Cancellation Plan,0
+22,CWT,Travel Agency,10.64,Online,28,28,ASIA,No,Bronze Plan,0
+24,EPX,Travel Agency,0,Online,39,10,ASIA,No,Cancellation Plan,0
+36,CWT,Travel Agency,35.64,Online,134,59.4,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,38,12,ASIA,No,Cancellation Plan,0
+35,EPX,Travel Agency,0,Online,17,38,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,118,28,Americas,No,Cancellation Plan,0
+69,C2B,Airlines,12.45,Online,12,49.8,ASIA,Yes,Silver Plan,5035
+35,CWT,Travel Agency,23.76,Online,25,39.6,EUROPE,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,24,51,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,137,78,ASIA,No,Customised Plan,0
+51,CWT,Travel Agency,83.16,Online,34,138.6,ASIA,Yes,Customised Plan,4142
+22,C2B,Airlines,7.38,Online,30,29.5,ASIA,Yes,Bronze Plan,4554
+48,C2B,Airlines,0.25,Online,12,184,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,21,78,EUROPE,No,Cancellation Plan,0
+37,JZI,Airlines,12.25,Online,11,25.87,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,105,20,ASIA,No,Customised Plan,0
+32,C2B,Airlines,20.64,Online,24,82.55,ASIA,Yes,Silver Plan,5256
+44,JZI,Airlines,6.3,Online,2,18,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,21,40,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,4,Online,6,16,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,15,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,31,Online,21,206.6,ASIA,No,Customised Plan,0
+52,CWT,Travel Agency,23.76,Online,34,39.6,ASIA,No,Customised Plan,0
+29,C2B,Airlines,17.39,Online,48,69.55,ASIA,No,Bronze Plan,0
+21,C2B,Airlines,5,Online,9,20,ASIA,Yes,Bronze Plan,4888
+38,C2B,Airlines,63.21,Online,366,252.85,ASIA,Yes,Silver Plan,5038
+34,EPX,Travel Agency,0,Offline,10,20,ASIA,Yes,Customised Plan,4227
+28,C2B,Airlines,20.64,Online,16,82.55,ASIA,Yes,Silver Plan,5105
+26,C2B,Airlines,8.38,Online,30,33.5,ASIA,Yes,Bronze Plan,4589
+36,EPX,Travel Agency,0,Online,5,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,8,69,ASIA,No,Cancellation Plan,0
+22,JZI,Airlines,30.45,Online,47,158,EUROPE,No,Bronze Plan,0
+32,C2B,Airlines,54,Online,390,216,ASIA,No,Silver Plan,0
+29,EPX,Travel Agency,0,Online,31,20,ASIA,No,Customised Plan,0
+30,C2B,Airlines,13.49,Online,28,53.95,ASIA,No,Silver Plan,0
+37,C2B,Airlines,5.63,Online,5,22.5,ASIA,Yes,Silver Plan,5351
+36,EPX,Travel Agency,0,Online,40,39,ASIA,No,Customised Plan,0
+44,C2B,Airlines,63.21,Online,419,252.85,ASIA,Yes,Silver Plan,5280
+31,CWT,Travel Agency,41.58,Online,224,69.3,Americas,No,Customised Plan,0
+40,JZI,Airlines,7.7,Online,9,22,ASIA,No,Bronze Plan,0
+48,CWT,Travel Agency,10.64,Online,20,28,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,18,20,ASIA,No,Customised Plan,0
+30,CWT,Travel Agency,23.76,Online,36,39.6,EUROPE,No,Customised Plan,0
+30,C2B,Airlines,5.75,Online,20,23,ASIA,Yes,Bronze Plan,4721
+36,EPX,Travel Agency,0,Online,127,16,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,12,52,ASIA,No,Customised Plan,0
+62,C2B,Airlines,63.21,Online,365,252.85,ASIA,Yes,Silver Plan,5022
+36,EPX,Travel Agency,0,Online,6,24,ASIA,No,Cancellation Plan,0
+38,JZI,Airlines,7.7,Online,72,22,ASIA,No,Bronze Plan,0
+25,EPX,Travel Agency,0,Online,55,10,ASIA,No,Cancellation Plan,0
+30,EPX,Travel Agency,0,Online,49,16,ASIA,No,Cancellation Plan,0
+51,CWT,Travel Agency,10.5,Offline,47,30,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,25,79,ASIA,Yes,Customised Plan,4084
+45,C2B,Airlines,20.38,Online,20,81.5,ASIA,Yes,Silver Plan,5435
+36,EPX,Travel Agency,0,Online,105,17,ASIA,No,Cancellation Plan,0
+48,CWT,Travel Agency,10.64,Online,27,28,ASIA,Yes,Bronze Plan,4638
+51,CWT,Travel Agency,41.58,Online,29,69.3,EUROPE,No,Customised Plan,0
+35,EPX,Travel Agency,0,Online,4,10,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,20.38,Online,29,81.5,ASIA,Yes,Silver Plan,5348
+28,C2B,Airlines,46.96,Online,367,187.85,ASIA,Yes,Silver Plan,5240
+25,C2B,Airlines,23,Online,34,164,ASIA,No,Bronze Plan,0
+49,C2B,Airlines,9.2,Online,368,23,ASIA,No,Bronze Plan,0
+23,EPX,Travel Agency,0,Online,65,19,ASIA,No,Cancellation Plan,0
+36,C2B,Airlines,22,Online,17,88,ASIA,No,Gold Plan,0
+48,CWT,Travel Agency,18.62,Online,55,49,ASIA,No,Gold Plan,0
+36,EPX,Travel Agency,0,Online,138,17,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,22,195,ASIA,No,Customised Plan,0
+28,C2B,Airlines,97.34,Online,367,389.35,ASIA,Yes,Gold Plan,5589
+36,EPX,Travel Agency,0,Online,25,90,EUROPE,No,Customised Plan,0
+48,C2B,Airlines,0.09,Online,4580,0.32,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,33,25,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,25,21,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,90,16,ASIA,No,Cancellation Plan,0
+35,CWT,Travel Agency,132.99,Online,365,204.6,ASIA,Yes,Gold Plan,5821
+28,CWT,Travel Agency,41.58,Online,20,0,ASIA,No,Customised Plan,0
+45,JZI,Airlines,6.3,Online,9,18,ASIA,No,Bronze Plan,0
+30,CWT,Travel Agency,41.27,Online,156,63.5,Americas,No,Silver Plan,0
+27,C2B,Airlines,10,Online,13,40,ASIA,Yes,Bronze Plan,4653
+36,EPX,Travel Agency,0,Online,2,14,ASIA,No,Cancellation Plan,0
+52,C2B,Airlines,5,Online,11,20,ASIA,Yes,Bronze Plan,4992
+36,C2B,Airlines,27.25,Online,55,109,ASIA,Yes,Silver Plan,5264
+57,C2B,Airlines,11.75,Online,16,47,ASIA,Yes,Bronze Plan,5000
+36,EPX,Travel Agency,0,Online,53,22.87,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,4,40,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,9,87,ASIA,Yes,Customised Plan,4281
+65,EPX,Travel Agency,0,Online,9,20,ASIA,No,Customised Plan,0
+48,C2B,Airlines,6.63,Online,13,26.5,ASIA,No,Bronze Plan,0
+32,C2B,Airlines,59.88,Online,365,239.5,ASIA,No,Gold Plan,0
+36,EPX,Travel Agency,0,Online,26,24,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,67,25,ASIA,No,Cancellation Plan,0
+26,C2B,Airlines,7.25,Online,17,29,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,2,47,ASIA,No,Cancellation Plan,0
+65,EPX,Travel Agency,0,Online,43,25,ASIA,No,Customised Plan,0
+74,C2B,Airlines,6.63,Online,52,26.5,ASIA,Yes,Bronze Plan,4992
+36,EPX,Travel Agency,0,Online,43,0,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,2,0,ASIA,No,Customised Plan,0
+36,C2B,Airlines,4.63,Online,12,18.5,ASIA,Yes,Silver Plan,5049
+22,C2B,Airlines,11.75,Online,16,47,ASIA,Yes,Bronze Plan,4971
+22,EPX,Travel Agency,0,Online,20,27,Americas,No,Cancellation Plan,0
+44,JZI,Airlines,7.7,Online,10,22,ASIA,No,Bronze Plan,0
+48,EPX,Travel Agency,0,Online,184,80,Americas,No,Cancellation Plan,0
+48,CWT,Travel Agency,53.46,Online,28,89.1,ASIA,No,Customised Plan,0
+25,CWT,Travel Agency,11.88,Online,14,19.8,ASIA,Yes,Customised Plan,4078
+55,JZI,Airlines,12.25,Online,74,35,ASIA,No,Bronze Plan,0
+65,CWT,Travel Agency,9.57,Offline,78,29,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,42,83,EUROPE,No,Customised Plan,0
+42,CWT,Travel Agency,11.88,Online,31,19.8,Americas,No,Customised Plan,0
+31,CWT,Travel Agency,17.82,Online,28,44,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,11,33,ASIA,No,Cancellation Plan,0
+57,EPX,Travel Agency,0,Online,9,20,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,4,39,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,26,20,ASIA,No,Customised Plan,0
+27,C2B,Airlines,54,Online,368,216,ASIA,No,Silver Plan,0
+39,CWT,Travel Agency,59.4,Online,62,99,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,12,49,ASIA,No,Customised Plan,0
+24,CWT,Travel Agency,41.58,Online,62,69.3,Americas,No,Customised Plan,0
+30,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5355
+36,EPX,Travel Agency,0,Online,223,28,ASIA,Yes,Customised Plan,4422
+27,EPX,Travel Agency,0,Online,19,20,ASIA,No,Customised Plan,0
+35,EPX,Travel Agency,0,Online,12,19,ASIA,No,Cancellation Plan,0
+26,EPX,Travel Agency,0,Online,10,10,ASIA,No,Cancellation Plan,0
+41,EPX,Travel Agency,0,Online,10,50,ASIA,No,Customised Plan,0
+46,C2B,Airlines,11.25,Online,4,45,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,17,62,ASIA,No,Customised Plan,0
+30,C2B,Airlines,8.38,Online,24,33.5,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,67,20,ASIA,Yes,Customised Plan,4083
+54,C2B,Airlines,11.38,Online,41,45.5,ASIA,Yes,Bronze Plan,4959
+39,C2B,Airlines,6,Online,44,15,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,187,39,ASIA,No,Cancellation Plan,0
+31,EPX,Travel Agency,0,Online,40,112,Americas,No,Customised Plan,0
+31,C2B,Airlines,63.21,Online,370,252.85,ASIA,Yes,Silver Plan,5360
+72,C2B,Airlines,17.15,Online,33,68.6,ASIA,Yes,Gold Plan,5898
+32,CWT,Travel Agency,5.94,Online,2,9.9,ASIA,No,Customised Plan,0
+38,CWT,Travel Agency,23.76,Online,84,39.6,EUROPE,No,Customised Plan,0
+30,C2B,Airlines,10.13,Online,22,40.5,ASIA,Yes,Bronze Plan,4506
+24,C2B,Airlines,4.63,Online,13,18.5,ASIA,No,Silver Plan,0
+36,EPX,Travel Agency,0,Online,15,10,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,12.13,Online,29,48.5,ASIA,Yes,Silver Plan,5000
+64,CWT,Travel Agency,90.09,Online,466,138.6,ASIA,No,Silver Plan,0
+48,C2B,Airlines,2.81,Online,2,10.04,ASIA,No,Customised Plan,0
+36,CWT,Travel Agency,149.5,Online,364,230,Americas,No,Silver Plan,0
+69,CWT,Travel Agency,10.5,Offline,29,30,ASIA,No,Customised Plan,0
+41,C2B,Airlines,63.21,Online,364,252.85,ASIA,Yes,Silver Plan,5250
+27,CWT,Travel Agency,17.82,Online,6,0,Americas,No,Customised Plan,0
+25,C2B,Airlines,12.4,Online,1,31,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,66,10,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,103,35,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,57,37,ASIA,No,Cancellation Plan,0
+47,C2B,Airlines,63.21,Online,367,252.85,ASIA,Yes,Silver Plan,5141
+36,EPX,Travel Agency,0,Online,50,60,ASIA,No,Customised Plan,0
+29,EPX,Travel Agency,0,Online,22,30,Americas,No,Customised Plan,0
+50,C2B,Airlines,6,Online,21,24,ASIA,Yes,Bronze Plan,4712
+31,CWT,Travel Agency,29.7,Online,8,49.5,EUROPE,No,Customised Plan,0
+30,C2B,Airlines,6,Online,4,15,ASIA,No,Bronze Plan,0
+36,EPX,Travel Agency,0,Online,18,27,ASIA,No,Customised Plan,0
+31,EPX,Travel Agency,0,Online,102,18,ASIA,No,Cancellation Plan,0
+52,C2B,Airlines,54,Online,367,216,ASIA,Yes,Silver Plan,5227
+36,EPX,Travel Agency,0,Online,27,25,ASIA,No,Customised Plan,0
+52,C2B,Airlines,6,Online,15,15,ASIA,No,Bronze Plan,0
+67,EPX,Travel Agency,0,Online,21,10,ASIA,No,Cancellation Plan,0
+33,CWT,Travel Agency,17.82,Online,31,29.7,ASIA,No,Customised Plan,0
+35,C2B,Airlines,4.5,Online,29,18,ASIA,Yes,Bronze Plan,4539
+28,C2B,Airlines,13.75,Online,6,55,ASIA,No,Gold Plan,0
+57,C2B,Airlines,8.38,Online,32,33.5,ASIA,Yes,Bronze Plan,4998
+36,EPX,Travel Agency,0,Online,8,10,ASIA,No,Cancellation Plan,0
+22,C2B,Airlines,5.88,Online,12,23.5,ASIA,Yes,Bronze Plan,4515
+29,CWT,Travel Agency,11.88,Online,37,19.8,Americas,Yes,Customised Plan,4307
+36,EPX,Travel Agency,0,Online,93,20,ASIA,Yes,Customised Plan,4063
+40,CWT,Travel Agency,210.21,Online,368,323.4,Americas,No,Gold Plan,0
+63,C2B,Airlines,11.75,Online,16,47,ASIA,Yes,Bronze Plan,4865
+37,C2B,Airlines,54,Online,366,216,ASIA,Yes,Silver Plan,5382
+36,EPX,Travel Agency,0,Online,10,28,ASIA,No,Customised Plan,0
+19,CWT,Travel Agency,10.5,Offline,32,30,ASIA,No,Customised Plan,0
+35,C2B,Airlines,12,Online,34,48,ASIA,No,Bronze Plan,0
+47,EPX,Travel Agency,0,Online,3,33,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,25,17,ASIA,No,Cancellation Plan,0
+36,EPX,Travel Agency,0,Online,2,10,ASIA,No,Cancellation Plan,0
+39,JZI,Airlines,11.55,Online,60,33,ASIA,No,Bronze Plan,0
+26,C2B,Airlines,6.75,Online,8,27,ASIA,Yes,Bronze Plan,4650
+36,EPX,Travel Agency,0,Online,19,72,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,63,23,ASIA,Yes,Customised Plan,4108
+36,EPX,Travel Agency,0,Online,16,17,ASIA,No,Cancellation Plan,0
+28,C2B,Airlines,5.25,Online,13,21,ASIA,Yes,Bronze Plan,4983
+57,CWT,Travel Agency,35.64,Online,33,59.4,Americas,No,Customised Plan,0
+38,C2B,Airlines,6,Online,34,15,ASIA,No,Bronze Plan,0
+20,C2B,Airlines,8.81,Online,33,35.25,ASIA,Yes,Bronze Plan,4642
+36,EPX,Travel Agency,0,Online,4,20,ASIA,No,Customised Plan,0
+33,C2B,Airlines,4,Online,8,16,ASIA,No,Bronze Plan,0
+53,EPX,Travel Agency,0,Online,13,21,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,41,72,ASIA,No,Cancellation Plan,0
+30,CWT,Travel Agency,17.82,Online,20,0,ASIA,No,Customised Plan,0
+28,EPX,Travel Agency,0,Online,42,58,Americas,No,Cancellation Plan,0
+54,JZI,Airlines,20.3,Online,33,58,Americas,No,Bronze Plan,0
+60,JZI,Airlines,7.7,Online,39,22,ASIA,No,Bronze Plan,0
+42,C2B,Airlines,36,Online,24,144,ASIA,Yes,Silver Plan,5230
+21,EPX,Travel Agency,0,Online,81,112,Americas,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,10,68,EUROPE,No,Cancellation Plan,0
+30,EPX,Travel Agency,0,Online,105,19.87,ASIA,Yes,Customised Plan,4307
+36,EPX,Travel Agency,0,Online,28,10,EUROPE,Yes,Cancellation Plan,3869
+23,C2B,Airlines,3.38,Online,13,13.5,ASIA,No,Bronze Plan,0
+27,C2B,Airlines,5.75,Online,12,23,ASIA,Yes,Bronze Plan,4667
+33,EPX,Travel Agency,0,Online,3,39,ASIA,No,Cancellation Plan,0
+45,C2B,Airlines,83.25,Online,373,333,ASIA,Yes,Gold Plan,5977
+31,CWT,Travel Agency,23.76,Online,9,0,ASIA,No,Customised Plan,0
+55,CWT,Travel Agency,23.76,Online,8,39.6,Americas,No,Customised Plan,0
+34,C2B,Airlines,63.21,Online,376,252.85,ASIA,Yes,Silver Plan,5114
+46,CWT,Travel Agency,11.88,Online,30,19.8,ASIA,No,Customised Plan,0
+25,C2B,Airlines,5.88,Online,8,23.5,ASIA,Yes,Bronze Plan,4652
+36,EPX,Travel Agency,0,Online,1,20,ASIA,No,Customised Plan,0
+34,EPX,Travel Agency,0,Online,34,19,ASIA,Yes,Cancellation Plan,3507
+36,EPX,Travel Agency,0,Online,154,147,EUROPE,No,Customised Plan,0
+16,C2B,Airlines,15,Online,15,60,ASIA,Yes,Bronze Plan,4728
+36,EPX,Travel Agency,0,Online,18,36,ASIA,Yes,Customised Plan,4045
+35,EPX,Travel Agency,0,Online,26,20,ASIA,No,Customised Plan,0
+51,EPX,Travel Agency,0,Online,2,20,ASIA,No,Customised Plan,0
+29,C2B,Airlines,48.3,Online,381,193.2,ASIA,Yes,Silver Plan,5457
+28,CWT,Travel Agency,11.88,Online,389,19.8,ASIA,No,Customised Plan,0
+36,EPX,Travel Agency,0,Online,234,10,ASIA,No,Cancellation Plan,0
+27,C2B,Airlines,71.85,Online,416,287.4,ASIA,Yes,Gold Plan,5959
+28,CWT,Travel Agency,166.53,Online,364,256.2,Americas,Yes,Gold Plan,5534
+35,C2B,Airlines,13.5,Online,5,54,ASIA,No,Gold Plan,0
+36,EPX,Travel Agency,0,Online,54,28,ASIA,No,Customised Plan,0
+34,C2B,Airlines,7.64,Online,39,30.55,ASIA,Yes,Bronze Plan,4547
+47,JZI,Airlines,11.55,Online,15,33,ASIA,No,Bronze Plan,0
